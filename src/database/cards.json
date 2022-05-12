@@ -1,0 +1,24 @@
+{
+    "common":{
+        "010102":{
+            "id":"010102",
+            "name":"Mix de Soirée",
+            "collection":"Halloween",
+            "state":"Original",
+            "scrap":10,
+            "img":"https://media.discordapp.net/attachments/879487467739299890/955188407489953792/MixSoiree.png",
+            "rarity":"Common"
+        }
+    },
+    "funny":{
+    },
+    "legendary":{
+    },
+    "recomposed":{
+    },
+    "memories":{
+    },
+    "classified":{
+    },
+    "nft":{}
+}
