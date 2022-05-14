@@ -23,7 +23,7 @@
             "name": "Nationalisme",
             "collection": "Photos Génantes",
             "state": "Originale",
-            "scrap": 15,
+            "scrap": 10,
             "img": "https://media.discordapp.net/attachments/947917639840329760/974204835366850560/Nationalisme.png",
             "rarity": "Common"
         },
@@ -41,7 +41,7 @@
             "name": "Catastrophe Capilaire",
             "collection": "Photos Génantes",
             "state": "Originale",
-            "scrap": 15,
+            "scrap": 10,
             "img": "https://media.discordapp.net/attachments/947917639840329760/974204836994252810/CatastropheCapilaire.png",
             "rarity": "Common"
         },
@@ -86,8 +86,206 @@
             "name": "Goomed",
             "collection": "Photos Génantes",
             "state": "Originale",
-            "scrap": 15,
+            "scrap": 10,
             "img": "https://media.discordapp.net/attachments/947917639840329760/973972711040761916/Goumed.png",
+            "rarity": "Common"
+        },
+        "32": {
+            "id": 32,
+            "name": "WaitingForPermis",
+            "collection": "En voiture",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975093899968262184/WaitingForPermis.png",
+            "rarity": "Common"
+        },
+        "33": {
+            "id": 33,
+            "name": "Break",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975093900542902293/Break.png",
+            "rarity": "Common"
+        },
+        "36": {
+            "id": 36,
+            "name": "DoMac",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975093901495009290/DoMac.png",
+            "rarity": "Common"
+        },
+        "38": {
+            "id": 38,
+            "name": "HapiFeet",
+            "collection": "Photos Génantes",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975093902208028762/HapiFeet.png",
+            "rarity": "Common"
+        },
+        "39": {
+            "id": 39,
+            "name": "HapiSleep",
+            "collection": "Soirée Trop Arrosée",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975093905366331392/HapiSleep.png",
+            "rarity": "Common"
+        },
+        "47": {
+            "id": 47,
+            "name": "NEGIMA",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094086484770876/NEGIMA.png",
+            "rarity": "Common"
+        },
+        "49": {
+            "id": 49,
+            "name": "Saucissoned",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094086958735420/Saucissoned.png",
+            "rarity": "Common"
+        },
+        "50": {
+            "id": 50,
+            "name": "Spectateurs Maillette",
+            "collection": "NSI",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094143602810910/SpectateursMaillette.png",
+            "rarity": "Common"
+        },
+        "51": {
+            "id": 51,
+            "name": "La K de Jo",
+            "collection": "En voiture",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094143829295154/LaKDeJo.png",
+            "rarity": "Common"
+        },
+        "53": {
+            "id": 53,
+            "name": "Pierre De Plage",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094144324210718/PierreDePlage.png",
+            "rarity": "Common"
+        },
+        "54": {
+            "id": 54,
+            "name": "Red Wall",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094144584278096/RedWall.png",
+            "rarity": "Common"
+        },
+        "55": {
+            "id": 55,
+            "name": "Poc !",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094144835911780/POC.png",
+            "rarity": "Common"
+        },
+        "56": {
+            "id": 56,
+            "name": "Kikou",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094145066614935/KiKou.png",
+            "rarity": "Common"
+        },
+        "57": {
+            "id": 57,
+            "name": "Mamie Hugo",
+            "collection": "Hugo Perruquet",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094145263738930/MamieHugo.png",
+            "rarity": "Common"
+        },
+        "63": {
+            "id": 63,
+            "name": "Supporters De Toujours",
+            "collection": "Volley",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094144571682866/SupportersDeToujours.png",
+            "rarity": "Common"
+        },
+        "64": {
+            "id": 64,
+            "name": "Hapi BB",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094144827527228/HapiBB.png",
+            "rarity": "Common"
+        },
+        "65": {
+            "id": 65,
+            "name": "La Licorne, Le Roux et Le Pédo",
+            "collection": "Folie en cours",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094145100181535/LaLicorneLeRouxEtLePedo.png",
+            "rarity": "Common"
+        },
+        "68": {
+            "id": 68,
+            "name": "Le Blond, Le Truc et L'Abrutissant",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094145804820591/LeBlondLeTrucEtLAbrutissant.png",
+            "rarity": "Common"
+        },
+        "69": {
+            "id": 69,
+            "name": "Toc Toc",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094146060652654/TocToc.png",
+            "rarity": "Common"
+        },
+        "71": {
+            "id": 71,
+            "name": "Plouf",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094153430040587/Plouf.png",
+            "rarity": "Common"
+        },
+        "72": {
+            "id": 72,
+            "name": "Pied Volant",
+            "collection": "Paris",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094153694294066/PiedVolant.png",
+            "rarity": "Common"
+        },
+        "80": {
+            "id": 80,
+            "name": "uwu",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975093900274458667/uwu.png",
             "rarity": "Common"
         }
     },
@@ -97,7 +295,7 @@
             "name": "Hugo Le Nu",
             "collection": "Photos Génantes",
             "state": "Originale",
-            "scrap": 30,
+            "scrap": 25,
             "img": "https://media.discordapp.net/attachments/947917639840329760/973972711321796718/HugoLeNu.png",
             "rarity": "Funny"
         },
@@ -106,7 +304,7 @@
             "name": "1 second before disaster",
             "collection": "/",
             "state": "Originale",
-            "scrap": 30,
+            "scrap": 25,
             "img": "https://cdn.discordapp.com/attachments/947917639840329760/972931558535204944/trim.1CD8A57E-4C94-4D0A-B748-870C415FAAF4.mov",
             "rarity": "Funny"
         },
@@ -115,7 +313,7 @@
             "name": "RepasThaï",
             "collection": "/",
             "state": "Originale",
-            "scrap": 50,
+            "scrap": 25,
             "img": "https://media.discordapp.net/attachments/947917639840329760/973972750358167562/RepasThai.png",
             "rarity": "Funny"
         },
@@ -124,7 +322,7 @@
             "name": "Maxime-Saucisson",
             "collection": "/",
             "state": "Originale",
-            "scrap": 40,
+            "scrap": 25,
             "img": "https://media.discordapp.net/attachments/947917639840329760/973972749552857129/MaximeSaucisson.png",
             "rarity": "Funny"
         },
@@ -142,8 +340,98 @@
             "name": "McDo Pré-Bac",
             "collection": "Bac",
             "state": "Originale",
-            "scrap": 30,
+            "scrap": 25,
             "img": "https://media.discordapp.net/attachments/947917639840329760/974204835610116116/McDoPreBac.png",
+            "rarity": "Funny"
+        },
+        "31": {
+            "id": 31,
+            "name": "Watcha",
+            "collection": "Hugo Perruquet",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975093899649490944/Watcha.png",
+            "rarity": "Funny"
+        },
+        "34": {
+            "id": 34,
+            "name": "Dure Soirée",
+            "collection": "Soirée Trop Arrosée",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975093900891009164/DureSoiree.png",
+            "rarity": "Funny"
+        },
+        "35": {
+            "id": 35,
+            "name": "Here we... Oh...",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975093901255905341/HereWeOh.png",
+            "rarity": "Funny"
+        },
+        "44": {
+            "id": 44,
+            "name": "El Patronito",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094085687840849/ElPatronito.png",
+            "rarity": "Funny"
+        },
+        "45": {
+            "id": 45,
+            "name": "PUNI !",
+            "collection": "NSI",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094085947908146/Puni.png",
+            "rarity": "Funny"
+        },
+        "46": {
+            "id": 46,
+            "name": "La nature et les potes",
+            "collection": "Volley",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094086220546108/LaNatureEtLesPotes.png",
+            "rarity": "Funny"
+        },
+        "61": {
+            "id": 61,
+            "name": "POV : Send Nudes",
+            "collection": "Photos Génantes",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094144110325800/POVSendNudes.png",
+            "rarity": "Funny"
+        },
+        "62": {
+            "id": 62,
+            "name": "Jo Pour Un Pote",
+            "collection": "En voiture",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094144336810045/JoPourUnPote.png",
+            "rarity": "Funny"
+        },
+        "66": {
+            "id": 66,
+            "name": "Cha Va ?",
+            "collection": "Hugo Perruquet",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094145322459206/ChaVa.png",
+            "rarity": "Funny"
+        },
+        "75": {
+            "id": 75,
+            "name": "Heineken KO",
+            "collection": "Soirée Trop Arrosée",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094154478624828/HeinekenKO.png",
             "rarity": "Funny"
         }
     },
@@ -153,7 +441,7 @@
             "name": "Jo l'Taxi",
             "collection": "En voiture",
             "state": "Originale",
-            "scrap": 60,
+            "scrap": 50,
             "img": "https://media.discordapp.net/attachments/947917639840329760/973972748701421638/Joltaxi.png",
             "rarity": "Legendary"
         },
@@ -162,7 +450,7 @@
             "name": "Indre-Et-Bière",
             "collection": "Bord de Loire",
             "state": "Originale",
-            "scrap": 60,
+            "scrap": 50,
             "img": "https://media.discordapp.net/attachments/947917639840329760/973972708742287430/IndreEtBiere.png",
             "rarity": "Legendary"
         },
@@ -171,8 +459,53 @@
             "name": "Maillette Top 3",
             "collection": "NSI",
             "state": "Originale",
-            "scrap": 60,
+            "scrap": 50,
             "img": "https://media.discordapp.net/attachments/947917639840329760/973972749296992307/MailletteTop3.png",
+            "rarity": "Legendary"
+        },
+        "40": {
+            "id": 40,
+            "name": "Partouz... Ou Pas",
+            "collection": "Soirée Trop Arrosée",
+            "state": "Originale",
+            "scrap": 50,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094084698005514/PartouzeOuPas.png",
+            "rarity": "Legendary"
+        },
+        "41": {
+            "id": 41,
+            "name": "Ptite Binouze ?",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 50,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094084937089114/PtiteBinouze.png",
+            "rarity": "Legendary"
+        },
+        "52": {
+            "id": 52,
+            "name": "POV : Je l'ai tué",
+            "collection": "Soirée Trop Arrosée",
+            "state": "Originale",
+            "scrap": 50,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094144055791636/POVJeLaiTue.png",
+            "rarity": "Legendary"
+        },
+        "60": {
+            "id": 60,
+            "name": "Here To Win",
+            "collection": "Volley",
+            "state": "Originale",
+            "scrap": 50,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094143888003182/HereToWin.png",
+            "rarity": "Legendary"
+        },
+        "67": {
+            "id": 67,
+            "name": "Tu kiffes ? Moi Aussi !",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 50,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094145569914921/TuKiffesMoiAussi.png",
             "rarity": "Legendary"
         }
     },
@@ -182,7 +515,7 @@
             "name": "Frères de Paris",
             "collection": "Paris",
             "state": "Originale",
-            "scrap": 50,
+            "scrap": 75,
             "img": "https://media.discordapp.net/attachments/947917639840329760/974204837250101258/FrereDeParis.png",
             "rarity": "Recomposed"
         },
@@ -191,7 +524,7 @@
             "name": "V for victory",
             "collection": "Paris",
             "state": "Originale",
-            "scrap": 50,
+            "scrap": 75,
             "img": "https://media.discordapp.net/attachments/947917639840329760/974204835954065438/VForVictory.png",
             "rarity": "Recomposed"
         },
@@ -200,7 +533,7 @@
             "name": "Souvenir de Paris",
             "collection": "Paris",
             "state": "Originale",
-            "scrap": 60,
+            "scrap": 75,
             "img": "https://media.discordapp.net/attachments/947917639840329760/973972750647570534/SouvenirDeParis.png",
             "rarity": "Recomposed"
         },
@@ -209,7 +542,7 @@
             "name": "Kévin",
             "collection": "Paris",
             "state": "Originale",
-            "scrap": 50,
+            "scrap": 75,
             "img": "https://media.discordapp.net/attachments/947917639840329760/974204834658025543/Kevin.png",
             "rarity": "Recomposed"
         },
@@ -218,8 +551,53 @@
             "name": "Pls don't touch",
             "collection": "Paris",
             "state": "Originale",
-            "scrap": 50,
+            "scrap": 75,
             "img": "https://media.discordapp.net/attachments/947917639840329760/974204836277006376/PlsDontTouch.png",
+            "rarity": "Recomposed"
+        },
+        "48": {
+            "id": 48,
+            "name": "Opération Alpha Fliced !",
+            "collection": "Opération Alpha",
+            "state": "Originale",
+            "scrap": 75,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094086723850270/OperationAlphaFliced.png",
+            "rarity": "Recomposed"
+        },
+        "76": {
+            "id": 76,
+            "name": "Alpha Arrivé",
+            "collection": "Opération Alpha",
+            "state": "Originale",
+            "scrap": 75,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094154784804925/AlphaArrive.png",
+            "rarity": "Recomposed"
+        },
+        "77": {
+            "id": 77,
+            "name": "Alpha Dans Point B",
+            "collection": "Opération Alpha",
+            "state": "Originale",
+            "scrap": 75,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094155091009536/AlphaDansPointB.png",
+            "rarity": "Recomposed"
+        },
+        "78": {
+            "id": 78,
+            "name": "Alpha Fliced",
+            "collection": "Opération Alpha",
+            "state": "Originale",
+            "scrap": 75,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094155351040082/AlphaFliced.png",
+            "rarity": "Recomposed"
+        },
+        "79": {
+            "id": 79,
+            "name": "Alpha Dans Point T",
+            "collection": "Opération Alpha",
+            "state": "Originale",
+            "scrap": 75,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094155648827402/AlphaDansPointT.png",
             "rarity": "Recomposed"
         }
     },
@@ -229,7 +607,7 @@
             "name": "Le Crew Post Soirée",
             "collection": "Soirée Trop Arrosée",
             "state": "Originale",
-            "scrap": 70,
+            "scrap": 100,
             "img": "https://media.discordapp.net/attachments/947917639840329760/973972748974047292/LeCrouPostSoiree.png",
             "rarity": "Memories"
         },
@@ -238,7 +616,7 @@
             "name": "Explications SoonTM",
             "collection": "Cadeaux 18 Ans",
             "state": "Originale",
-            "scrap": 125,
+            "scrap": 100,
             "img": "https://media.discordapp.net/attachments/947917639840329760/973972710755532840/ExplicationsSoonTM.png",
             "rarity": "Memories"
         },
@@ -256,7 +634,7 @@
             "name": "BacBlancHapied",
             "collection": "Bac",
             "state": "Originale",
-            "scrap": 150,
+            "scrap": 100,
             "img": "https://media.discordapp.net/attachments/947917639840329760/973972710046703616/BacBlancHapied.png",
             "rarity": "Memories"
         },
@@ -268,6 +646,42 @@
             "scrap": 100,
             "img": "https://media.discordapp.net/attachments/947917639840329760/973972710256443462/Depart_alpha.png",
             "rarity": "Memories"
+        },
+        "42": {
+            "id": 42,
+            "name": "MathExperted",
+            "collection": "Soirée Trop Arrosée",
+            "state": "Originale",
+            "scrap": 100,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094085184520252/MathExperted.png",
+            "rarity": "Memories"
+        },
+        "58": {
+            "id": 58,
+            "name": "Couched (Blink)",
+            "collection": "Soirée Trop Arrosée",
+            "state": "Originale",
+            "scrap": 100,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094145460895784/Couched.png",
+            "rarity": "Memories"
+        },
+        "73": {
+            "id": 73,
+            "name": "Noice",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 100,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094153916596295/Noice.png",
+            "rarity": "Memories"
+        },
+        "74": {
+            "id": 74,
+            "name": "Rentre Chez Toi",
+            "collection": "Soirée Trop Arrosée",
+            "state": "Originale",
+            "scrap": 100,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094154185048144/RentreChezToi.png",
+            "rarity": "Memories"
         }
     },
     "classified": {
@@ -276,7 +690,7 @@
             "name": "Virgile Raptor",
             "collection": "Soirée Trop Arrosée",
             "state": "Originale",
-            "scrap": 250,
+            "scrap": 200,
             "img": "https://cdn.discordapp.com/attachments/947917639840329760/972935680038690866/trim.C6975F05-3EB7-4C35-896C-19F431F0B31D.mov",
             "rarity": "Classified"
         },
@@ -287,6 +701,42 @@
             "state": "Originale",
             "scrap": 200,
             "img": "https://media.discordapp.net/attachments/947917639840329760/973985749655494656/City.png",
+            "rarity": "Classified"
+        },
+        "37": {
+            "id": 37,
+            "name": "JagerunSleep",
+            "collection": "Soirée Trop Arrosée",
+            "state": "Originale",
+            "scrap": 200,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975093901989904475/JagerunSleep.png",
+            "rarity": "Classified"
+        },
+        "43": {
+            "id": 43,
+            "name": "Bisous",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 200,
+            "img": "https://images-ext-1.discordapp.net/external/hWyuTf-HSYoYMVhWacI4vTW_9rK7Ta13w5eOQ3f5K0o/https/media.discordapp.net/attachments/947917639840329760/975094085461352518/Bisous.png",
+            "rarity": "Classified"
+        },
+        "59": {
+            "id": 59,
+            "name": "Clio",
+            "collection": "Soirée Trop Arrosée",
+            "state": "Originale",
+            "scrap": 200,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094145687380038/CLIO.png",
+            "rarity": "Classified"
+        },
+        "70": {
+            "id": 70,
+            "name": "Longue Soirée",
+            "collection": "Soirée Trop Arrosée",
+            "state": "Originale",
+            "scrap": 200,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094153111302144/LongueSoiree.png",
             "rarity": "Classified"
         }
     }
