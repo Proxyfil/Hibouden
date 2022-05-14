@@ -47,11 +47,25 @@ bot.on('interactionCreate', async interaction =>{
             if(interaction.commandName == "roll"){
                 await interaction.deferReply({ephemeral: true});
 
-                let user = fs.readFileSync('./src/database/users/'+interaction.member.user.id+'.json')
+                let user = {}
+
+                let users_db = fs.readFileSync('./src/database/users.json', 'utf8');
+                users_db = JSON.parse(users_db)
+
+                if(!users_db.includes(interaction.member.user.id)){
+                    users_db.push(interaction.member.user.id)
+                    fs.writeFile('./src/database/users.json', JSON.stringify(users_db),function(){});
+                    fs.writeFile('./src/database/users/'+interaction.member.id+'.json', JSON.stringify({"name":interaction.user.username,"role":"User","inventory":[],"scrap":0,"next_roll":0}),function(){});
+                    user = {"name":interaction.user.username,"role":"User","inventory":[],"scrap":0,"next_roll":0}
+                }
+                else{
+                    user = fs.readFileSync('./src/database/users/'+interaction.member.user.id+'.json')
+                }
+
                 user = JSON.parse(user)
 
                 if(user['next_roll'] > Date.now()){
-                    await interaction.editReply({embeds: [cmd_debug.h_error('You can\'t roll again... wait '+((user['next_roll']-Date.now())/1000)+' seconds.','002')]})
+                    await interaction.editReply({embeds: [cmd_debug.h_error('You can\'t roll again... wait '+(Math.round((user['next_roll']-Date.now())/1000/60,1))+' minutes.','002')]})
                     return
                 }
 
@@ -95,6 +109,12 @@ bot.on('interactionCreate', async interaction =>{
 
             else if(interaction.commandName == "see_card"){
                 await interaction.deferReply();
+
+                if(!super_admins.includes(interaction.member.user.id)){
+                    interaction.editReply({embeds:[cmd_debug.h_error("You can't use this command","003")]})
+                    return
+                }
+
                 let args = interaction.options.data;
 
                 let cards_by_rarity = fs.readFileSync('./src/database/cards.json')
@@ -150,10 +170,9 @@ bot.on('interactionCreate', async interaction =>{
 
 //On Error
 process.on('unhandledRejection', async (error, promise) => {
-    const logs_channel = bot.channels.cache.find(channel => channel.id === "924675846843793409")
+    const logs_channel = bot.channels.cache.find(channel => channel.id === "974750922347524127")
     let log = await cmd_debug.error("Request failed", error)
     logs_channel.send({ embeds: [log] })
-    logs_channel.send('<@&847847768365989988>')
 });
 
 bot.login(token);

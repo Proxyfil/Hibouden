@@ -1,5 +1,4 @@
 const { Client, Message, MessageEmbed, MessageAttachment, MessageActionRow, MessageButton } = require('discord.js');
-const users_db = require('../../database/users.json')
 const { createCanvas, loadImage, registerFont } = require('canvas')
 const fs = require('fs');
 
@@ -7,8 +6,10 @@ registerFont('./src/ressources/fonts/corpo.otf', { family: 'Corporate' }) //Add 
 
 module.exports = {
     profile: function(interaction,target){
+        let users_db = fs.readFileSync('./src/database/users.json', 'utf8');
+
         let user = {}
-        if(!users_db.includes(interaction.member.user.id)){
+        if(!users_db.includes(target)){
             user = {"name":target,"role":"User","inventory":[],"scrap":0,"next_roll":0}
         }else{
             user = require('../../database/users/'+target+'.json')
@@ -27,8 +28,8 @@ module.exports = {
             .setTitle('Profil de '+user["name"])
             .setDescription('Role : '+user["role"])
             .addFields(
-                {"name":`Nombre de cartes : ${user['inventory'].length}`,"value":"---------"},
-                {"name":`Nombre de scrap : ${user['scrap']}`,"value":"---------"}
+                {"name":`🃏 Nombre de cartes : ${user['inventory'].length}`,"value":"---------"},
+                {"name":`:coin: Nombre de scrap : ${user['scrap']}`,"value":"---------"}
             )
 
         let embeds = [embed]
