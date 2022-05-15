@@ -60,9 +60,8 @@ bot.on('interactionCreate', async interaction =>{
                 }
                 else{
                     user = fs.readFileSync('./src/database/users/'+interaction.member.user.id+'.json')
+                    user = JSON.parse(user)
                 }
-
-                user = JSON.parse(user)
 
                 if(user['next_roll'] > Date.now()){
                     await interaction.editReply({embeds: [cmd_debug.h_error('You can\'t roll again... wait '+(Math.round((user['next_roll']-Date.now())/1000/60,1))+' minutes.','002')]})
@@ -138,7 +137,7 @@ bot.on('interactionCreate', async interaction =>{
     }
     else if (interaction.customId == "pick_1" || interaction.customId == "pick_2" || interaction.customId == "pick_3") {
         await interaction.deferReply();
-        let data = fs.readFileSync('./src/database/users/'+interaction.member.id+'.json', 'utf8');
+        let data = fs.readFileSync('./src/database/rolls/'+interaction.member.id+'.json', 'utf8');
         data = JSON.parse(data)
 
         let users_db = fs.readFileSync('./src/database/users.json', 'utf8');
@@ -159,7 +158,6 @@ bot.on('interactionCreate', async interaction =>{
             else{
                 user['inventory'].push(data[parseInt(interaction.customId.replace('pick_',''))-1]['id'])
             }
-            fs.unlink('./src/database/users/'+interaction.member.id+'.json',function(){})
             fs.writeFile('./src/database/users/'+interaction.member.id+'.json', JSON.stringify(user),function(){});
         });
 
