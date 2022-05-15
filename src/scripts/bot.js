@@ -138,7 +138,7 @@ bot.on('interactionCreate', async interaction =>{
     }
     else if (interaction.customId == "pick_1" || interaction.customId == "pick_2" || interaction.customId == "pick_3") {
         await interaction.deferReply();
-        let data = fs.readFileSync('./src/database/rolls/'+interaction.member.id+'.json', 'utf8');
+        let data = fs.readFileSync('./src/database/users/'+interaction.member.id+'.json', 'utf8');
         data = JSON.parse(data)
 
         let users_db = fs.readFileSync('./src/database/users.json', 'utf8');
