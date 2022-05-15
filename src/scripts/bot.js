@@ -121,7 +121,7 @@ bot.on('interactionCreate', async interaction =>{
                     return
                 }
 
-                if(!user["inventory"].includes(parseInt(args[0].value))){
+                if(!user["inventory"].includes(parseInt(args[0].value)) || super_admins.includes(interaction.member.user.id)){
                     interaction.editReply({embeds:[cmd_debug.h_error("You can't use this command","003")]})
                     return
                 }
