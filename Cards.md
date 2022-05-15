@@ -68,7 +68,7 @@
 | Watcha | Hugo Perruquet | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image]() | 31
 | Dure Soirée | Soirée Trop Arrosée | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image]() | 34
 | Here we... Oh... | / | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image]() | 35
-| HapiFeet | Photos Génantes | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image]() | 38
+| Amongus | Photos Génantes | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image]() | 38
 | El Patronito | / | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image]() | 44
 | PUNI ! | NSI | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image]() | 45
 | La nature et les potes | Volley | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image]() | 46
