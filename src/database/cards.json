@@ -45,15 +45,6 @@
             "img": "https://media.discordapp.net/attachments/947917639840329760/974204836994252810/CatastropheCapilaire.png",
             "rarity": "Common"
         },
-        "5": {
-            "id": 5,
-            "name": "MiÉtéMiHiver",
-            "collection": "/",
-            "state": "Originale",
-            "scrap": 10,
-            "img": "https://media.discordapp.net/attachments/947917639840329760/973972749796122644/MiEteMiHiver.png",
-            "rarity": "Common"
-        },
         "6": {
             "id": 6,
             "name": "PizzaHugo",
@@ -117,15 +108,6 @@
             "img": "https://media.discordapp.net/attachments/947917639840329760/975093901495009290/DoMac.png",
             "rarity": "Common"
         },
-        "38": {
-            "id": 38,
-            "name": "HapiFeet",
-            "collection": "Photos Génantes",
-            "state": "Originale",
-            "scrap": 10,
-            "img": "https://media.discordapp.net/attachments/947917639840329760/975093902208028762/HapiFeet.png",
-            "rarity": "Common"
-        },
         "39": {
             "id": 39,
             "name": "HapiSleep",
@@ -133,15 +115,6 @@
             "state": "Originale",
             "scrap": 10,
             "img": "https://media.discordapp.net/attachments/947917639840329760/975093905366331392/HapiSleep.png",
-            "rarity": "Common"
-        },
-        "47": {
-            "id": 47,
-            "name": "NEGIMA",
-            "collection": "/",
-            "state": "Originale",
-            "scrap": 10,
-            "img": "https://media.discordapp.net/attachments/947917639840329760/975094086484770876/NEGIMA.png",
             "rarity": "Common"
         },
         "49": {
@@ -160,15 +133,6 @@
             "state": "Originale",
             "scrap": 10,
             "img": "https://media.discordapp.net/attachments/947917639840329760/975094143602810910/SpectateursMaillette.png",
-            "rarity": "Common"
-        },
-        "51": {
-            "id": 51,
-            "name": "La K de Jo",
-            "collection": "En voiture",
-            "state": "Originale",
-            "scrap": 10,
-            "img": "https://media.discordapp.net/attachments/947917639840329760/975094143829295154/LaKDeJo.png",
             "rarity": "Common"
         },
         "53": {
@@ -270,15 +234,6 @@
             "img": "https://media.discordapp.net/attachments/947917639840329760/975094153430040587/Plouf.png",
             "rarity": "Common"
         },
-        "72": {
-            "id": 72,
-            "name": "Pied Volant",
-            "collection": "Paris",
-            "state": "Originale",
-            "scrap": 10,
-            "img": "https://media.discordapp.net/attachments/947917639840329760/975094153694294066/PiedVolant.png",
-            "rarity": "Common"
-        },
         "80": {
             "id": 80,
             "name": "uwu",
@@ -290,6 +245,15 @@
         }
     },
     "funny": {
+        "5": {
+            "id": 5,
+            "name": "MiÉtéMiHiver",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/973972749796122644/MiEteMiHiver.png",
+            "rarity": "Funny"
+        },
         "10": {
             "id": 10,
             "name": "Hugo Le Nu",
@@ -371,6 +335,15 @@
             "img": "https://media.discordapp.net/attachments/947917639840329760/975093901255905341/HereWeOh.png",
             "rarity": "Funny"
         },
+        "38": {
+            "id": 38,
+            "name": "HapiFeet",
+            "collection": "Photos Génantes",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975093902208028762/HapiFeet.png",
+            "rarity": "Funny"
+        },
         "44": {
             "id": 44,
             "name": "El Patronito",
@@ -398,6 +371,15 @@
             "img": "https://media.discordapp.net/attachments/947917639840329760/975094086220546108/LaNatureEtLesPotes.png",
             "rarity": "Funny"
         },
+        "47": {
+            "id": 47,
+            "name": "NEGIMA",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094086484770876/NEGIMA.png",
+            "rarity": "Funny"
+        },
         "61": {
             "id": 61,
             "name": "POV : Send Nudes",
@@ -423,6 +405,15 @@
             "state": "Originale",
             "scrap": 25,
             "img": "https://media.discordapp.net/attachments/947917639840329760/975094145322459206/ChaVa.png",
+            "rarity": "Funny"
+        },
+        "72": {
+            "id": 72,
+            "name": "Pied Volant",
+            "collection": "Paris",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094153694294066/PiedVolant.png",
             "rarity": "Funny"
         },
         "75": {
@@ -599,6 +590,96 @@
             "scrap": 75,
             "img": "https://media.discordapp.net/attachments/947917639840329760/975094155648827402/AlphaDansPointT.png",
             "rarity": "Recomposed"
+        },
+        "81": {
+            "id": 81,
+            "name": "Goûter à Plume",
+            "collection": "Tentative De Meurtre",
+            "state": "Originale",
+            "scrap": 75,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975321444324102165/GouterPlume.png",
+            "rarity": "Recomposed"
+        },
+        "82": {
+            "id": 82,
+            "name": "Salut BG !",
+            "collection": "Bac",
+            "state": "Originale",
+            "scrap": 75,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975321444621877328/SalutBG.png",
+            "rarity": "Recomposed"
+        },
+        "83": {
+            "id": 83,
+            "name": "TelephoneAuVolant",
+            "collection": "Bac",
+            "state": "Originale",
+            "scrap": 75,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975321445070696478/TelephoneAuVolant.png",
+            "rarity": "Recomposed"
+        },
+        "84": {
+            "id": 84,
+            "name": "Y'a Des Noms Qui Se Perdent",
+            "collection": "Bac",
+            "state": "Originale",
+            "scrap": 75,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975321445326540800/YaDesNomsQuiSePerdent.png",
+            "rarity": "Recomposed"
+        },
+        "85": {
+            "id": 85,
+            "name": "2 Geek A L'Air Libre",
+            "collection": "Bac",
+            "state": "Originale",
+            "scrap": 75,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975321445636898866/2GeekALAirLibre.png",
+            "rarity": "Recomposed"
+        },
+        "86": {
+            "id": 86,
+            "name": "Coupez ça Monsieur !",
+            "collection": "Bac",
+            "state": "Originale",
+            "scrap": 75,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975321445863403540/CoupezCaMonsieur.png",
+            "rarity": "Recomposed"
+        },
+        "87": {
+            "id": 87,
+            "name": "Portons Plainte !",
+            "collection": "Tentative De Meurtre",
+            "state": "Originale",
+            "scrap": 75,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975321446194770002/PortonsPlainte.png",
+            "rarity": "Recomposed"
+        },
+        "88": {
+            "id": 88,
+            "name": "Devoir Civique Fait",
+            "collection": "Tentative De Meurtre",
+            "state": "Originale",
+            "scrap": 75,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975321446467395644/DevoirCiviqueFait.png",
+            "rarity": "Recomposed"
+        },
+        "89": {
+            "id": 89,
+            "name": "Commico",
+            "collection": "Tentative De Meurtre",
+            "state": "Originale",
+            "scrap": 75,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975321446748422184/Commico.png",
+            "rarity": "Recomposed"
+        },
+        "90": {
+            "id": 90,
+            "name": "POV : Aled",
+            "collection": "Tentative De Meurtre",
+            "state": "Originale",
+            "scrap": 75,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975321446974894100/POVAled.png",
+            "rarity": "Recomposed"
         }
     },
     "memories": {
@@ -654,6 +735,15 @@
             "state": "Originale",
             "scrap": 100,
             "img": "https://media.discordapp.net/attachments/947917639840329760/975094085184520252/MathExperted.png",
+            "rarity": "Memories"
+        },
+        "51": {
+            "id": 51,
+            "name": "La K de Jo",
+            "collection": "En voiture",
+            "state": "Originale",
+            "scrap": 100,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/975094143829295154/LaKDeJo.png",
             "rarity": "Memories"
         },
         "58": {
