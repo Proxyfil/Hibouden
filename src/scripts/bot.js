@@ -108,13 +108,23 @@ bot.on('interactionCreate', async interaction =>{
 
             else if(interaction.commandName == "see_card"){
                 await interaction.deferReply();
+                let args = interaction.options.data;
 
-                if(!super_admins.includes(interaction.member.user.id)){
+                let user = {}
+
+                try{
+                    user = fs.readFileSync('./src/database/users/'+interaction.member.user.id+'.json')
+                    user = JSON.parse(user)
+                }
+                catch{
                     interaction.editReply({embeds:[cmd_debug.h_error("You can't use this command","003")]})
                     return
                 }
 
-                let args = interaction.options.data;
+                if(!user["inventory"].includes(parseInt(args[0].value))){
+                    interaction.editReply({embeds:[cmd_debug.h_error("You can't use this command","003")]})
+                    return
+                }
 
                 let cards_by_rarity = fs.readFileSync('./src/database/cards.json')
                 cards_by_rarity = JSON.parse(cards_by_rarity)
