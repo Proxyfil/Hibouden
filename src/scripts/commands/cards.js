@@ -116,7 +116,12 @@ module.exports = {
 
         //End Building of Action Row
         interaction.editReply({ embeds: [embed], files: [attachment], components: [row], ephemeral: true});
-        interaction.followUp({ files: [attachment]})
+        
+        const embed2 = new MessageEmbed()
+            .setTitle(':game_die: Tirage de cartes :game_die:')
+            .setDescription(':arrow_right: Voici les 3 cartes que '+interaction.member.user.username+' a tiré.')
+        
+        interaction.followUp({ embeds: [embed2], files: [attachment]})
     },
     card_select: function(interaction,choice){
 
