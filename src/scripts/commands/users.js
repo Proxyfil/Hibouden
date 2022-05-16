@@ -12,7 +12,8 @@ module.exports = {
         if(!users_db.includes(target)){
             user = {"name":target,"role":"User","inventory":[],"scrap":0,"next_roll":0}
         }else{
-            user = require('../../database/users/'+target+'.json')
+            user = fs.readFileSync('../../database/users/'+target+'.json')
+            user = JSON.parse(user)
         }
 
         let cards_by_rarity = fs.readFileSync('./src/database/cards.json')
