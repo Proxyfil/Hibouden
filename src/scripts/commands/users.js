@@ -12,7 +12,7 @@ module.exports = {
         if(!users_db.includes(target)){
             user = {"name":target,"role":"User","inventory":[],"scrap":0,"next_roll":0}
         }else{
-            user = fs.readFileSync('../../database/users/'+target+'.json')
+            user = fs.readFileSync('./src/database/users/'+target+'.json')
             user = JSON.parse(user)
         }
 
