@@ -116,7 +116,7 @@ module.exports = {
 
         //End Building of Action Row
         interaction.editReply({ embeds: [embed], files: [attachment], components: [row], ephemeral: true});
-        interaction.followUp({ content: "Roll de "+interaction.member.user.username, files: [attachment]})
+        interaction.followUp({ files: [attachment]})
     },
     card_select: function(interaction,choice){
 
