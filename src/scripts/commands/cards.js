@@ -145,7 +145,7 @@ module.exports = {
         else{
             embed = new MessageEmbed()
                 .setTitle(interaction.member.user.username + ' as pris la carte : ' + choice['name'] + ' (id : '+choice['id']+')')
-                .setDescription('Il avait déjà cette carte, sa valeurlui a été transférée soit ' + choice['value'] + ' scraps !')
+                .setDescription('Il avait déjà cette carte, sa valeurlui a été transférée soit ' + choice['scrap'] + ' scraps !')
         }
         return embed
     },
