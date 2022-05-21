@@ -18,12 +18,6 @@ const reply = async (interaction, response) => {
     interaction.editReply({ embeds: [response]});
 }
 
-function random(min, max) {  
-    return Math.floor(
-        Math.random() * (max - min + 1) + min
-    )
-}
-
 //Start bot
 //cmdinit(bot);
 
@@ -78,7 +72,7 @@ bot.on('interactionCreate', async interaction =>{
                     cards_poll = [cards.pick_card("unsafe"),cards.pick_card("unsafe"),cards.pick_card("unsafe")]
                 }
 
-                cards.poll_embed(cards_poll,interaction) //Send poll of cards
+                cards.poll_embed(cards_poll,interaction,user["inventory"]) //Send poll of cards
 
                 fs.writeFile('./src/database/rolls/'+interaction.member.id+'.json',JSON.stringify(cards_poll), function(){});
                 user['next_roll'] = Date.now()+7200000
@@ -158,20 +152,23 @@ bot.on('interactionCreate', async interaction =>{
             fs.writeFile('./src/database/users.json', JSON.stringify(users_db),function(){});
             fs.writeFile('./src/database/users/'+interaction.member.id+'.json', JSON.stringify({"name":interaction.user.username,"role":"User","inventory":[],"scrap":0,"next_roll":0}),function(){});
         }
+        let action = ""
 
         fs.readFile('./src/database/users/'+interaction.member.id+'.json', (err,user) =>{
             user = JSON.parse(user)
 
             if(user['inventory'].includes(data[parseInt(interaction.customId.replace('pick_',''))-1]['id'])){
                 user['scrap'] = user['scrap']+data[parseInt(interaction.customId.replace('pick_',''))-1]['scrap']
+                action = "scrapped"
             }
             else{
                 user['inventory'].push(data[parseInt(interaction.customId.replace('pick_',''))-1]['id'])
+                action = "stored"
             }
             fs.writeFile('./src/database/users/'+interaction.member.id+'.json', JSON.stringify(user),function(){});
         });
 
-        let selected = cards.card_select(interaction,data[parseInt(interaction.customId.replace('pick_',''))-1])
+        let selected = cards.card_select(interaction,data[parseInt(interaction.customId.replace('pick_',''))-1],action)
         await interaction.editReply({embeds: [selected]})
     }
 })

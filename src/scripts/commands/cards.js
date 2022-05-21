@@ -52,7 +52,7 @@ module.exports = {
 
         return cards_db[card_specs["rarity"]][poll[random(0,poll.length-1)]]
     },
-    poll_embed: async function(cards,interaction){
+    poll_embed: async function(cards,interaction,inventory){
         //Start Building of Image
         const width = 2000
         const height = 700
@@ -107,10 +107,26 @@ module.exports = {
         //End Building of Embed
 
         //Start Building of Action Row
+        let btn_card1, btn_card2, btn_card3 = ("","","")
 
-        let btn_card1 = new MessageButton().setCustomId('pick_1').setLabel('Pick 1').setStyle('PRIMARY')
-        let btn_card2 = new MessageButton().setCustomId('pick_2').setLabel('Pick 2').setStyle('PRIMARY')
-        let btn_card3 = new MessageButton().setCustomId('pick_3').setLabel('Pick 3').setStyle('PRIMARY')
+        if(!inventory.includes(cards[0]["id"])){
+            btn_card1 = new MessageButton().setCustomId('pick_1').setLabel('Pick 1').setStyle('PRIMARY')
+        }
+        else{
+            btn_card1 = new MessageButton().setCustomId('pick_1').setLabel('Pick 1').setStyle('SECONDARY')
+        }
+        if(!inventory.includes(cards[1]["id"])){
+            btn_card2 = new MessageButton().setCustomId('pick_2').setLabel('Pick 2').setStyle('PRIMARY')
+        }
+        else{
+            btn_card2 = new MessageButton().setCustomId('pick_2').setLabel('Pick 2').setStyle('SECONDARY')
+        }
+        if(!inventory.includes(cards[2]["id"])){
+            btn_card3 = new MessageButton().setCustomId('pick_3').setLabel('Pick 3').setStyle('PRIMARY')
+        }
+        else{
+            btn_card3 = new MessageButton().setCustomId('pick_3').setLabel('Pick 3').setStyle('SECONDARY')
+        }
 
         const row = new MessageActionRow().addComponents(btn_card1,btn_card2,btn_card3);
 
@@ -118,13 +134,22 @@ module.exports = {
         interaction.editReply({ embeds: [embed], files: [attachment], components: [row], ephemeral: true});
         interaction.channel.send({ files: [attachment]})
     },
-    card_select: function(interaction,choice){
+    card_select: function(interaction,choice,action){
 
-        const embed = new MessageEmbed()
-            .setTitle(interaction.member.user.username + ' as pris la carte : ' + choice['name'] + '(id : '+choice['id']+')')
-            .setDescription('GG à toi !')
-        
-        return embed
+        if(action == "stored"){
+            const embed = new MessageEmbed()
+                .setTitle(interaction.member.user.username + ' as pris la carte : ' + choice['name'] + ' (id : '+choice['id']+')')
+                .setDescription('GG à toi !')
+            
+            return embed
+        }
+        else if(action == "scrapped"){
+            const embed = new MessageEmbed()
+                .setTitle(interaction.member.user.username + ' as pris la carte : ' + choice['name'] + ' (id : '+choice['id']+')')
+                .setDescription('Il avait déjà cette carte, sa valeurlui a été transférée soit ' + choice['value'] + ' scraps !')
+            
+            return embed
+        }
     },
     see_card: async function(interaction,card){
 
