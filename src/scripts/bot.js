@@ -166,10 +166,10 @@ bot.on('interactionCreate', async interaction =>{
                 action = "stored"
             }
             fs.writeFile('./src/database/users/'+interaction.member.id+'.json', JSON.stringify(user),function(){});
-        });
 
-        let selected = cards.card_select(interaction,data[parseInt(interaction.customId.replace('pick_',''))-1],action)
-        await interaction.editReply({embeds: [selected]})
+            let selected = cards.card_select(interaction,data[parseInt(interaction.customId.replace('pick_',''))-1],action)
+            await interaction.editReply({embeds: [selected]})
+        });
     }
 })
 
