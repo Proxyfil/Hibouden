@@ -135,21 +135,19 @@ module.exports = {
         interaction.channel.send({ files: [attachment]})
     },
     card_select: function(interaction,choice,action){
+        let embed = ""
 
         if(action == "stored"){
-            const embed = new MessageEmbed()
+            embed = new MessageEmbed()
                 .setTitle(interaction.member.user.username + ' as pris la carte : ' + choice['name'] + ' (id : '+choice['id']+')')
                 .setDescription('GG à toi !')
-            
-            return embed
         }
-        else if(action == "scrapped"){
-            const embed = new MessageEmbed()
+        else{
+            embed = new MessageEmbed()
                 .setTitle(interaction.member.user.username + ' as pris la carte : ' + choice['name'] + ' (id : '+choice['id']+')')
                 .setDescription('Il avait déjà cette carte, sa valeurlui a été transférée soit ' + choice['value'] + ' scraps !')
-            
-            return embed
         }
+        return embed
     },
     see_card: async function(interaction,card){
 
