@@ -67,7 +67,7 @@ module.exports = {
             user['scrap'] = user['scrap'] - 300
             user['next_roll'] = 1
 
-            fs.writeFileSync('./src/database/users.json', JSON.stringify(user),function(){})
+            fs.writeFileSync('./src/database/users/'+interaction.member.id+'.json', JSON.stringify(user),function(){})
 
             let embed = new MessageEmbed()
                 .setTitle(`🃏 Vous avez r'acheter un roll`)
