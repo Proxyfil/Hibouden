@@ -35,20 +35,46 @@ module.exports = {
 
         let embeds = [embed]
 
-        for (let e = 0; e < Math.floor(user['inventory'].length/20)+1; e++) {
+        for (let e = 0; e < Math.floor(user['inventory'].length/15)+1; e++) {
             let embed = new MessageEmbed()
                 .setTitle(`🃏 Cartes de ${user["name"]}`)
-                .setDescription(`#️⃣ Page ${e+1}/${Math.floor(user['inventory'].length/20)+1}`)
+                .setDescription(`#️⃣ Page ${e+1}/${Math.floor(user['inventory'].length/15)+1}`)
 
-            user['inventory'].slice(e*20,(e+1)*20).forEach(card_id => {
+            user['inventory'].slice(e*15,(e+1)*15).forEach(card_id => {
                 embed.addFields({"name":`Nom : ${cards[card_id]['name']} | Rareté : ${cards[card_id]['rarity']}`,"value":`Collection : ${cards[card_id]['collection']} | ID : ${cards[card_id]['id']} \n----`})
 
-                if(card_id == user['inventory'][user['inventory'].length-1] || card_id == user['inventory'][(e+1)*20-1]){
+                if(card_id == user['inventory'][user['inventory'].length-1] || card_id == user['inventory'][(e+1)*15-1]){
                     embeds.push(embed)
                 }
             });
         }
         
         return embeds
+    },
+    buy_roll: function(interaction){
+        let users_db = fs.readFileSync('./src/database/users.json', 'utf8');
+        users_db = JSON.parse(users_db)
+
+        let data = fs.readFileSync('./src/database/users/'+interaction.member.id+'.json', 'utf8');
+        let user = JSON.parse(data)
+
+        if(user['next_roll'] < Date.now() || !users_db.includes(interaction.member.user.id)){
+            return cmd_debug.h_error("Your roll is available","004")
+        }
+        else if(user['scrap'] < 300){
+            return cmd_debug.h_error("You don't have enough scrap","005")
+        }
+        else{
+            user['scrap'] = user['scrap'] - 300
+            user['next_roll'] = 1
+
+            fs.writeFileSync('./src/database/users.json', JSON.stringify(user),function(){})
+
+            let embed = new MessageEmbed()
+                .setTitle(`🃏 Vous avez r'acheter un roll`)
+                .setDescription(`Vous pouvez l'utiliser dès maintenant`)
+
+            return embed
+        }
     }
 }

@@ -79,6 +79,11 @@ module.exports = function (bot) {
                 "required": true
             }
         ]
+    },
+    {
+        "name": "buy_roll",
+        "description": "You need at least 300 scraps to buy 1 roll",
+        "options": ""
     }]
 
     command_list.forEach(command => {

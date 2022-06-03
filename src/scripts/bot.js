@@ -19,7 +19,7 @@ const reply = async (interaction, response) => {
 }
 
 //Start bot
-//cmdinit(bot);
+cmdinit(bot);
 
 bot.on('ready', () => {
     console.log("[" + new Date().toLocaleString() + "] [BOOT] Is this... life ?");
@@ -136,6 +136,9 @@ bot.on('interactionCreate', async interaction =>{
                     cards.see_card(interaction,cards_list[args[0].value])
                     
                 }
+            }
+            else if(interaction.commandName == "buy_roll"){
+                interaction.editReply({embeds: users.buy_roll(interaction)})
             }
         }
     }
