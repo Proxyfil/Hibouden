@@ -34,7 +34,7 @@ module.exports = {
                 {"name":`:envelope: Toutes ses cartes t'ont été envoyées en MP : ${user['scrap']}`,"value":"---------"}
             )
 
-        interaction.editReply({embeds: embed})
+        interaction.editReply({embeds: [embed]})
 
         for (let e = 0; e < Math.floor(user['inventory'].length/20)+1; e++) {
             let embed = new MessageEmbed()
@@ -45,7 +45,7 @@ module.exports = {
                 embed.addFields({"name":`Nom : ${cards[card_id]['name']} | Rareté : ${cards[card_id]['rarity']}`,"value":`Collection : ${cards[card_id]['collection']} | ID : ${cards[card_id]['id']} \n----`})
 
                 if(card_id == user['inventory'][user['inventory'].length-1] || card_id == user['inventory'][(e+1)*20-1]){
-                    interaction.member.user.send(embed)
+                    interaction.member.user.send({ embeds: [embed] })
                 }
             });
         }
