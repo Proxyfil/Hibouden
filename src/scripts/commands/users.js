@@ -30,20 +30,21 @@ module.exports = {
             .setDescription('Role : '+user["role"])
             .addFields(
                 {"name":`🃏 Nombre de cartes : ${user['inventory'].length}`,"value":"---------"},
-                {"name":`:coin: Nombre de scrap : ${user['scrap']}`,"value":"---------"}
+                {"name":`:coin: Nombre de scrap : ${user['scrap']}`,"value":"---------"},
+                {"name":`:envelope: Toutes ses cartes t'ont été envoyées en MP : ${user['scrap']}`,"value":"---------"}
             )
 
         let embeds = [embed]
 
-        for (let e = 0; e < Math.floor(user['inventory'].length/15)+1; e++) {
+        for (let e = 0; e < Math.floor(user['inventory'].length/20)+1; e++) {
             let embed = new MessageEmbed()
                 .setTitle(`🃏 Cartes de ${user["name"]}`)
-                .setDescription(`#️⃣ Page ${e+1}/${Math.floor(user['inventory'].length/15)+1}`)
+                .setDescription(`#️⃣ Page ${e+1}/${Math.floor(user['inventory'].length/20)+1}`)
 
-            user['inventory'].slice(e*15,(e+1)*15).forEach(card_id => {
+            user['inventory'].slice(e*20,(e+1)*20).forEach(card_id => {
                 embed.addFields({"name":`Nom : ${cards[card_id]['name']} | Rareté : ${cards[card_id]['rarity']}`,"value":`Collection : ${cards[card_id]['collection']} | ID : ${cards[card_id]['id']} \n----`})
 
-                if(card_id == user['inventory'][user['inventory'].length-1] || card_id == user['inventory'][(e+1)*15-1]){
+                if(card_id == user['inventory'][user['inventory'].length-1] || card_id == user['inventory'][(e+1)*20-1]){
                     embeds.push(embed)
                 }
             });

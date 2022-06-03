@@ -19,7 +19,7 @@ const reply = async (interaction, response) => {
 }
 
 //Start bot
-cmdinit(bot);
+//cmdinit(bot);
 
 bot.on('ready', () => {
     console.log("[" + new Date().toLocaleString() + "] [BOOT] Is this... life ?");
@@ -96,8 +96,13 @@ bot.on('interactionCreate', async interaction =>{
             else if(interaction.commandName == "profile"){
                 await interaction.deferReply();
                 let args = interaction.options.data;
+                let embeds = users.profile(interaction,args[0].value)
 
-                interaction.editReply({embeds: users.profile(interaction,args[0].value)})
+                interaction.editReply({embeds: embeds[0]})
+
+                for (let i = 1; i < embeds.length; i++) {
+                    interaction.member.user.send(embeds[i])   
+                }
             }
 
             else if(interaction.commandName == "see_card"){
