@@ -137,7 +137,7 @@ bot.on('interactionCreate', async interaction =>{
                 }
             }
             else if(interaction.commandName == "buy_roll"){
-                interaction.editReply({embeds: users.buy_roll(interaction)})
+                interaction.editReply({embeds: [users.buy_roll(interaction)]})
             }
         }
     }
