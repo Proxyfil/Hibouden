@@ -72,6 +72,7 @@ module.exports = {
             let embed = new MessageEmbed()
                 .setTitle(`🃏 Vous avez r'acheter un roll`)
                 .setDescription(`Vous pouvez l'utiliser dès maintenant`)
+                .addField({name:"--",value:"--"})
 
             return embed
         }
