@@ -31,7 +31,7 @@ module.exports = {
             .addFields(
                 {"name":`🃏 Nombre de cartes : ${user['inventory'].length}`,"value":"---------"},
                 {"name":`:coin: Nombre de scrap : ${user['scrap']}`,"value":"---------"},
-                {"name":`:envelope: Toutes ses cartes t'ont été envoyées en MP : ${user['scrap']}`,"value":"---------"}
+                {"name":`:envelope: Toutes ses cartes t'ont été envoyées en MP`,"value":"---------"}
             )
 
         interaction.editReply({embeds: [embed]})
