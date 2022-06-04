@@ -1,6 +1,7 @@
 const { Client, Message, MessageEmbed, MessageAttachment, MessageActionRow, MessageButton } = require('discord.js');
 const { createCanvas, loadImage, registerFont } = require('canvas')
 const fs = require('fs');
+const cmd_debug = require('./debug.js')
 
 registerFont('./src/ressources/fonts/corpo.otf', { family: 'Corporate' }) //Add Corpo Font
 
@@ -70,9 +71,8 @@ module.exports = {
             fs.writeFileSync('./src/database/users/'+interaction.member.id+'.json', JSON.stringify(user),function(){})
 
             let embed = new MessageEmbed()
-                .setTitle(`🃏 Vous avez r'acheter un roll`)
-                .setDescription(`Vous pouvez l'utiliser dès maintenant`)
-                .addField({name:"--",value:"--"})
+                .setTitle(`🃏 Vous avez r\'acheter un roll`)
+                .setDescription(`Vous pouvez l\'utiliser dès maintenant`);;
 
             return embed
         }

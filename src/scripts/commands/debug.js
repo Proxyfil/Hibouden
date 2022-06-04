@@ -6,6 +6,11 @@ module.exports = {
         const embed = new MessageEmbed()
             .setTitle('Pong')
             .setDescription(latency.toString() + ' ms latency')
+            .setColor(0xcc0000)
+            .setTimestamp()
+            .addFields(
+                { name: '--', value: ' -- ' }
+            );
 
         return embed;
     },
