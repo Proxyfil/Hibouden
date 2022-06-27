@@ -300,6 +300,9 @@ bot.on('interactionCreate', async interaction =>{
                     interaction.editReply({embeds: [users.upgraded("fail","",interaction)]})
                 }
             }
+            else{
+                interaction.editReply({embeds: [users.upgraded("fail","",interaction)]})
+            }
 
             fs.writeFile('./src/database/users/'+interaction.member.id+'.json', JSON.stringify(user),function(){});
         });
