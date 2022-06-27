@@ -8,6 +8,7 @@
 - <span style="color:#3f46cf;">- **Recomposed** -</span> (10% Chance)
 - <span style="color:#e24141;">- **Memories** -</span> (4% Chance)
 - <span style="color:#dc41dd;">- **Classified** -</span> (1% Chance)
+- <span style="color:#008f00;">- **NFT** -</span> (0% Chance)
 ---
 
 ## <center> Collections </center>
@@ -22,7 +23,7 @@
 - Bord de Loire (1 Carte)
 - Paris (6 Cartes)
 - Cadeaux 18 Ans (2 Cartes)
-- Tentative de Meurtre (6 Carte)
+- Tentative de Meurtre (7 Cartes)
 - Hugo Perruquet (3 Cartes)
 - Volley (3 Cartes)
 
@@ -149,3 +150,4 @@
 | Longue Soirée | Soirée Trop Arrosée | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/975094153111302144/LongueSoiree.png) | 70
 | Dating Simulator | / | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/982344351831171082/DatingSimulator.png) | 111
 | 4 Quart à 16 Heure ! | Soirée Trop Arrosée | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/982344350468014090/4QuartA16Heure.png) | 116
+| Tentative De Meurtre \[NFT\] | Tentative De Meurtre | <center> <span style="color:#008f00;">- **NFT** -</span></center> | 300 | Originale | [Image]() | 1001

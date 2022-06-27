@@ -2,9 +2,11 @@ const { Client, Message, MessageEmbed, MessageAttachment, MessageActionRow, Mess
 const cards_db = require('../../database/cards.json')
 const { createCanvas, loadImage, registerFont } = require('canvas')
 registerFont('./src/ressources/fonts/corpo.otf', { family: 'Corporate' }) //Add Corpo Font
+const fs = require('fs');
+const cmd_debug = require('./debug.js')
 
 module.exports = {
-    pick_card: function(fct_mode) {
+    pick_card: function(fct_mode,user_rarity,user_inventory) {
         function random(min, max) {  
             return Math.floor(
                 Math.random() * (max - min + 1) + min
@@ -50,7 +52,15 @@ module.exports = {
 
         let poll = Object.keys(cards_db[card_specs["rarity"]])
 
-        return cards_db[card_specs["rarity"]][poll[random(0,poll.length-1)]]
+        let card = "null"
+
+        for (let i = 0; i < user_rarity; i++) {
+            if(card == "null" || user_inventory.includes(card)){
+                card = cards_db[card_specs["rarity"]][poll[random(0,poll.length-1)]];
+            }
+        }
+
+        return card
     },
     poll_embed: async function(cards,interaction,inventory){
         //Start Building of Image
@@ -191,5 +201,143 @@ module.exports = {
             .setDescription(`⭐ ${card['rarity']} | 🪙 *${card['scrap']}*`)
         
         interaction.editReply({ embeds: [embed], files: [attachment]});
+    },
+    buy: function(interaction,args){
+        let card_id = args[0].value
+
+        let cards_by_rarity = fs.readFileSync('./src/database/cards.json')
+        cards_by_rarity = JSON.parse(cards_by_rarity)
+        let cards_list = {}
+        Object.values(cards_by_rarity).forEach(card_group => {
+            Object.keys(card_group).forEach(card_id => {
+                cards_list[card_id] = card_group[card_id]
+            })
+        })
+
+        let rarity_order = {"Common":1,"funny":2,"Legendary":3,"Recomposed":4,"Memories":5,"Classified":6}
+
+        if(!cards_list[args[0].value]){
+            interaction.editReply({embeds:[cmd_debug.h_error("No card found with this ID","001")]})
+            return
+        }
+
+        let user = {}
+
+        let users_db = fs.readFileSync('./src/database/users.json', 'utf8');
+        users_db = JSON.parse(users_db)
+
+        if(!users_db.includes(interaction.member.user.id)){
+            users_db.push(interaction.member.user.id)
+            fs.writeFile('./src/database/users.json', JSON.stringify(users_db),function(){});
+            fs.writeFile('./src/database/users/'+interaction.member.id+'.json', JSON.stringify({"name":interaction.user.username,"role":"User","inventory":[],"scrap":0,"next_roll":0,"upgrade":{"time":0,"rarity":1,"scrap":1,"market":0}}),function(){});
+            user = {"name":interaction.user.username,"role":"User","inventory":[],"scrap":0,"next_roll":0,"upgrade":{"time":0,"rarity":1,"scrap":1,"market":0}}
+        }
+        else{
+            user = fs.readFileSync('./src/database/users/'+interaction.member.user.id+'.json')
+            user = JSON.parse(user)
+        }
+
+        if(user["inventory"].includes(card_id)){
+            const embed = new MessageEmbed()
+            .setTitle(`:x: Something went wrong :x:`)
+            .setDescription(`Tu ne peux pas acheter une carte que tu as déjà`)
+
+            interaction.editReply({ embeds: [embed]})
+            return
+        }
+        else if(rarity_order[cards_list[args[0].value]["rarity"]] > user["upgrade"]["market"]){
+            const embed = new MessageEmbed()
+            .setTitle(`:x: Tu ne peux pas acheter cette carte, ton upgrade de MarketForAll n'est pas assez élevée :x:`)
+            .setDescription(`Tier requis : ${rarity_order[cards_list[args[0].value]["rarity"]]}`)
+
+            interaction.editReply({ embeds: [embed]})
+            return
+        }
+        else if(cards_list[args[0].value]["scrap"]*4 > user["scrap"]){
+            const embed = new MessageEmbed()
+            .setTitle(`:x: Tu ne peux pas acheter cette carte, elle a une valeur trop élevée :x:`)
+            .setDescription(`Montant requis : ${cards_list[args[0].value]["scrap"]*4} `)
+
+            interaction.editReply({ embeds: [embed]})
+            return
+        }
+        else{
+            user["scrap"] -= cards_list[args[0].value]["scrap"]*4
+            user["inventory"].push(parseInt(card_id))
+
+            fs.writeFile('./src/database/users/'+interaction.member.id+'.json', JSON.stringify(user),function(){});
+
+            const embed = new MessageEmbed()
+            .setTitle(`:white_check_mark: Tu as acheté une carte :white_check_mark:`)
+            .setDescription(`Vous avez dépensé : ${cards_list[args[0].value]["scrap"]*4}`)
+
+            interaction.editReply({ embeds: [embed]})
+            return
+        }
+    },
+    craft_nft: function(interaction,args){
+        let user = {}
+
+        let users_db = fs.readFileSync('./src/database/users.json', 'utf8');
+        users_db = JSON.parse(users_db)
+
+        if(!users_db.includes(interaction.member.user.id)){
+            users_db.push(interaction.member.user.id)
+            fs.writeFile('./src/database/users.json', JSON.stringify(users_db),function(){});
+            fs.writeFile('./src/database/users/'+interaction.member.id+'.json', JSON.stringify({"name":interaction.user.username,"role":"User","inventory":[],"scrap":0,"next_roll":0,"upgrade":{"time":0,"rarity":1,"scrap":1,"market":0}}),function(){});
+            user = {"name":interaction.user.username,"role":"User","inventory":[],"scrap":0,"next_roll":0,"upgrade":{"time":0,"rarity":1,"scrap":1,"market":0}}
+        }
+        else{
+            user = fs.readFileSync('./src/database/users/'+interaction.member.user.id+'.json')
+            user = JSON.parse(user)
+        }
+
+        let nfts = fs.readFileSync('./src/database/nft.json', 'utf8');
+        nfts = JSON.parse(nfts)
+
+        if(user["scrap"] < 2000){
+            interaction.editReply({embeds:[cmd_debug.h_error("You need 2000 scrap to craft an NFT Card","003")]})
+            return
+        }
+        else if(!Object.keys(nfts).includes(args[0].value)){
+            interaction.editReply({embeds:[cmd_debug.h_error("No NFT card found with this ID","001")]})
+            return
+        }
+        else{
+            let missing_cards = 0
+
+            nfts[args[0].value]["requirements"].forEach(card_id => {
+                if(!user["inventory"].includes(card_id)){
+                    missing_cards += 1
+                }
+            });
+
+            if(missing_cards != 0){
+                interaction.editReply({embeds:[cmd_debug.h_error(`You need ${missing_cards} cards more`,"002")]})
+                return
+            }
+            else{
+                nfts[args[0].value]["requirements"].forEach(card_id => {
+                    user["inventory"].splice(user["inventory"].indexOf(card_id),1)
+                });
+                user["inventory"].push(parseInt(args[0].value))
+                user["scrap"] -= 2000
+                fs.writeFile('./src/database/users/'+interaction.member.id+'.json', JSON.stringify(user),function(){});
+
+                const embed = new MessageEmbed()
+                .setTitle(`🏷️ ${interaction.member.user.username} just buy an NFT Card !`)
+                .setDescription(`⭐ Card id : ${args[0].value} | you can type /see_card ${args[0].value} to see it`)
+        
+                interaction.editReply({ embeds: [embed]});
+            }
+        }
+    },
+    see_nft: function(interaction,card){
+        const embed = new MessageEmbed()
+            .setTitle(`🏷️ ${card['name']} | 📂 *${card['collection']}*`)
+            .setDescription(`⭐ ${card['rarity']} | 🪙 *${card['scrap']}*`)
+            .setImage(card['img'])
+        
+        interaction.editReply({ embeds: [embed]});
     }
 }

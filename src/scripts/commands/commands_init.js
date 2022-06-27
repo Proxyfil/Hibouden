@@ -23,6 +23,12 @@ module.exports = function (bot) {
                 "description": "Tag User",
                 "type": 6,
                 "required": true
+            },
+            {
+                "name": "cards",
+                "description": "Send cards too ?",
+                "type": 5,
+                "required": true
             }
         ]
     },
@@ -40,7 +46,7 @@ module.exports = function (bot) {
     },
     {
         "name": "add_card",
-        "description": "See card",
+        "description": "Add a card to the collection",
         "options": [
             {
                 "name": "card_id",
@@ -84,6 +90,47 @@ module.exports = function (bot) {
         "name": "buy_roll",
         "description": "You need at least 300 scraps to buy 1 roll",
         "options": ""
+    },
+    {
+        "name": "reset_profile",
+        "description": "Completly restart from nothing",
+        "options": [
+            {
+                "name": "confirm",
+                "description": "Confirm your choice",
+                "type": 5,
+                "required": true
+            }
+        ]
+    },
+    {
+        "name": "upgrade",
+        "description": "You can upgrade some parameters to become better !",
+        "options": ""
+    },
+    {
+        "name": "buy_card",
+        "description": "Buy a card with his id",
+        "options": [
+            {
+                "name": "card_id",
+                "description": "ID of a card",
+                "type": 3,
+                "required": true
+            }
+        ]
+    },
+    {
+        "name": "craft_nft",
+        "description": "Made a NFT Card from cards in your inventory",
+        "options": [
+            {
+                "name": "card_id",
+                "description": "ID of a NFT card",
+                "type": 3,
+                "required": true
+            }
+        ]
     }]
 
     command_list.forEach(command => {
