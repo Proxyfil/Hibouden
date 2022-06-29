@@ -253,7 +253,7 @@ module.exports = {
             interaction.editReply({ embeds: [embed]})
             return
         }
-        else if(cards_list[args[0].value]["scrap"]*4 > user["scrap"]){
+        else if(cards_list[args[0].value]["scrap"]*500 > user["scrap"]){
             const embed = new MessageEmbed()
             .setTitle(`:x: Tu ne peux pas acheter cette carte, elle a une valeur trop élevée :x:`)
             .setDescription(`Montant requis : ${cards_list[args[0].value]["scrap"]*4} `)
@@ -262,7 +262,7 @@ module.exports = {
             return
         }
         else{
-            user["scrap"] -= cards_list[args[0].value]["scrap"]*4
+            user["scrap"] -= cards_list[args[0].value]["scrap"]*500
             user["inventory"].push(parseInt(card_id))
 
             fs.writeFile('./src/database/users/'+interaction.member.id+'.json', JSON.stringify(user),function(){});
