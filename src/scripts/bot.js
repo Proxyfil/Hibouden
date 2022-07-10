@@ -235,7 +235,7 @@ bot.on('interactionCreate', async interaction =>{
             }
             fs.writeFile('./src/database/users/'+interaction.member.id+'.json', JSON.stringify(user),function(){});
 
-            let selected = cards.card_select(interaction,data[parseInt(interaction.customId.replace('pick_',''))-1],action)
+            let selected = cards.card_select(interaction,data[parseInt(interaction.customId.replace('pick_',''))-1],action,user['upgrade']['scrap'])
             interaction.editReply({embeds: [selected]})
         });
     }

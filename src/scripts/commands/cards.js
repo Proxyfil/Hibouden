@@ -144,7 +144,7 @@ module.exports = {
         interaction.editReply({ embeds: [embed], files: [attachment], components: [row], ephemeral: true});
         interaction.channel.send({ files: [attachment]})
     },
-    card_select: function(interaction,choice,action){
+    card_select: function(interaction,choice,action,multiple){
         let embed = ""
 
         if(action == "stored"){
@@ -155,7 +155,7 @@ module.exports = {
         else{
             embed = new MessageEmbed()
                 .setTitle(interaction.member.user.username + ' as pris la carte : ' + choice['name'] + ' (id : '+choice['id']+')')
-                .setDescription('Il avait déjà cette carte, sa valeur lui a été transférée soit ' + choice['scrap'] + ' scraps !')
+                .setDescription('Il avait déjà cette carte, sa valeur lui a été transférée soit ' + choice['scrap']*multiple + ' scraps !')
         }
         return embed
     },
