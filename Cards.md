@@ -8,6 +8,7 @@
 - <span style="color:#3f46cf;">- **Recomposed** -</span> (10% Chance)
 - <span style="color:#e24141;">- **Memories** -</span> (4% Chance)
 - <span style="color:#dc41dd;">- **Classified** -</span> (1% Chance)
+- <span style="color:#cc0000;">- **Deprecated** -</span> (Not Obtainable)
 ---
 
 ## <center> Collections </center>
@@ -15,7 +16,7 @@
 - / (50 Cartes)
 - NSI (5 Cartes)
 - Photos Génantes (8 Cartes)
-- Soirée Trop Arrosée (24 Cartes)
+- Soirée Trop Arrosée (31 Cartes)
 - Folie en cours (3 Cartes)
 - Bac (7 Cartes)
 - En voiture (4 Cartes)
@@ -27,7 +28,6 @@
 - Volley (3 Cartes)
 - Bal De Fin D'Année (5 Cartes)
 - 18 Ans Aesa (20 Cartes)
-- 18 Ans Pauline (7 Cartes)
 - Girafon Memories (5 Cartes)
 - 18 Ans Girafon (5 Cartes)
 
@@ -36,6 +36,18 @@
 
 | Carte | Collection | Rareté | Valeur | État | Lien | ID |
 |-|-|-|-|-|-|-|
+| Soirée (Bien) Accompagnée | Soirée Trop Arrosée | <center> <span style="color:#cc0000;">- **Deprecated** -</span></center> | 0 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/982344395967823872/SoireeAccompagnee.png) | 107
+| Jamais Être Seul | Soirée Trop Arrosée | <center> <span style="color:#cc0000;">- **Deprecated** -</span></center> | 0 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432610263805992/JamaisEtreSeul.png) | 119
+| Les 2 Nouilles | 18 Ans Aesa | <center> <span style="color:#cc0000;">- **Deprecated** -</span></center> | 0 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432608703520849/Les2Nouilles.png) | 128
+| 2 En 1 | 18 Ans Aesa | <center> <span style="color:#cc0000;">- **Deprecated** -</span></center> | 0 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432608309260448/2En1.png) | 129
+| WOULA Is Ok | Soirée Trop Arrosée | <center> <span style="color:#cc0000;">- **Deprecated** -</span></center> | 0 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432604328857721/WOULAIsOk.png) | 130
+| Avec Délicatesse | Soirée Trop Arrosée | <center> <span style="color:#cc0000;">- **Deprecated** -</span></center> | 0 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432587711033384/AvecDelicatesse.png) | 140
+| Derrière Un Bar | 18 Ans Aesa | <center> <span style="color:#cc0000;">- **Deprecated** -</span></center> | 0 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432585165099028/DerriereUnBar.png) | 146
+| Tout Va Bien | 18 Ans Aesa | <center> <span style="color:#cc0000;">- **Deprecated** -</span></center> | 0 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432572049498123/ToutVaBien.png) | 156
+| Discussion Au Bar | 18 Ans Aesa | <center> <span style="color:#cc0000;">- **Deprecated** -</span></center> | 0 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432474737451048/DiscussionAuBar.png) | 160
+| Discussion Au Bar | 18 Ans Aesa | <center> <span style="color:#cc0000;">- **Deprecated** -</span></center> | 0 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432474737451048/DiscussionAuBar.png) | 161
+| Cadeau Surprise | Cadeaux 18 Ans | <center> <span style="color:#cc0000;">- **Deprecated** -</span></center> | 0 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432474297057351/CadeauSurprise.png) | 162
+| Test D'Alcoolémie DIY | 18 Ans Aesa | <center> <span style="color:#cc0000;">- **Deprecated** -</span></center> | 0 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432472036327504/TestDAlcoolemieDIY.png) | 167
 | Finale Maillette | NSI | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/974204834142109726/FinaleMaillette.png) | 0
 | BoudiBoudin | Photos Génantes | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/974204835018731520/BoudiBoudin.png) | 1
 | Nationalisme | Photos Génantes | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/974204835366850560/Nationalisme.png) | 2
@@ -74,8 +86,6 @@
 | Ca Mord Pas De Fou | Girafon Memories | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432609936646244/CaMordPasDeFou.png) | 120
 | Flow37 | Girafon Memories | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432607722045460/Flow37.png) | 126
 | Discussion Lunaire | 18 Ans Aesa | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432609034866719/DiscussionLunaire.png) | 127
-| Les 2 Nouilles | 18 Ans Aesa | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432608703520849/Les2Nouilles.png) | 128
-| WOULA Is Ok | 18 Ans Pauline | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432604328857721/WOULAIsOk.png) | 130
 | Intru Et Vodka URSS | 18 Ans Aesa | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432603859107870/IntruEtVodkaURSS.png) | 131
 | Je Pense C'est Tout | 18 Ans Aesa | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432603418697758/JePenseCEstTout.png) | 132
 | McDo Au Calme | Bord de Loire | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432602638549022/McDoAuCalme.png) | 134
@@ -85,8 +95,6 @@
 | Groupe Multiple | 18 Ans Aesa | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432575115534336/GroupeMultiple.png) | 147
 | Lendemain Difficile | 18 Ans Aesa | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432572980625478/LendemainDifficile.png) | 153
 | Un bar A Tenir | 18 Ans Aesa | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432477375664189/UnBarATenir.png) | 157
-| Discussion Au Bar | 18 Ans Aesa | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432474737451048/DiscussionAuBar.png) | 160
-| Discussion Au Bar | 18 Ans Aesa | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432474737451048/DiscussionAuBar.png) | 161
 | Débats Houleux | Bord De Loire | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432473953120336/DebatHouleux.png) | 163
 | Jusqu'à Là Tout Va Bien | Bal De Fin D'Année | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432472728391741/JusquaLaToutVaBien.png) | 166
 | MiÉtéMiHiver | / | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/973972749796122644/MiEteMiHiver.png) | 5
@@ -118,19 +126,16 @@
 | L'Heure Des Classiques | 18 ans Aesa | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432610876174438/LHeureDesClassiques.png) | 117
 | Voyage Scolaire | Girafon Memories | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432608502206464/VoyageScolaire.png) | 124
 | Être Équipé | Girafon Memories | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432608107933778/EtreEquipe.png) | 125
-| Pause Tactique | 18 Ans Pauline | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432599786442812/PauseTactique.png) | 136
+| Pause Tactique | Soirée Trop Arrosée | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432599786442812/PauseTactique.png) | 136
 | Rock & Brulûre | 18 Ans Aesa | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432588948340767/RockBrulure.png) | 137
-| Oh Ta Gueule | 18 Ans Pauline | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432588457623632/OhTaGueule.png) | 138
-| Avec Délicatesse | 18 Ans Pauline | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432587711033384/AvecDelicatesse.png) | 140
+| Oh Ta Gueule | Soirée Trop Arrosée | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432588457623632/OhTaGueule.png) | 138
 | Piou Piou | / | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432586389831720/PiouPiou.png) | 142
 | Mini-Girafon | Girafon Memories | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432585764872252/MiniGirafon.png) | 144
 | Tireurs D'Élite | 18 Ans Girafon | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432574385737819/TireursDElite.png) | 149
 | Choix, Frigo Et Bosse | 18 Ans Aesa | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432574041784391/ChoixFrigoEtBosse.png) | 150
 | On Fait Avec Ce Qu'on A | Cadeaux 18 Ans | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432572347306065/OnFaitAvecCeQuOnA.png) | 155
-| Tout Va Bien | 18 Ans Aesa | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432572049498123/ToutVaBien.png) | 156
 | Bain De Minuit | Bal De Fin D'Année | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432476461301781/BainDeMinuit.png) | 158
 | Petite Pause | 18 Ans Aesa | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432475836362804/PetitePause.png) | 159
-| Test D'Alcoolémie DIY | 18 Ans Aesa | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432472036327504/TestDAlcoolemieDIY.png) | 167
 | Jo l'Taxi | En voiture | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/973972748701421638/Joltaxi.png) | 16
 | Indre-Et-Bière | Bord de Loire | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/973972708742287430/IndreEtBiere.png) | 17
 | Maillette Top 3 | NSI | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/973972749296992307/MailletteTop3.png) | 18
@@ -148,13 +153,10 @@
 | Big Brain | / | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/982344350954557440/BigBrain.png) | 114
 | After Aux WC | / | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/982344350757437491/AfterAuxWC.png) | 115
 | Wait WHAT ? | 18 ans Aesa | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432610557403216/WaitWHAT.png) | 118
-| 2 En 1 | 18 Ans Aesa | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432608309260448/2En1.png) | 129
 | Débrief Matinal | 18 Ans Aesa | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432602986696794/DebriefMatinal.png) | 133
 | Beer Pong Corcé | 18 Ans Girafon | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432602189770763/BeerPongForce.png) | 135
 | Soirée STI2D | / | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432586066874368/SoireeSTI2D.png) | 143
-| Derrière Un Bar | 18 Ans Aesa | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432585165099028/DerriereUnBar.png) | 146
 | Et Encore Un Verre | Bal De Fin D'Année | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432573341351936/EtEncoreUnVerre.png) | 152
-| Cadeau Surprise | Cadeaux 18 Ans | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432474297057351/CadeauSurprise.png) | 162
 | Frères de Paris | Paris | <center> <span style="color:#3f46cf;">- **Recomposed** -</span></center> | 75 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/974204837250101258/FrereDeParis.png) | 19
 | V for victory | Paris | <center> <span style="color:#3f46cf;">- **Recomposed** -</span></center> | 75 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/974204835954065438/VForVictory.png) | 20
 | Souvenir de Paris | Paris | <center> <span style="color:#3f46cf;">- **Recomposed** -</span></center> | 75 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/973972750647570534/SouvenirDeParis.png) | 21
@@ -186,9 +188,7 @@
 | Noice | / | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/975094153916596295/Noice.png) | 73
 | Rentre Chez Toi | Soirée Trop Arrosée | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/975094154185048144/RentreChezToi.png) | 74
 | Jacky Boit | Soirée Trop Arrosée | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/982344407833530368/JackyBoit.png) | 94
-| Soirée (Bien) Accompagnée | Soirée Trop Arrosée | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/982344395967823872/SoireeAccompagnee.png) | 107
 | Dance Till You're Dead | Soirée Trop Arrosée | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/982344351436927066/DanceTillYoureDead.png) | 112
-| Jamais Être Seul | 18 ans Pauline | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432610263805992/JamaisEtreSeul.png) | 119
 | Un Bal Particulier | Bal De Fin D'Année | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432609550782505/UnBalParticulier.png) | 121
 | Footing Nu | Soirée Trop Arrosée | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432608808378378/FootingNu.png) | 123
 | Potes, Bières Et Piscine | 18 Ans Girafon | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432574712885248/PotesBierresEtPiscine.png) | 148
@@ -203,6 +203,5 @@
 | Dating Simulator | / | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/982344351831171082/DatingSimulator.png) | 111
 | 4 Quart à 16 Heure ! | Soirée Trop Arrosée | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/982344350468014090/4QuartA16Heure.png) | 116
 | Ca va Très Vite Entre Nous | / | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432609219428462/CaVaTresViteEntreNous.png) | 122
-| Relooking DIY | 18 Ans Pauline | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432573672689695/RelookingDIY.png) | 151
-| Relooking DIY Extrême | 18 Ans Pauline | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432572670251128/RelookingDIYExtreme.png) | 154
-| Tentative De Meurtre \[NFT\] | Tentative De Meurtre | <center> <span style="color:#008f00;">- **NFT** -</span></center> | 300 | Originale | [Image]() | 1001
+| Relooking DIY | Soirée Trop Arrosée | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432573672689695/RelookingDIY.png) | 151
+| Relooking DIY Extrême | Soirée Trop Arrosée | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432572670251128/RelookingDIYExtreme.png) | 154

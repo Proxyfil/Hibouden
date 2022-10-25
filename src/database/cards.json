@@ -342,24 +342,6 @@
             "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432609034866719/DiscussionLunaire.png",
             "rarity": "Common"
         },
-        "129": {
-            "id": 129,
-            "name": "Les 2 Nouilles",
-            "collection": "18 Ans Aesa",
-            "state": "Originale",
-            "scrap": 10,
-            "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432608703520849/Les2Nouilles.png",
-            "rarity": "Common"
-        },
-        "131": {
-            "id": 131,
-            "name": "WOULA Is Ok",
-            "collection": "18 Ans Pauline",
-            "state": "Originale",
-            "scrap": 10,
-            "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432604328857721/WOULAIsOk.png",
-            "rarity": "Common"
-        },
         "132": {
             "id": 132,
             "name": "Intru Et Vodka URSS",
@@ -439,24 +421,6 @@
             "state": "Originale",
             "scrap": 10,
             "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432477375664189/UnBarATenir.png",
-            "rarity": "Common"
-        },
-        "161": {
-            "id": 161,
-            "name": "Discussion Au Bar",
-            "collection": "18 Ans Aesa",
-            "state": "Originale",
-            "scrap": 10,
-            "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432474737451048/DiscussionAuBar.png",
-            "rarity": "Common"
-        },
-        "162": {
-            "id": 162,
-            "name": "Discussion Au Bar",
-            "collection": "18 Ans Aesa",
-            "state": "Originale",
-            "scrap": 10,
-            "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432474737451048/DiscussionAuBar.png",
             "rarity": "Common"
         },
         "164": {
@@ -743,7 +707,7 @@
         "137": {
             "id": 137,
             "name": "Pause Tactique",
-            "collection": "18 Ans Pauline",
+            "collection": "Soirée Trop Arrosée",
             "state": "Originale",
             "scrap": 25,
             "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432599786442812/PauseTactique.png",
@@ -761,19 +725,10 @@
         "139": {
             "id": 139,
             "name": "Oh Ta Gueule",
-            "collection": "18 Ans Pauline",
+            "collection": "Soirée Trop Arrosée",
             "state": "Originale",
             "scrap": 25,
             "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432588457623632/OhTaGueule.png",
-            "rarity": "Funny"
-        },
-        "141": {
-            "id": 141,
-            "name": "Avec Délicatesse",
-            "collection": "18 Ans Pauline",
-            "state": "Originale",
-            "scrap": 25,
-            "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432587711033384/AvecDelicatesse.png",
             "rarity": "Funny"
         },
         "143": {
@@ -821,15 +776,6 @@
             "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432572347306065/OnFaitAvecCeQuOnA.png",
             "rarity": "Funny"
         },
-        "157": {
-            "id": 157,
-            "name": "Tout Va Bien",
-            "collection": "18 Ans Aesa",
-            "state": "Originale",
-            "scrap": 25,
-            "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432572049498123/ToutVaBien.png",
-            "rarity": "Funny"
-        },
         "159": {
             "id": 159,
             "name": "Bain De Minuit",
@@ -846,15 +792,6 @@
             "state": "Originale",
             "scrap": 25,
             "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432475836362804/PetitePause.png",
-            "rarity": "Funny"
-        },
-        "168": {
-            "id": 168,
-            "name": "Test D'Alcoolémie DIY",
-            "collection": "18 Ans Aesa",
-            "state": "Originale",
-            "scrap": 25,
-            "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432472036327504/TestDAlcoolemieDIY.png",
             "rarity": "Funny"
         }
     },
@@ -1012,15 +949,6 @@
             "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432610557403216/WaitWHAT.png",
             "rarity": "Legendary"
         },
-        "130": {
-            "id": 130,
-            "name": "2 En 1",
-            "collection": "18 Ans Aesa",
-            "state": "Originale",
-            "scrap": 50,
-            "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432608309260448/2En1.png",
-            "rarity": "Legendary"
-        },
         "134": {
             "id": 134,
             "name": "Débrief Matinal",
@@ -1048,15 +976,6 @@
             "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432586066874368/SoireeSTI2D.png",
             "rarity": "Legendary"
         },
-        "147": {
-            "id": 147,
-            "name": "Derrière Un Bar",
-            "collection": "18 Ans Aesa",
-            "state": "Originale",
-            "scrap": 50,
-            "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432585165099028/DerriereUnBar.png",
-            "rarity": "Legendary"
-        },
         "153": {
             "id": 153,
             "name": "Et Encore Un Verre",
@@ -1064,15 +983,6 @@
             "state": "Originale",
             "scrap": 50,
             "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432573341351936/EtEncoreUnVerre.png",
-            "rarity": "Legendary"
-        },
-        "163": {
-            "id": 163,
-            "name": "Cadeau Surprise",
-            "collection": "Cadeaux 18 Ans",
-            "state": "Originale",
-            "scrap": 50,
-            "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432474297057351/CadeauSurprise.png",
             "rarity": "Legendary"
         }
     },
@@ -1358,15 +1268,6 @@
             "img": "https://media.discordapp.net/attachments/947917639840329760/982344407833530368/JackyBoit.png",
             "rarity": "Memories"
         },
-        "108": {
-            "id": 108,
-            "name": "Soirée (Bien) Accompagnée",
-            "collection": "Soirée Trop Arrosée",
-            "state": "Originale",
-            "scrap": 100,
-            "img": "https://media.discordapp.net/attachments/947917639840329760/982344395967823872/SoireeAccompagnee.png",
-            "rarity": "Memories"
-        },
         "113": {
             "id": 113,
             "name": "Dance Till You're Dead",
@@ -1374,15 +1275,6 @@
             "state": "Originale",
             "scrap": 100,
             "img": "https://media.discordapp.net/attachments/947917639840329760/982344351436927066/DanceTillYoureDead.png",
-            "rarity": "Memories"
-        },
-        "120": {
-            "id": 120,
-            "name": "Jamais Être Seul",
-            "collection": "18 ans Pauline",
-            "state": "Originale",
-            "scrap": 100,
-            "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432610263805992/JamaisEtreSeul.png",
             "rarity": "Memories"
         },
         "122": {
@@ -1516,7 +1408,7 @@
         "152": {
             "id": 152,
             "name": "Relooking DIY",
-            "collection": "18 Ans Pauline",
+            "collection": "Soirée Trop Arrosée",
             "state": "Originale",
             "scrap": 200,
             "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432573672689695/RelookingDIY.png",
@@ -1525,11 +1417,121 @@
         "155": {
             "id": 155,
             "name": "Relooking DIY Extrême",
-            "collection": "18 Ans Pauline",
+            "collection": "Soirée Trop Arrosée",
             "state": "Originale",
             "scrap": 200,
             "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432572670251128/RelookingDIYExtreme.png",
             "rarity": "Classified"
+        }
+    },
+    "deprecated": {
+        "108": {
+            "id": 108,
+            "name": "Soirée (Bien) Accompagnée",
+            "collection": "Soirée Trop Arrosée",
+            "state": "Originale",
+            "scrap": 0,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/982344395967823872/SoireeAccompagnee.png",
+            "rarity": "Deprecated"
+        },
+        "120": {
+            "id": 120,
+            "name": "Jamais Être Seul",
+            "collection": "Soirée Trop Arrosée",
+            "state": "Originale",
+            "scrap": 0,
+            "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432610263805992/JamaisEtreSeul.png",
+            "rarity": "Deprecated"
+        },
+        "129": {
+            "id": 129,
+            "name": "Les 2 Nouilles",
+            "collection": "18 Ans Aesa",
+            "state": "Originale",
+            "scrap": 0,
+            "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432608703520849/Les2Nouilles.png",
+            "rarity": "Deprecated"
+        },
+        "130": {
+            "id": 130,
+            "name": "2 En 1",
+            "collection": "18 Ans Aesa",
+            "state": "Originale",
+            "scrap": 0,
+            "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432608309260448/2En1.png",
+            "rarity": "Deprecated"
+        },
+        "131": {
+            "id": 131,
+            "name": "WOULA Is Ok",
+            "collection": "Soirée Trop Arrosée",
+            "state": "Originale",
+            "scrap": 0,
+            "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432604328857721/WOULAIsOk.png",
+            "rarity": "Deprecated"
+        },
+        "141": {
+            "id": 141,
+            "name": "Avec Délicatesse",
+            "collection": "Soirée Trop Arrosée",
+            "state": "Originale",
+            "scrap": 0,
+            "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432587711033384/AvecDelicatesse.png",
+            "rarity": "Deprecated"
+        },
+        "147": {
+            "id": 147,
+            "name": "Derrière Un Bar",
+            "collection": "18 Ans Aesa",
+            "state": "Originale",
+            "scrap": 0,
+            "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432585165099028/DerriereUnBar.png",
+            "rarity": "Deprecated"
+        },
+        "157": {
+            "id": 157,
+            "name": "Tout Va Bien",
+            "collection": "18 Ans Aesa",
+            "state": "Originale",
+            "scrap": 0,
+            "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432572049498123/ToutVaBien.png",
+            "rarity": "Deprecated"
+        },
+        "161": {
+            "id": 161,
+            "name": "Discussion Au Bar",
+            "collection": "18 Ans Aesa",
+            "state": "Originale",
+            "scrap": 0,
+            "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432474737451048/DiscussionAuBar.png",
+            "rarity": "Deprecated"
+        },
+        "162": {
+            "id": 162,
+            "name": "Discussion Au Bar",
+            "collection": "18 Ans Aesa",
+            "state": "Originale",
+            "scrap": 0,
+            "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432474737451048/DiscussionAuBar.png",
+            "rarity": "Deprecated"
+        },
+        "163": {
+            "id": 163,
+            "name": "Cadeau Surprise",
+            "collection": "Cadeaux 18 Ans",
+            "state": "Originale",
+            "scrap": 0,
+            "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432474297057351/CadeauSurprise.png",
+            "rarity": "Deprecated"
+        },
+        "168": {
+            "id": 168,
+            "name": "Test D'Alcoolémie DIY",
+            "collection": "18 Ans Aesa",
+            "state": "Originale",
+            "scrap": 0,
+            "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432472036327504/TestDAlcoolemieDIY.png",
+            "rarity": "Deprecated"
         }
     }
 }
