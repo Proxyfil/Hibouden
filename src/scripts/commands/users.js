@@ -143,7 +143,7 @@ module.exports = {
         if(type == "fail"){
             const embed = new MessageEmbed()
             .setTitle(`:x: ${interaction.member.user.username} n\'a pas pu augmenter ce skill :x:`)
-            .setDescription(':arrow_right: Il était probablement trop haut niveau ou il n\'avait pas 1500 scraps')
+            .setDescription(':arrow_right: Il était probablement trop haut niveau ou il n\'avait pas assez de scraps')
 
             return embed
         }

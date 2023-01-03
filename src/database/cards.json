@@ -440,6 +440,105 @@
             "scrap": 10,
             "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432472728391741/JusquaLaToutVaBien.png",
             "rarity": "Common"
+        },
+        "169": {
+            "id": 169,
+            "name": "Introspection",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796196744495114/Instrospection.png",
+            "rarity": "Common"
+        },
+        "170": {
+            "id": 170,
+            "name": "Recharge En Cours",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796196396380180/RechargeEnCours.png",
+            "rarity": "Common"
+        },
+        "172": {
+            "id": 172,
+            "name": "Perdu...",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796195641393202/Perdu.png",
+            "rarity": "Common"
+        },
+        "174": {
+            "id": 174,
+            "name": "Franchement C'est Soft",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796194936758403/FranchementCEstSoft.png",
+            "rarity": "Common"
+        },
+        "176": {
+            "id": 176,
+            "name": "La DreamTeam",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796178700603432/LaDreamTeam.png",
+            "rarity": "Common"
+        },
+        "178": {
+            "id": 178,
+            "name": "Discussion De Temporisation",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796177832382465/DiscussionDeTemporisation.png",
+            "rarity": "Common"
+        },
+        "179": {
+            "id": 179,
+            "name": "Redis Ça Pour Voir ?",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796177446514758/RedisCaPourVoir.png",
+            "rarity": "Common"
+        },
+        "180": {
+            "id": 180,
+            "name": "C'est Pour Toi",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796177027092532/CestPourToi.png",
+            "rarity": "Common"
+        },
+        "181": {
+            "id": 181,
+            "name": "Ping-Pong Et Débrief'",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796176670560317/PingPongEtDebrief.png",
+            "rarity": "Common"
+        },
+        "186": {
+            "id": 186,
+            "name": "En Boite",
+            "collection": "Soirée En Boîte",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796155585789983/EnBoite.png",
+            "rarity": "Common"
+        },
+        "190": {
+            "id": 190,
+            "name": "Bud De L'An 2023",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796154373644338/BudDeLAn2023.png",
+            "rarity": "Common"
         }
     },
     "funny": {
@@ -793,6 +892,87 @@
             "scrap": 25,
             "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432475836362804/PetitePause.png",
             "rarity": "Funny"
+        },
+        "171": {
+            "id": 171,
+            "name": "Check Ça",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796196018888714/CheckCa.png",
+            "rarity": "Funny"
+        },
+        "173": {
+            "id": 173,
+            "name": "Une Sombre Histoire",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796195263918180/UneSombreHistoire.png",
+            "rarity": "Funny"
+        },
+        "175": {
+            "id": 175,
+            "name": "Menace, Incompréhension et Alcoolisme",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796194542485585/MenaceIncomprehensionEtAlcoolisme.png",
+            "rarity": "Funny"
+        },
+        "177": {
+            "id": 177,
+            "name": "Visée De Pro",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796178218274916/ViseeDePro.png",
+            "rarity": "Funny"
+        },
+        "185": {
+            "id": 185,
+            "name": "Pull !",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796175366139934/Pool.png",
+            "rarity": "Funny"
+        },
+        "188": {
+            "id": 188,
+            "name": "POV : Combien De Verres ?",
+            "collection": "Soirée En Boîte",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796154986024970/POVCombienDeVerres.png",
+            "rarity": "Funny"
+        },
+        "191": {
+            "id": 191,
+            "name": "Qu'est-ce Que Tu As ?",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796154038112327/QuEstCeQueTuAs.png",
+            "rarity": "Funny"
+        },
+        "192": {
+            "id": 192,
+            "name": "Stratégie D'Équipe",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796153731907725/StrategieDEquipe.png",
+            "rarity": "Funny"
+        },
+        "195": {
+            "id": 195,
+            "name": "At This Moment We Knew...",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796152855298068/AtThisMomentWeKnew.png",
+            "rarity": "Funny"
         }
     },
     "legendary": {
@@ -983,6 +1163,33 @@
             "state": "Originale",
             "scrap": 50,
             "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432573341351936/EtEncoreUnVerre.png",
+            "rarity": "Legendary"
+        },
+        "182": {
+            "id": 182,
+            "name": "Juste Pourquoi ?",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 50,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796176318246943/JustePourquoi.png",
+            "rarity": "Legendary"
+        },
+        "183": {
+            "id": 183,
+            "name": "Mate Moi Ça",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 50,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796175991099412/MateMoiCa.png",
+            "rarity": "Legendary"
+        },
+        "193": {
+            "id": 193,
+            "name": "Faire Boire Ou Boire...",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 50,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796153408954378/FaireBoireOuBoire.png",
             "rarity": "Legendary"
         }
     },
@@ -1321,6 +1528,33 @@
             "scrap": 100,
             "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432473110065182/SoldatATerre.png",
             "rarity": "Memories"
+        },
+        "184": {
+            "id": 184,
+            "name": "Les Joueurs Et L'Alcoolique",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 100,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796175718453278/LesJoueursEtLAlcoolique.png",
+            "rarity": "Memories"
+        },
+        "189": {
+            "id": 189,
+            "name": "Santé !",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 100,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796154696597554/Sante.png",
+            "rarity": "Memories"
+        },
+        "194": {
+            "id": 194,
+            "name": "Target Acquired",
+            "collection": "Nouvel An 2023",
+            "state": "Originale",
+            "scrap": 100,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796153157308416/TargetAcquired.png",
+            "rarity": "Memories"
         }
     },
     "classified": {
@@ -1421,6 +1655,15 @@
             "state": "Originale",
             "scrap": 200,
             "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432572670251128/RelookingDIYExtreme.png",
+            "rarity": "Classified"
+        },
+        "187": {
+            "id": 187,
+            "name": "Vomito",
+            "collection": "Soirée En Boîte",
+            "state": "Originale",
+            "scrap": 200,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1059796155292196915/Vomito.png",
             "rarity": "Classified"
         }
     },

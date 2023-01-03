@@ -30,8 +30,10 @@
 - 18 Ans Aesa (20 Cartes)
 - Girafon Memories (5 Cartes)
 - 18 Ans Girafon (5 Cartes)
+- Nouvel An 2023 (24 Cartes)
+- En Boite (3 Cartes)
 
-### 168 Cartes à collectionner
+### 193 Cartes (+1 NFT) à collectionner
 ---
 
 | Carte | Collection | Rareté | Valeur | État | Lien | ID |
@@ -97,6 +99,17 @@
 | Un bar A Tenir | 18 Ans Aesa | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432477375664189/UnBarATenir.png) | 157
 | Débats Houleux | Bord De Loire | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432473953120336/DebatHouleux.png) | 163
 | Jusqu'à Là Tout Va Bien | Bal De Fin D'Année | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432472728391741/JusquaLaToutVaBien.png) | 166
+| Introspection | Nouvel An 2023 | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796196744495114/Instrospection.png) | 168
+| Recharge En Cours | Nouvel An 2023 | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796196396380180/RechargeEnCours.png) | 169
+| Perdu... | Nouvel An 2023 | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796195641393202/Perdu.png) | 171
+| Franchement C'est Soft | Nouvel An 2023 | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796194936758403/FranchementCEstSoft.png) | 173
+| La DreamTeam | Nouvel An 2023 | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796178700603432/LaDreamTeam.png) | 175
+| Discussion De Temporisation | Nouvel An 2023 | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796177832382465/DiscussionDeTemporisation.png) | 177
+| Redis Ça Pour Voir ? | Nouvel An 2023 | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796177446514758/RedisCaPourVoir.png) | 178
+| C'est Pour Toi | Nouvel An 2023 | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796177027092532/CestPourToi.png) | 179
+| Ping-Pong Et Débrief' | Nouvel An 2023 | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796176670560317/PingPongEtDebrief.png) | 180
+| En Boite | Soirée En Boîte | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796155585789983/EnBoite.png) | 185
+| Bud De L'An 2023 | Nouvel An 2023 | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796154373644338/BudDeLAn2023.png) | 189
 | MiÉtéMiHiver | / | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/973972749796122644/MiEteMiHiver.png) | 5
 | Hugo Le Nu | Photos Génantes | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/973972711321796718/HugoLeNu.png) | 10
 | 1 second before disaster | / | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/973972709153312818/1SecondBeforeDisaster.png) | 11
@@ -136,6 +149,15 @@
 | On Fait Avec Ce Qu'on A | Cadeaux 18 Ans | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432572347306065/OnFaitAvecCeQuOnA.png) | 155
 | Bain De Minuit | Bal De Fin D'Année | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432476461301781/BainDeMinuit.png) | 158
 | Petite Pause | 18 Ans Aesa | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432475836362804/PetitePause.png) | 159
+| Check Ça | Nouvel An 2023 | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796196018888714/CheckCa.png) | 170
+| Une Sombre Histoire | Nouvel An 2023 | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796195263918180/UneSombreHistoire.png) | 172
+| Menace, Incompréhension et Alcoolisme | Nouvel An 2023 | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796194542485585/MenaceIncomprehensionEtAlcoolisme.png) | 174
+| Visée De Pro | Nouvel An 2023 | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796178218274916/ViseeDePro.png) | 176
+| Pull ! | Nouvel An 2023 | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796175366139934/Pool.png) | 184
+| POV : Combien De Verres ? | Soirée En Boîte | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796154986024970/POVCombienDeVerres.png) | 187
+| Qu'est-ce Que Tu As ? | Nouvel An 2023 | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796154038112327/QuEstCeQueTuAs.png) | 189
+| Stratégie D'Équipe | Nouvel An 2023 | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796153731907725/StrategieDEquipe.png) | 190
+| At This Moment We Knew... | Nouvel An 2023 | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796152855298068/AtThisMomentWeKnew.png) | 193
 | Jo l'Taxi | En voiture | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/973972748701421638/Joltaxi.png) | 16
 | Indre-Et-Bière | Bord de Loire | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/973972708742287430/IndreEtBiere.png) | 17
 | Maillette Top 3 | NSI | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/973972749296992307/MailletteTop3.png) | 18
@@ -157,6 +179,9 @@
 | Beer Pong Corcé | 18 Ans Girafon | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432602189770763/BeerPongForce.png) | 135
 | Soirée STI2D | / | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432586066874368/SoireeSTI2D.png) | 143
 | Et Encore Un Verre | Bal De Fin D'Année | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432573341351936/EtEncoreUnVerre.png) | 152
+| Juste Pourquoi ? | Nouvel An 2023 | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796176318246943/JustePourquoi.png) | 181
+| Mate Moi Ça | Nouvel An 2023 | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796175991099412/MateMoiCa.png) | 182
+| Faire Boire Ou Boire... | Nouvel An 2023 | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796153408954378/FaireBoireOuBoire.png) | 191
 | Frères de Paris | Paris | <center> <span style="color:#3f46cf;">- **Recomposed** -</span></center> | 75 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/974204837250101258/FrereDeParis.png) | 19
 | V for victory | Paris | <center> <span style="color:#3f46cf;">- **Recomposed** -</span></center> | 75 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/974204835954065438/VForVictory.png) | 20
 | Souvenir de Paris | Paris | <center> <span style="color:#3f46cf;">- **Recomposed** -</span></center> | 75 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/973972750647570534/SouvenirDeParis.png) | 21
@@ -194,6 +219,9 @@
 | Potes, Bières Et Piscine | 18 Ans Girafon | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432574712885248/PotesBierresEtPiscine.png) | 148
 | Piscine A 3H | 18 Ans Girafon | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432473525309470/PiscineA3H.png) | 164
 | Soldat A Terre | Bal De Fin D'Année | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432473110065182/SoldatATerre.png) | 165
+| Les Joueurs Et L'Alcoolique | Nouvel An 2023 | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796175718453278/LesJoueursEtLAlcoolique.png) | 183
+| Santé ! | Nouvel An 2023 | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796154696597554/Sante.png) | 188
+| Target Acquired | Nouvel An 2023 | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796153157308416/TargetAcquired.png) | 192
 | Virgile Raptor | Soirée Trop Arrosée | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/973972748399411250/VirgileRaptor.png) | 29
 | City | Tentative de Meurtre | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/973985749655494656/City.png) | 30
 | JagerunSleep | Soirée Trop Arrosée | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/975093901989904475/JagerunSleep.png) | 37
@@ -205,3 +233,4 @@
 | Ca va Très Vite Entre Nous | / | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432609219428462/CaVaTresViteEntreNous.png) | 122
 | Relooking DIY | Soirée Trop Arrosée | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432573672689695/RelookingDIY.png) | 151
 | Relooking DIY Extrême | Soirée Trop Arrosée | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432572670251128/RelookingDIYExtreme.png) | 154
+| Vomito | Soirée En Boîte | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796155292196915/Vomito.png) | 186

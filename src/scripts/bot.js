@@ -289,10 +289,10 @@ bot.on('interactionCreate', async interaction =>{
                     interaction.editReply({embeds: [users.upgraded("fail","",interaction)]})
                 }
             }
-            else if(interaction.customId == "upgrade_market" && user["scrap"] >= 1000000){
+            else if(interaction.customId == "upgrade_market" && user["scrap"] >= 5000){
                 if(user["upgrade"]["market"] < 6){
                     user["upgrade"]["market"] += 1
-                    user["scrap"] -= 1000000
+                    user["scrap"] -= 5000
 
                     interaction.editReply({embeds: [users.upgraded("market",user["upgrade"]["market"],interaction)]})
                 }
