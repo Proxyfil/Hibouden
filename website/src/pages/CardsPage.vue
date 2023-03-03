@@ -5,7 +5,7 @@
             <h2>Pour l'instant</h2>
         </div>
         <div>
-            <CardsContainer v-for="cardType in Object.keys(cards)" v-bind:key="cardType" v-bind:title="cardType" v-bind:cards="Object.values(cards[cardType])" class="pt-16 pl-16 pr-16"/>
+            <CardsContainer v-for="cardType in Object.keys(cards)" v-bind:key="cardType" v-bind:title="cardType" v-bind:cards="Object.values(cards[cardType])" class="pt-16 pl-16 pr-16" id="cardContainer"/>
         </div>
     </div>
 </template>
@@ -31,5 +31,9 @@ console.log(Object.keys(cards))
 </script>
 
 <style scoped>
-
+@media screen and (max-width: 900px){
+    #cardContainer {
+        padding: 4rem 2rem 0rem 2rem;
+    }
+}
 </style>

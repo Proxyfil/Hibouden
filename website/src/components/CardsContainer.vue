@@ -1,8 +1,8 @@
 <template>
     <div v-if="title!='deprecated'">
         <h1 class="text-white text-2xl font-bold" v-bind:class="title">{{ rarityTrad[title] }}</h1>
-        <div class="grid-cols-5 inline-grid">
-            <CardDisplay v-for="card in cards" v-bind:key="card.name" v-bind:name="card.name" v-bind:collection="card.collection" v-bind:scrap="card.scrap" v-bind:img="card.img" v-bind:rarity="title" v-bind:id="card.id" class="w-70"/>
+        <div class="grid-cols-5 inline-grid" id="grid-to-change">
+            <CardDisplay v-for="card in cards" v-bind:key="card.name" v-bind:name="card.name" v-bind:collection="card.collection" v-bind:scrap="card.scrap" v-bind:img="card.img" v-bind:rarity="title" v-bind:id="card.id"/>
         </div>
     </div>
 </template>
@@ -62,5 +62,23 @@ export default {
 
 .nft{
     color: #00d819;
+}
+
+@media screen and (max-width: 1000px) {
+    #grid-to-change {
+        grid-template-columns: repeat(3, 1fr) !important;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    #grid-to-change {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    #grid-to-change {
+        grid-template-columns: repeat(1, 1fr) !important;
+    }
 }
 </style>

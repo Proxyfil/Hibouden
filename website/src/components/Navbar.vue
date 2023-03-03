@@ -2,6 +2,7 @@
     <nav class="flex justify-center bg-main-color text-white h-16">
         <ul class="flex justify-evenly w-1/5 mt-4">
             <li><router-link to="/" class="link pb-3" v-bind:class="{'active' : select=='home'}" v-on:click="select='home'">Accueil</router-link></li>
+            <img src="../assets/logo.png" alt="logo" class="w-10 h-10">
             <li><router-link to="/cards" class="link pb-3" v-bind:class="{'active' : select=='cards'}" v-on:click="select='cards'">Cartes</router-link></li>
         </ul>
     </nav>

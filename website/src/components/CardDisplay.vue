@@ -1,9 +1,11 @@
 <template>
-    <div class="bg-gray-900 m-2 p-2 rounded-md" v-bind:class="rarity">
+    <div class="bg-gray-900 m-2 p-2 rounded-md" v-bind:class="rarity" id="cardContainer">
         <h1 class="text-white font-bold text-xl">{{ name }}</h1>
         <h2 class="text-white">{{ collection }}</h2>
-        <h2 class="text-white">{{ scrap }} 🪙</h2>
-        <img v-bind:src="img" alt="img" class="w-64 mt-2"/>
+        <h2 class="text-white flex">{{ scrap }} <img src="https://em-content.zobj.net/thumbs/120/microsoft/319/coin_1fa99.png" class="w-6 ml-1"></h2>
+        <div class="flex justify-center">
+            <img v-bind:src="img" alt="img" class="w-max mt-2"/>
+        </div>
         <p class="text-xs text-gray-500 mt-2">ID : {{ id }}</p>
     </div>
 </template>
@@ -57,5 +59,15 @@ export default {
 
 .nft{
     border-top: 7px solid #00d819;
+}
+
+@media screen and (max-width: 500px) {
+    div {
+        margin: 4px;
+    }
+
+    #cardContainer {
+        width: 100%;
+    }
 }
 </style>
