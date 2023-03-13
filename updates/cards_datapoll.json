@@ -1,0 +1,1856 @@
+[
+    {
+        "id": 0,
+        "name": "Finale Maillette",
+        "collection": "NSI",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/974204834142109726/FinaleMaillette.png",
+        "rarity": "common"
+    },
+    {
+        "id": 1,
+        "name": "BoudiBoudin",
+        "collection": "Photos Génantes",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/974204835018731520/BoudiBoudin.png",
+        "rarity": "common"
+    },
+    {
+        "id": 2,
+        "name": "Nationalisme",
+        "collection": "Photos Génantes",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/974204835366850560/Nationalisme.png",
+        "rarity": "common"
+    },
+    {
+        "id": 3,
+        "name": "Punch Citrouille",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/974204836591583252/PunchCitrouille.png",
+        "rarity": "common"
+    },
+    {
+        "id": 4,
+        "name": "Catastrophe Capilaire",
+        "collection": "Photos Génantes",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/974204836994252810/CatastropheCapilaire.png",
+        "rarity": "common"
+    },
+    {
+        "id": 5,
+        "name": "MiÉtéMiHiver",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/973972749796122644/MiEteMiHiver.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 6,
+        "name": "PizzaHugo",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/973972750047801414/PizzaHugo.png",
+        "rarity": "common"
+    },
+    {
+        "id": 7,
+        "name": "Ah chaud....!",
+        "collection": "Photos Génantes",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/973972709505654824/AhChaud.png",
+        "rarity": "common"
+    },
+    {
+        "id": 8,
+        "name": "Error404",
+        "collection": "NSI",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/973972710537433110/Error404.png",
+        "rarity": "common"
+    },
+    {
+        "id": 9,
+        "name": "Goomed",
+        "collection": "Photos Génantes",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/973972711040761916/Goumed.png",
+        "rarity": "common"
+    },
+    {
+        "id": 10,
+        "name": "Hugo Le Nu",
+        "collection": "Photos Génantes",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/973972711321796718/HugoLeNu.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 11,
+        "name": "1 second before disaster",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/973972709153312818/1SecondBeforeDisaster.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 12,
+        "name": "RepasThaï",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/973972750358167562/RepasThai.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 13,
+        "name": "Maxime-Saucisson",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/973972749552857129/MaximeSaucisson.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 14,
+        "name": "Au chaud en cours",
+        "collection": "Folie en cours",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/973972709769887755/AuChaudEnCours.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 15,
+        "name": "McDo Pré-Bac",
+        "collection": "Bac",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/974204835610116116/McDoPreBac.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 16,
+        "name": "Jo l'Taxi",
+        "collection": "En voiture",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/973972748701421638/Joltaxi.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 17,
+        "name": "Indre-Et-Bière",
+        "collection": "Bord de Loire",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/973972708742287430/IndreEtBiere.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 18,
+        "name": "Maillette Top 3",
+        "collection": "NSI",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/973972749296992307/MailletteTop3.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 19,
+        "name": "Frères de Paris",
+        "collection": "Paris",
+        "state": "Original",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/974204837250101258/FrereDeParis.png",
+        "rarity": "recomposed"
+    },
+    {
+        "id": 20,
+        "name": "V for victory",
+        "collection": "Paris",
+        "state": "Original",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/974204835954065438/VForVictory.png",
+        "rarity": "recomposed"
+    },
+    {
+        "id": 21,
+        "name": "Souvenir de Paris",
+        "collection": "Paris",
+        "state": "Original",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/973972750647570534/SouvenirDeParis.png",
+        "rarity": "recomposed"
+    },
+    {
+        "id": 22,
+        "name": "Kévin",
+        "collection": "Paris",
+        "state": "Original",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/974204834658025543/Kevin.png",
+        "rarity": "recomposed"
+    },
+    {
+        "id": 23,
+        "name": "Pls don't touch",
+        "collection": "Paris",
+        "state": "Original",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/974204836277006376/PlsDontTouch.png",
+        "rarity": "recomposed"
+    },
+    {
+        "id": 24,
+        "name": "Le Crew Post Soirée",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 100,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/973972748974047292/LeCrouPostSoiree.png",
+        "rarity": "memories"
+    },
+    {
+        "id": 25,
+        "name": "Explications SoonTM",
+        "collection": "Cadeaux 18 Ans",
+        "state": "Original",
+        "scrap": 100,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/973972710755532840/ExplicationsSoonTM.png",
+        "rarity": "memories"
+    },
+    {
+        "id": 26,
+        "name": "Virgile PornHub",
+        "collection": "Folie en cours",
+        "state": "Original",
+        "scrap": 100,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/973972750945357824/VirgilePornHub.png",
+        "rarity": "memories"
+    },
+    {
+        "id": 27,
+        "name": "BacBlancHapied",
+        "collection": "Bac",
+        "state": "Original",
+        "scrap": 100,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/973972710046703616/BacBlancHapied.png",
+        "rarity": "memories"
+    },
+    {
+        "id": 28,
+        "name": "Départ Alpha",
+        "collection": "Cadeaux 18 Ans",
+        "state": "Original",
+        "scrap": 100,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/973972710256443462/Depart_alpha.png",
+        "rarity": "memories"
+    },
+    {
+        "id": 29,
+        "name": "Virgile Raptor",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 200,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/973972748399411250/VirgileRaptor.png",
+        "rarity": "classified"
+    },
+    {
+        "id": 30,
+        "name": "City",
+        "collection": "Tentative de Meurtre",
+        "state": "Original",
+        "scrap": 200,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/973985749655494656/City.png",
+        "rarity": "classified"
+    },
+    {
+        "id": 31,
+        "name": "Watcha",
+        "collection": "Hugo Perruquet",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975093899649490944/Watcha.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 32,
+        "name": "WaitingForPermis",
+        "collection": "En voiture",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975093899968262184/WaitingForPermis.png",
+        "rarity": "common"
+    },
+    {
+        "id": 33,
+        "name": "Break",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975093900542902293/Break.png",
+        "rarity": "common"
+    },
+    {
+        "id": 34,
+        "name": "Dure Soirée",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975093900891009164/DureSoiree.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 35,
+        "name": "Here we... Oh...",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975093901255905341/HereWeOh.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 36,
+        "name": "DoMac",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975093901495009290/DoMac.png",
+        "rarity": "common"
+    },
+    {
+        "id": 37,
+        "name": "JagerunSleep",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 200,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975093901989904475/JagerunSleep.png",
+        "rarity": "classified"
+    },
+    {
+        "id": 38,
+        "name": "Amongus",
+        "collection": "Photos Génantes",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975093902208028762/HapiFeet.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 39,
+        "name": "HapiSleep",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975093905366331392/HapiSleep.png",
+        "rarity": "common"
+    },
+    {
+        "id": 40,
+        "name": "Partouz... Ou Pas",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094084698005514/PartouzeOuPas.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 41,
+        "name": "Ptite Binouze ?",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094084937089114/PtiteBinouze.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 42,
+        "name": "MathExperted",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 100,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094085184520252/MathExperted.png",
+        "rarity": "memories"
+    },
+    {
+        "id": 43,
+        "name": "Bisous",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 200,
+        "img": "https://images-ext-1.discordapp.net/external/hWyuTf-HSYoYMVhWacI4vTW_9rK7Ta13w5eOQ3f5K0o/https/media.discordapp.net/attachments/947917639840329760/975094085461352518/Bisous.png",
+        "rarity": "classified"
+    },
+    {
+        "id": 44,
+        "name": "El Patronito",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094085687840849/ElPatronito.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 45,
+        "name": "PUNI !",
+        "collection": "NSI",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094085947908146/Puni.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 46,
+        "name": "La nature et les potes",
+        "collection": "Volley",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094086220546108/LaNatureEtLesPotes.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 47,
+        "name": "NEGIMA",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094086484770876/NEGIMA.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 48,
+        "name": "Opération Alpha Fliced !",
+        "collection": "Opération Alpha",
+        "state": "Original",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094086723850270/OperationAlphaFliced.png",
+        "rarity": "recomposed"
+    },
+    {
+        "id": 49,
+        "name": "Saucissoned",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094086958735420/Saucissoned.png",
+        "rarity": "common"
+    },
+    {
+        "id": 50,
+        "name": "Spectateurs Maillette",
+        "collection": "NSI",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094143602810910/SpectateursMaillette.png",
+        "rarity": "common"
+    },
+    {
+        "id": 51,
+        "name": "La K de Jo",
+        "collection": "En voiture",
+        "state": "Original",
+        "scrap": 100,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094143829295154/LaKDeJo.png",
+        "rarity": "memories"
+    },
+    {
+        "id": 52,
+        "name": "POV : Je l'ai tué",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094144055791636/POVJeLaiTue.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 53,
+        "name": "Pierre De Plage",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094144324210718/PierreDePlage.png",
+        "rarity": "common"
+    },
+    {
+        "id": 54,
+        "name": "Red Wall",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094144584278096/RedWall.png",
+        "rarity": "common"
+    },
+    {
+        "id": 55,
+        "name": "Poc !",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094144835911780/POC.png",
+        "rarity": "common"
+    },
+    {
+        "id": 56,
+        "name": "Kikou",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094145066614935/KiKou.png",
+        "rarity": "common"
+    },
+    {
+        "id": 57,
+        "name": "Mamie Hugo",
+        "collection": "Hugo Perruquet",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094145263738930/MamieHugo.png",
+        "rarity": "common"
+    },
+    {
+        "id": 58,
+        "name": "Couched (Blink)",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 100,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094145460895784/Couched.png",
+        "rarity": "memories"
+    },
+    {
+        "id": 59,
+        "name": "Clio",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 200,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094145687380038/CLIO.png",
+        "rarity": "classified"
+    },
+    {
+        "id": 60,
+        "name": "Here To Win",
+        "collection": "Volley",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094143888003182/HereToWin.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 61,
+        "name": "POV : Send Nudes",
+        "collection": "Photos Génantes",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094144110325800/POVSendNudes.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 62,
+        "name": "Jo Pour Un Pote",
+        "collection": "En voiture",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094144336810045/JoPourUnPote.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 63,
+        "name": "Supporters De Toujours",
+        "collection": "Volley",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094144571682866/SupportersDeToujours.png",
+        "rarity": "common"
+    },
+    {
+        "id": 64,
+        "name": "Hapi BB",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094144827527228/HapiBB.png",
+        "rarity": "common"
+    },
+    {
+        "id": 65,
+        "name": "La Licorne, Le Roux et Le Pédo",
+        "collection": "Folie en cours",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094145100181535/LaLicorneLeRouxEtLePedo.png",
+        "rarity": "common"
+    },
+    {
+        "id": 66,
+        "name": "Cha Va ?",
+        "collection": "Hugo Perruquet",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094145322459206/ChaVa.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 67,
+        "name": "Tu kiffes ? Moi Aussi !",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094145569914921/TuKiffesMoiAussi.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 68,
+        "name": "Le Blond, Le Truc et L'Abrutissant",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094145804820591/LeBlondLeTrucEtLAbrutissant.png",
+        "rarity": "common"
+    },
+    {
+        "id": 69,
+        "name": "Toc Toc",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094146060652654/TocToc.png",
+        "rarity": "common"
+    },
+    {
+        "id": 70,
+        "name": "Longue Soirée",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 200,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094153111302144/LongueSoiree.png",
+        "rarity": "classified"
+    },
+    {
+        "id": 71,
+        "name": "Plouf",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094153430040587/Plouf.png",
+        "rarity": "common"
+    },
+    {
+        "id": 72,
+        "name": "Pied Volant",
+        "collection": "Paris",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094153694294066/PiedVolant.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 73,
+        "name": "Noice",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 100,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094153916596295/Noice.png",
+        "rarity": "memories"
+    },
+    {
+        "id": 74,
+        "name": "Rentre Chez Toi",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 100,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094154185048144/RentreChezToi.png",
+        "rarity": "memories"
+    },
+    {
+        "id": 75,
+        "name": "Heineken KO",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094154478624828/HeinekenKO.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 76,
+        "name": "Alpha Arrivé",
+        "collection": "Opération Alpha",
+        "state": "Original",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094154784804925/AlphaArrive.png",
+        "rarity": "recomposed"
+    },
+    {
+        "id": 77,
+        "name": "Alpha Dans Point B",
+        "collection": "Opération Alpha",
+        "state": "Original",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094155091009536/AlphaDansPointB.png",
+        "rarity": "recomposed"
+    },
+    {
+        "id": 78,
+        "name": "Alpha Fliced",
+        "collection": "Opération Alpha",
+        "state": "Original",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094155351040082/AlphaFliced.png",
+        "rarity": "recomposed"
+    },
+    {
+        "id": 79,
+        "name": "Alpha Dans Point T",
+        "collection": "Opération Alpha",
+        "state": "Original",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975094155648827402/AlphaDansPointT.png",
+        "rarity": "recomposed"
+    },
+    {
+        "id": 80,
+        "name": "uwu",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975093900274458667/uwu.png",
+        "rarity": "common"
+    },
+    {
+        "id": 81,
+        "name": "Goûter à Plume",
+        "collection": "Tentative De Meurtre",
+        "state": "Original",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975321444324102165/GouterPlume.png",
+        "rarity": "recomposed"
+    },
+    {
+        "id": 82,
+        "name": "Salut BG !",
+        "collection": "Bac",
+        "state": "Original",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975321444621877328/SalutBG.png",
+        "rarity": "recomposed"
+    },
+    {
+        "id": 83,
+        "name": "TelephoneAuVolant",
+        "collection": "Bac",
+        "state": "Original",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975321445070696478/TelephoneAuVolant.png",
+        "rarity": "recomposed"
+    },
+    {
+        "id": 84,
+        "name": "Y'a Des Noms Qui Se Perdent",
+        "collection": "Bac",
+        "state": "Original",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975321445326540800/YaDesNomsQuiSePerdent.png",
+        "rarity": "recomposed"
+    },
+    {
+        "id": 85,
+        "name": "2 Geek A L'Air Libre",
+        "collection": "Bac",
+        "state": "Original",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975321445636898866/2GeekALAirLibre.png",
+        "rarity": "recomposed"
+    },
+    {
+        "id": 86,
+        "name": "Coupez ça Monsieur !",
+        "collection": "Bac",
+        "state": "Original",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975321445863403540/CoupezCaMonsieur.png",
+        "rarity": "recomposed"
+    },
+    {
+        "id": 87,
+        "name": "Portons Plainte !",
+        "collection": "Tentative De Meurtre",
+        "state": "Original",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975321446194770002/PortonsPlainte.png",
+        "rarity": "recomposed"
+    },
+    {
+        "id": 88,
+        "name": "Devoir Civique Fait",
+        "collection": "Tentative De Meurtre",
+        "state": "Original",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975321446467395644/DevoirCiviqueFait.png",
+        "rarity": "recomposed"
+    },
+    {
+        "id": 89,
+        "name": "Commico",
+        "collection": "Tentative De Meurtre",
+        "state": "Original",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975321446748422184/Commico.png",
+        "rarity": "recomposed"
+    },
+    {
+        "id": 90,
+        "name": "POV : Aled",
+        "collection": "Tentative De Meurtre",
+        "state": "Original",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/975321446974894100/POVAled.png",
+        "rarity": "recomposed"
+    },
+    {
+        "id": 91,
+        "name": "Neige & Bedos (POLOLO)",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344409297330206/NeigeBedosPOLOLO.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 92,
+        "name": "MenuHealthy",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344408961794148/MenuHealthy.png",
+        "rarity": "common"
+    },
+    {
+        "id": 93,
+        "name": "La Matrice",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344408647233546/LaMatrice.png",
+        "rarity": "common"
+    },
+    {
+        "id": 94,
+        "name": "Jacky Fini La Bouteille",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344408320081950/JackyFiniLaBouteille.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 95,
+        "name": "Jacky Boit",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 100,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344407833530368/JackyBoit.png",
+        "rarity": "memories"
+    },
+    {
+        "id": 96,
+        "name": "Jacky A La Pêche",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344407502184468/JackyALaPeche.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 97,
+        "name": "Herisson En Danger",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344407078563890/HerissonEnDanger.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 98,
+        "name": "Empacté",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344406751379496/Empacte.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 99,
+        "name": "Donut ?",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344406273257562/Donut.png",
+        "rarity": "common"
+    },
+    {
+        "id": 100,
+        "name": "Des Pâtes !",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344406017380362/DesPates.png",
+        "rarity": "common"
+    },
+    {
+        "id": 101,
+        "name": "Wishy Blinders",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344398010462218/WishyBlinders.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 102,
+        "name": "Virgile Rebel",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344397729460284/VirgileRebel.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 103,
+        "name": "Virgile Mouillé",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344397410668545/VirgileMouille.png",
+        "rarity": "common"
+    },
+    {
+        "id": 104,
+        "name": "Virgile Banquier",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344397179977758/VigileBanquier.png",
+        "rarity": "common"
+    },
+    {
+        "id": 105,
+        "name": "Virgile Au Plouf",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344396836057098/VigileAuPlouf.png",
+        "rarity": "common"
+    },
+    {
+        "id": 106,
+        "name": "Tout Nu",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344396534083584/ToutNu.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 107,
+        "name": "Sur De Bons Rails",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344396286599168/SurDeBonsRails.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 108,
+        "name": "Soirée (Bien) Accompagnée",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 0,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344395967823872/SoireeAccompagnee.png",
+        "rarity": "deprecated"
+    },
+    {
+        "id": 109,
+        "name": "Pump It",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344395665850418/PumpIt.png",
+        "rarity": "common"
+    },
+    {
+        "id": 110,
+        "name": "Pas Matinal",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344395389034616/PasMatinal.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 111,
+        "name": "Décuvage...",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344352116391966/Decuvage.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 112,
+        "name": "Dating Simulator",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 200,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344351831171082/DatingSimulator.png",
+        "rarity": "classified"
+    },
+    {
+        "id": 113,
+        "name": "Dance Till You're Dead",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 100,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344351436927066/DanceTillYoureDead.png",
+        "rarity": "memories"
+    },
+    {
+        "id": 114,
+        "name": "Boutade Matinale",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344351210426428/BoutadeMatinale.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 115,
+        "name": "Big Brain",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344350954557440/BigBrain.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 116,
+        "name": "After Aux WC",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344350757437491/AfterAuxWC.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 117,
+        "name": "4 Quart à 16 Heure !",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 200,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/982344350468014090/4QuartA16Heure.png",
+        "rarity": "classified"
+    },
+    {
+        "id": 118,
+        "name": "L'Heure Des Classiques",
+        "collection": "18 ans Aesa",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432610876174438/LHeureDesClassiques.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 119,
+        "name": "Wait WHAT ?",
+        "collection": "18 ans Aesa",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432610557403216/WaitWHAT.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 120,
+        "name": "Jamais Être Seul",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 0,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432610263805992/JamaisEtreSeul.png",
+        "rarity": "deprecated"
+    },
+    {
+        "id": 121,
+        "name": "Ca Mord Pas De Fou",
+        "collection": "Girafon Memories",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432609936646244/CaMordPasDeFou.png",
+        "rarity": "common"
+    },
+    {
+        "id": 122,
+        "name": "Un Bal Particulier",
+        "collection": "Bal De Fin D'Année",
+        "state": "Original",
+        "scrap": 100,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432609550782505/UnBalParticulier.png",
+        "rarity": "memories"
+    },
+    {
+        "id": 123,
+        "name": "Ca va Très Vite Entre Nous",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 200,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432609219428462/CaVaTresViteEntreNous.png",
+        "rarity": "classified"
+    },
+    {
+        "id": 124,
+        "name": "Footing Nu",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 100,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432608808378378/FootingNu.png",
+        "rarity": "memories"
+    },
+    {
+        "id": 125,
+        "name": "Voyage Scolaire",
+        "collection": "Girafon Memories",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432608502206464/VoyageScolaire.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 126,
+        "name": "Être Équipé",
+        "collection": "Girafon Memories",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432608107933778/EtreEquipe.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 127,
+        "name": "Flow37",
+        "collection": "Girafon Memories",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432607722045460/Flow37.png",
+        "rarity": "common"
+    },
+    {
+        "id": 128,
+        "name": "Discussion Lunaire",
+        "collection": "18 Ans Aesa",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432609034866719/DiscussionLunaire.png",
+        "rarity": "common"
+    },
+    {
+        "id": 129,
+        "name": "Les 2 Nouilles",
+        "collection": "18 Ans Aesa",
+        "state": "Original",
+        "scrap": 0,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432608703520849/Les2Nouilles.png",
+        "rarity": "deprecated"
+    },
+    {
+        "id": 130,
+        "name": "2 En 1",
+        "collection": "18 Ans Aesa",
+        "state": "Original",
+        "scrap": 0,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432608309260448/2En1.png",
+        "rarity": "deprecated"
+    },
+    {
+        "id": 131,
+        "name": "WOULA Is Ok",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 0,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432604328857721/WOULAIsOk.png",
+        "rarity": "deprecated"
+    },
+    {
+        "id": 132,
+        "name": "Intru Et Vodka URSS",
+        "collection": "18 Ans Aesa",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432603859107870/IntruEtVodkaURSS.png",
+        "rarity": "common"
+    },
+    {
+        "id": 133,
+        "name": "Je Pense C'est Tout",
+        "collection": "18 Ans Aesa",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432603418697758/JePenseCEstTout.png",
+        "rarity": "common"
+    },
+    {
+        "id": 134,
+        "name": "Débrief Matinal",
+        "collection": "18 Ans Aesa",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432602986696794/DebriefMatinal.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 135,
+        "name": "McDo Au Calme",
+        "collection": "Bord de Loire",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432602638549022/McDoAuCalme.png",
+        "rarity": "common"
+    },
+    {
+        "id": 136,
+        "name": "Beer Pong Corcé",
+        "collection": "18 Ans Girafon",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432602189770763/BeerPongForce.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 137,
+        "name": "Pause Tactique",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432599786442812/PauseTactique.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 138,
+        "name": "Rock & Brulûre",
+        "collection": "18 Ans Aesa",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432588948340767/RockBrulure.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 139,
+        "name": "Oh Ta Gueule",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432588457623632/OhTaGueule.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 140,
+        "name": "Retour Difficile",
+        "collection": "18 Ans Girafon",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432588054954134/RetourDifficile.png",
+        "rarity": "common"
+    },
+    {
+        "id": 141,
+        "name": "Avec Délicatesse",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 0,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432587711033384/AvecDelicatesse.png",
+        "rarity": "deprecated"
+    },
+    {
+        "id": 142,
+        "name": "Gaming & Win",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432587169960046/GamingWin.png",
+        "rarity": "common"
+    },
+    {
+        "id": 143,
+        "name": "Piou Piou",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432586389831720/PiouPiou.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 144,
+        "name": "Soirée STI2D",
+        "collection": "/",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432586066874368/SoireeSTI2D.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 145,
+        "name": "Mini-Girafon",
+        "collection": "Girafon Memories",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432585764872252/MiniGirafon.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 146,
+        "name": "Focus : None",
+        "collection": "18 Ans Aesa",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432585433526344/FocusNone.png",
+        "rarity": "common"
+    },
+    {
+        "id": 147,
+        "name": "Derrière Un Bar",
+        "collection": "18 Ans Aesa",
+        "state": "Original",
+        "scrap": 0,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432585165099028/DerriereUnBar.png",
+        "rarity": "deprecated"
+    },
+    {
+        "id": 148,
+        "name": "Groupe Multiple",
+        "collection": "18 Ans Aesa",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432575115534336/GroupeMultiple.png",
+        "rarity": "common"
+    },
+    {
+        "id": 149,
+        "name": "Potes, Bières Et Piscine",
+        "collection": "18 Ans Girafon",
+        "state": "Original",
+        "scrap": 100,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432574712885248/PotesBierresEtPiscine.png",
+        "rarity": "memories"
+    },
+    {
+        "id": 150,
+        "name": "Tireurs D'Élite",
+        "collection": "18 Ans Girafon",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432574385737819/TireursDElite.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 151,
+        "name": "Choix, Frigo Et Bosse",
+        "collection": "18 Ans Aesa",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432574041784391/ChoixFrigoEtBosse.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 152,
+        "name": "Relooking DIY",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 200,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432573672689695/RelookingDIY.png",
+        "rarity": "classified"
+    },
+    {
+        "id": 153,
+        "name": "Et Encore Un Verre",
+        "collection": "Bal De Fin D'Année",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432573341351936/EtEncoreUnVerre.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 154,
+        "name": "Lendemain Difficile",
+        "collection": "18 Ans Aesa",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432572980625478/LendemainDifficile.png",
+        "rarity": "common"
+    },
+    {
+        "id": 155,
+        "name": "Relooking DIY Extrême",
+        "collection": "Soirée Trop Arrosée",
+        "state": "Original",
+        "scrap": 200,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432572670251128/RelookingDIYExtreme.png",
+        "rarity": "classified"
+    },
+    {
+        "id": 156,
+        "name": "On Fait Avec Ce Qu'on A",
+        "collection": "Cadeaux 18 Ans",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432572347306065/OnFaitAvecCeQuOnA.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 157,
+        "name": "Tout Va Bien",
+        "collection": "18 Ans Aesa",
+        "state": "Original",
+        "scrap": 0,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432572049498123/ToutVaBien.png",
+        "rarity": "deprecated"
+    },
+    {
+        "id": 158,
+        "name": "Un bar A Tenir",
+        "collection": "18 Ans Aesa",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432477375664189/UnBarATenir.png",
+        "rarity": "common"
+    },
+    {
+        "id": 159,
+        "name": "Bain De Minuit",
+        "collection": "Bal De Fin D'Année",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432476461301781/BainDeMinuit.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 160,
+        "name": "Petite Pause",
+        "collection": "18 Ans Aesa",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432475836362804/PetitePause.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 161,
+        "name": "Discussion Au Bar",
+        "collection": "18 Ans Aesa",
+        "state": "Original",
+        "scrap": 0,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432474737451048/DiscussionAuBar.png",
+        "rarity": "deprecated"
+    },
+    {
+        "id": 162,
+        "name": "Discussion Au Bar",
+        "collection": "18 Ans Aesa",
+        "state": "Original",
+        "scrap": 0,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432474737451048/DiscussionAuBar.png",
+        "rarity": "deprecated"
+    },
+    {
+        "id": 163,
+        "name": "Cadeau Surprise",
+        "collection": "Cadeaux 18 Ans",
+        "state": "Original",
+        "scrap": 0,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432474297057351/CadeauSurprise.png",
+        "rarity": "deprecated"
+    },
+    {
+        "id": 164,
+        "name": "Débats Houleux",
+        "collection": "Bord De Loire",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432473953120336/DebatHouleux.png",
+        "rarity": "common"
+    },
+    {
+        "id": 165,
+        "name": "Piscine A 3H",
+        "collection": "18 Ans Girafon",
+        "state": "Original",
+        "scrap": 100,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432473525309470/PiscineA3H.png",
+        "rarity": "memories"
+    },
+    {
+        "id": 166,
+        "name": "Soldat A Terre",
+        "collection": "Bal De Fin D'Année",
+        "state": "Original",
+        "scrap": 100,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432473110065182/SoldatATerre.png",
+        "rarity": "memories"
+    },
+    {
+        "id": 167,
+        "name": "Jusqu'à Là Tout Va Bien",
+        "collection": "Bal De Fin D'Année",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432472728391741/JusquaLaToutVaBien.png",
+        "rarity": "common"
+    },
+    {
+        "id": 168,
+        "name": "Test D'Alcoolémie DIY",
+        "collection": "18 Ans Aesa",
+        "state": "Original",
+        "scrap": 0,
+        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432472036327504/TestDAlcoolemieDIY.png",
+        "rarity": "deprecated"
+    },
+    {
+        "id": 169,
+        "name": "Introspection",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796196744495114/Instrospection.png",
+        "rarity": "common"
+    },
+    {
+        "id": 170,
+        "name": "Recharge En Cours",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796196396380180/RechargeEnCours.png",
+        "rarity": "common"
+    },
+    {
+        "id": 171,
+        "name": "Check Ça",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796196018888714/CheckCa.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 172,
+        "name": "Perdu...",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796195641393202/Perdu.png",
+        "rarity": "common"
+    },
+    {
+        "id": 173,
+        "name": "Une Sombre Histoire",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796195263918180/UneSombreHistoire.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 174,
+        "name": "Franchement C'est Soft",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796194936758403/FranchementCEstSoft.png",
+        "rarity": "common"
+    },
+    {
+        "id": 175,
+        "name": "Menace, Incompréhension et Alcoolisme",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796194542485585/MenaceIncomprehensionEtAlcoolisme.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 176,
+        "name": "La DreamTeam",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796178700603432/LaDreamTeam.png",
+        "rarity": "common"
+    },
+    {
+        "id": 177,
+        "name": "Visée De Pro",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796178218274916/ViseeDePro.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 178,
+        "name": "Discussion De Temporisation",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796177832382465/DiscussionDeTemporisation.png",
+        "rarity": "common"
+    },
+    {
+        "id": 179,
+        "name": "Redis Ça Pour Voir ?",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796177446514758/RedisCaPourVoir.png",
+        "rarity": "common"
+    },
+    {
+        "id": 180,
+        "name": "C'est Pour Toi",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796177027092532/CestPourToi.png",
+        "rarity": "common"
+    },
+    {
+        "id": 181,
+        "name": "Ping-Pong Et Débrief'",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796176670560317/PingPongEtDebrief.png",
+        "rarity": "common"
+    },
+    {
+        "id": 182,
+        "name": "Juste Pourquoi ?",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796176318246943/JustePourquoi.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 183,
+        "name": "Mate Moi Ça",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796175991099412/MateMoiCa.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 184,
+        "name": "Les Joueurs Et L'Alcoolique",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 100,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796175718453278/LesJoueursEtLAlcoolique.png",
+        "rarity": "memories"
+    },
+    {
+        "id": 185,
+        "name": "Pull !",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796175366139934/Pool.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 186,
+        "name": "En Boite",
+        "collection": "Soirée En Boîte",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796155585789983/EnBoite.png",
+        "rarity": "common"
+    },
+    {
+        "id": 187,
+        "name": "Vomito",
+        "collection": "Soirée En Boîte",
+        "state": "Original",
+        "scrap": 200,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796155292196915/Vomito.png",
+        "rarity": "classified"
+    },
+    {
+        "id": 188,
+        "name": "POV : Combien De Verres ?",
+        "collection": "Soirée En Boîte",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796154986024970/POVCombienDeVerres.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 189,
+        "name": "Santé !",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 100,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796154696597554/Sante.png",
+        "rarity": "memories"
+    },
+    {
+        "id": 190,
+        "name": "Bud De L'An 2023",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796154373644338/BudDeLAn2023.png",
+        "rarity": "common"
+    },
+    {
+        "id": 191,
+        "name": "Qu'est-ce Que Tu As ?",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796154038112327/QuEstCeQueTuAs.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 192,
+        "name": "Stratégie D'Équipe",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796153731907725/StrategieDEquipe.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 193,
+        "name": "Faire Boire Ou Boire...",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 50,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796153408954378/FaireBoireOuBoire.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 194,
+        "name": "Target Acquired",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 100,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796153157308416/TargetAcquired.png",
+        "rarity": "memories"
+    },
+    {
+        "id": 195,
+        "name": "At This Moment We Knew...",
+        "collection": "Nouvel An 2023",
+        "state": "Original",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796152855298068/AtThisMomentWeKnew.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 196,
+        "name": "Une Nouveau Tapis",
+        "collection": "18 Ans Raphaël",
+        "state": "Originale",
+        "scrap": 100,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1084834839200542831/UnNouveauTapis.png",
+        "rarity": "memories"
+    },
+    {
+        "id": 197,
+        "name": "Grand Cru En Devenir",
+        "collection": "18 Ans Raphaël",
+        "state": "Originale",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1084834839439626431/GrandCruEnDevenir.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 198,
+        "name": "Kamoulox Humain",
+        "collection": "18 Ans Raphaël",
+        "state": "Originale",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1084834839687069827/KamouloxHumain.png",
+        "rarity": "common"
+    },
+    {
+        "id": 199,
+        "name": "La Plage A La Fête",
+        "collection": "18 Ans Raphaël",
+        "state": "Originale",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1084834839963906048/LaPlageALaFete.png",
+        "rarity": "common"
+    },
+    {
+        "id": 200,
+        "name": "La Valse De L'Espace",
+        "collection": "18 Ans Raphaël",
+        "state": "Originale",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1084834840186212464/LaValseDeLEspace.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 201,
+        "name": "Le Cowboy D'Ambillou",
+        "collection": "18 Ans Raphaël",
+        "state": "Originale",
+        "scrap": 10,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1084834840425267272/LeCowboyDAmbillou.png",
+        "rarity": "common"
+    },
+    {
+        "id": 202,
+        "name": "La Valse De L'Espace",
+        "collection": "18 Ans Raphaël",
+        "state": "Originale",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1084834840651771914/Les2FontLaPaire.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 203,
+        "name": "Les 2 Font La Paire",
+        "collection": "18 Ans Raphaël",
+        "state": "Originale",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1084834840651771914/Les2FontLaPaire.png",
+        "rarity": "funny"
+    },
+    {
+        "id": 204,
+        "name": "Pompier-Princesse",
+        "collection": "18 Ans Raphaël",
+        "state": "Originale",
+        "scrap": 50,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1084834840882466826/PompierPrincesse.png",
+        "rarity": "legendary"
+    },
+    {
+        "id": 205,
+        "name": "Tapis Empacté",
+        "collection": "18 Ans Raphaël",
+        "state": "Originale",
+        "scrap": 25,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1084834841184436274/TapisEmpacte.png",
+        "rarity": "funny"
+    }
+]
