@@ -18,17 +18,17 @@ for card in data:
     collections['total'] += 1
     if card['rarity'] == 'NFT':
         nft.append(card['name'])
-    data_cards[card['rarity']][card['id']] = card
+    data_cards[card['rarity'].lower()][card['id']] = card
 
 cards_output += '\n---'
 for collection in collections:
     cards_output += '\n- '+collection+' ('+str(collections[collection])+' Cartes)'
 cards_output += '\n\n### '+str(collections['total'])+' Cartes (+'+str(len(nft))+' NFT) à collectionner\n---\n\n| Carte | Collection | Rareté | Valeur | État | Lien | ID |\n|-|-|-|-|-|-|-|'
 
-data = sorted(data, key=lambda k: priority[k['rarity']])
+data = sorted(data, key=lambda k: priority[k['rarity'].lower()])
 
 for card in data:
-    cards_output += '\n| '+card['name']+' | '+card['collection']+' | <center> <span style="color:'+color[card['rarity']]+';">- **'+str(card['rarity'])+'** -</span></center> | '+str(card['scrap'])+' | '+card['state']+' | [Image]('+card['img']+') | '+str(card['id'])+' |'
+    cards_output += '\n| '+card['name']+' | '+card['collection']+' | <center> <span style="color:'+color[card['rarity'].lower()]+';">- **'+str(card['rarity'])+'** -</span></center> | '+str(card['scrap'])+' | '+card['state']+' | [Image]('+card['img']+') | '+str(card['id'])+' |'
 
 output_file = open("Cards.md", "w", encoding="utf-8")
 output_file.write(cards_output)
