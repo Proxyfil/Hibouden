@@ -177,7 +177,7 @@
         "state": "Original",
         "scrap": 75,
         "img": "https://media.discordapp.net/attachments/947917639840329760/974204837250101258/FrereDeParis.png",
-        "rarity": "recomposed"
+        "rarity": "Recomposed"
     },
     {
         "id": 20,
@@ -186,7 +186,7 @@
         "state": "Original",
         "scrap": 75,
         "img": "https://media.discordapp.net/attachments/947917639840329760/974204835954065438/VForVictory.png",
-        "rarity": "recomposed"
+        "rarity": "Recomposed"
     },
     {
         "id": 21,
@@ -195,7 +195,7 @@
         "state": "Original",
         "scrap": 75,
         "img": "https://media.discordapp.net/attachments/947917639840329760/973972750647570534/SouvenirDeParis.png",
-        "rarity": "recomposed"
+        "rarity": "Recomposed"
     },
     {
         "id": 22,
@@ -204,7 +204,7 @@
         "state": "Original",
         "scrap": 75,
         "img": "https://media.discordapp.net/attachments/947917639840329760/974204834658025543/Kevin.png",
-        "rarity": "recomposed"
+        "rarity": "Recomposed"
     },
     {
         "id": 23,
@@ -213,7 +213,7 @@
         "state": "Original",
         "scrap": 75,
         "img": "https://media.discordapp.net/attachments/947917639840329760/974204836277006376/PlsDontTouch.png",
-        "rarity": "recomposed"
+        "rarity": "Recomposed"
     },
     {
         "id": 24,
@@ -438,7 +438,7 @@
         "state": "Original",
         "scrap": 75,
         "img": "https://media.discordapp.net/attachments/947917639840329760/975094086723850270/OperationAlphaFliced.png",
-        "rarity": "recomposed"
+        "rarity": "Recomposed"
     },
     {
         "id": 49,
@@ -690,7 +690,7 @@
         "state": "Original",
         "scrap": 75,
         "img": "https://media.discordapp.net/attachments/947917639840329760/975094154784804925/AlphaArrive.png",
-        "rarity": "recomposed"
+        "rarity": "Recomposed"
     },
     {
         "id": 77,
@@ -699,7 +699,7 @@
         "state": "Original",
         "scrap": 75,
         "img": "https://media.discordapp.net/attachments/947917639840329760/975094155091009536/AlphaDansPointB.png",
-        "rarity": "recomposed"
+        "rarity": "Recomposed"
     },
     {
         "id": 78,
@@ -708,7 +708,7 @@
         "state": "Original",
         "scrap": 75,
         "img": "https://media.discordapp.net/attachments/947917639840329760/975094155351040082/AlphaFliced.png",
-        "rarity": "recomposed"
+        "rarity": "Recomposed"
     },
     {
         "id": 79,
@@ -717,7 +717,7 @@
         "state": "Original",
         "scrap": 75,
         "img": "https://media.discordapp.net/attachments/947917639840329760/975094155648827402/AlphaDansPointT.png",
-        "rarity": "recomposed"
+        "rarity": "Recomposed"
     },
     {
         "id": 80,
@@ -735,7 +735,7 @@
         "state": "Original",
         "scrap": 75,
         "img": "https://media.discordapp.net/attachments/947917639840329760/975321444324102165/GouterPlume.png",
-        "rarity": "recomposed"
+        "rarity": "Recomposed"
     },
     {
         "id": 82,
@@ -744,7 +744,7 @@
         "state": "Original",
         "scrap": 75,
         "img": "https://media.discordapp.net/attachments/947917639840329760/975321444621877328/SalutBG.png",
-        "rarity": "recomposed"
+        "rarity": "Recomposed"
     },
     {
         "id": 83,
@@ -753,7 +753,7 @@
         "state": "Original",
         "scrap": 75,
         "img": "https://media.discordapp.net/attachments/947917639840329760/975321445070696478/TelephoneAuVolant.png",
-        "rarity": "recomposed"
+        "rarity": "Recomposed"
     },
     {
         "id": 84,
@@ -762,7 +762,7 @@
         "state": "Original",
         "scrap": 75,
         "img": "https://media.discordapp.net/attachments/947917639840329760/975321445326540800/YaDesNomsQuiSePerdent.png",
-        "rarity": "recomposed"
+        "rarity": "Recomposed"
     },
     {
         "id": 85,
@@ -771,7 +771,7 @@
         "state": "Original",
         "scrap": 75,
         "img": "https://media.discordapp.net/attachments/947917639840329760/975321445636898866/2GeekALAirLibre.png",
-        "rarity": "recomposed"
+        "rarity": "Recomposed"
     },
     {
         "id": 86,
@@ -780,7 +780,7 @@
         "state": "Original",
         "scrap": 75,
         "img": "https://media.discordapp.net/attachments/947917639840329760/975321445863403540/CoupezCaMonsieur.png",
-        "rarity": "recomposed"
+        "rarity": "Recomposed"
     },
     {
         "id": 87,
@@ -789,7 +789,7 @@
         "state": "Original",
         "scrap": 75,
         "img": "https://media.discordapp.net/attachments/947917639840329760/975321446194770002/PortonsPlainte.png",
-        "rarity": "recomposed"
+        "rarity": "Recomposed"
     },
     {
         "id": 88,
@@ -798,7 +798,7 @@
         "state": "Original",
         "scrap": 75,
         "img": "https://media.discordapp.net/attachments/947917639840329760/975321446467395644/DevoirCiviqueFait.png",
-        "rarity": "recomposed"
+        "rarity": "Recomposed"
     },
     {
         "id": 89,
@@ -807,7 +807,7 @@
         "state": "Original",
         "scrap": 75,
         "img": "https://media.discordapp.net/attachments/947917639840329760/975321446748422184/Commico.png",
-        "rarity": "recomposed"
+        "rarity": "Recomposed"
     },
     {
         "id": 90,
@@ -816,7 +816,7 @@
         "state": "Original",
         "scrap": 75,
         "img": "https://media.discordapp.net/attachments/947917639840329760/975321446974894100/POVAled.png",
-        "rarity": "recomposed"
+        "rarity": "Recomposed"
     },
     {
         "id": 91,
