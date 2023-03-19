@@ -64,39 +64,37 @@ module.exports = {
     },
     poll_embed: async function(cards,interaction,inventory){
         //Start Building of Image
-        const width = 2000
-        const height = 700
+        const width = 1700
+        const height = 800
 
         const canvas = createCanvas(width, height)
         const context = canvas.getContext('2d')
         context.font = '50px "Corporate" 4px 4px'
+        context.fillStyle = "#101010";
+        context.fillRect(0, 0, canvas.width, canvas.height);
 
-        let background = await loadImage('https://media.discordapp.net/attachments/879487467739299890/954763617646022776/poll_bg.png?width=1440&height=504')
         let card1 = await loadImage(cards[0]["img"])
         let card2 = await loadImage(cards[1]["img"])
         let card3 = await loadImage(cards[2]["img"])
-        let icon_rarity = await loadImage('https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg')
-        let icon_name = await loadImage('https://discord.com/assets/0f7341809de05e185655e4d20735d0a2.svg')
-        let icon_collection = await loadImage('https://discord.com/assets/ecf869302151b7838aff2f2125920206.svg')
 
-        let setup = [{"card":cards[0],"pos":{"x":75,"y":25},"img":card1},{"card":cards[1],"pos":{"x":750,"y":25},"img":card2},{"card":cards[2],"pos":{"x":1425,"y":25},"img":card3}]
+        let cards_mockup = {"Common": "https://media.discordapp.net/attachments/1086942446606360586/1086944849221124217/card-common.png?width=483&height=676","Funny":"https://media.discordapp.net/attachments/1086942446606360586/1086944849921572894/card-funny.png?width=483&height=676","Legendary":"https://media.discordapp.net/attachments/1086942446606360586/1086944850278097026/card-legendary.png?width=483&height=676","Recomposed":"https://media.discordapp.net/attachments/1086942446606360586/1086944848474538034/card-recomposed.png?width=483&height=676","Memories":"https://media.discordapp.net/attachments/1086942446606360586/1086944850655576134/card-memories.png?width=483&height=676","Classified":"https://media.discordapp.net/attachments/1086942446606360586/1086944848910753852/card-classified.png?width=483&height=676","Deprecated":"https://media.discordapp.net/attachments/1086942446606360586/1086944849560870942/card-deprecated.png?width=483&height=676","NFT":"https://media.discordapp.net/attachments/1086942446606360586/1086944850940797018/card-nft.png?width=483&height=676"}
+        let mockup_card1 = await loadImage(cards_mockup[cards[0]["rarity"]])
+        let mockup_card2 = await loadImage(cards_mockup[cards[1]["rarity"]])
+        let mockup_card3 = await loadImage(cards_mockup[cards[2]["rarity"]])
+        
+        let setup = [{"card":cards[0],"pos":{"x":50,"y":50},"img":card1,"mockup":mockup_card1},{"card":cards[1],"pos":{"x":600,"y":50},"img":card2,"mockup":mockup_card2},{"card":cards[2],"pos":{"x":1150,"y":50},"img":card3,"mockup":mockup_card3}]
         let border_color = {"Common":"#46bb0b","Funny":"#d0c112","Legendary":"#d07812","Recomposed":"#3f46cf","Memories":"#e24141","Classified":"#dc41dd","NFT":"#0bbb7c"}
-
-        context.drawImage(background, 0, 0, 2000, 700)
 
         setup.forEach(card => {
             context.drawImage(card["img"], card["pos"]["x"], card["pos"]["y"], 500, 500)
+            context.drawImage(card["mockup"], card["pos"]["x"], card["pos"]["y"], 500, 700)
             context.fillStyle = border_color[card["card"]["rarity"]]
-            context.fillRect(card["pos"]["x"],card["pos"]["y"]+498,500,4)
 
-            context.drawImage(icon_name, card["pos"]["x"], card["pos"]["y"]+525, 40, 40)
-            context.fillText(card["card"]["name"],card["pos"]["x"]+50,card["pos"]["y"]+565,500)
+            context.fillText(card["card"]["name"],card["pos"]["x"]+60,card["pos"]["y"]+560,500)
 
-            context.drawImage(icon_collection, card["pos"]["x"], card["pos"]["y"]+575, 40, 40)
-            context.fillText(card["card"]["collection"],card["pos"]["x"]+50,card["pos"]["y"]+615,500)
+            context.fillText(card["card"]["collection"],card["pos"]["x"]+60,card["pos"]["y"]+610,500)
 
-            context.drawImage(icon_rarity, card["pos"]["x"], card["pos"]["y"]+625, 40, 40)
-            context.fillText(card["card"]["rarity"],card["pos"]["x"]+50,card["pos"]["y"]+665,500)
+            context.fillText(card["card"]["rarity"],card["pos"]["x"]+60,card["pos"]["y"]+660,500)
         });
 
         const buffer = canvas.toBuffer('image/png')
@@ -162,36 +160,32 @@ module.exports = {
     see_card: async function(interaction,card){
 
         //Start Building of Image
-        const width = 550
-        const height = 700
+        const width = 600
+        const height = 800
 
         const canvas = createCanvas(width, height)
         const context = canvas.getContext('2d')
         context.font = '50px "Corporate" 4px 4px'
+        context.fillStyle = "#101010";
+        context.fillRect(0, 0, canvas.width, canvas.height);
 
-        let background = await loadImage('https://media.discordapp.net/attachments/879487467739299890/954763617646022776/poll_bg.png?width=1440&height=504')
         let card1 = await loadImage(card["img"])
-        let icon_rarity = await loadImage('https://discord.com/assets/141d49436743034a59dec6bd5618675d.svg')
-        let icon_name = await loadImage('https://discord.com/assets/0f7341809de05e185655e4d20735d0a2.svg')
-        let icon_collection = await loadImage('https://discord.com/assets/ecf869302151b7838aff2f2125920206.svg')
 
-        let card_pos = {"card":card,"pos":{"x":25,"y":25},"img":card1}
-        let border_color = {"Common":"#46bb0b","Funny":"#d0c112","Legendary":"#d07812","Recomposed":"#3f46cf","Memories":"#e24141","Classified":"#dc41dd","NFT":"#0bbb7c"}
+        let cards_mockup = {"Common": "https://media.discordapp.net/attachments/1086942446606360586/1086944849221124217/card-common.png?width=483&height=676","Funny":"https://media.discordapp.net/attachments/1086942446606360586/1086944849921572894/card-funny.png?width=483&height=676","Legendary":"https://media.discordapp.net/attachments/1086942446606360586/1086944850278097026/card-legendary.png?width=483&height=676","Recomposed":"https://media.discordapp.net/attachments/1086942446606360586/1086944848474538034/card-recomposed.png?width=483&height=676","Memories":"https://media.discordapp.net/attachments/1086942446606360586/1086944850655576134/card-memories.png?width=483&height=676","Classified":"https://media.discordapp.net/attachments/1086942446606360586/1086944848910753852/card-classified.png?width=483&height=676","Deprecated":"https://media.discordapp.net/attachments/1086942446606360586/1086944849560870942/card-deprecated.png?width=483&height=676","NFT":"https://media.discordapp.net/attachments/1086942446606360586/1086944850940797018/card-nft.png?width=483&height=676"}
+        let mockup_card = await loadImage(cards_mockup[card["rarity"]])
 
-        context.drawImage(background, 0, 0, 2000, 700)
+        let card_pos = {"card":card,"pos":{"x":50,"y":50},"img":card1}
+        let border_color = {"Common":"#46bb0b","Funny":"#d0c112","Legendary":"#d07812","Recomposed":"#3f46cf","Memories":"#e24141","Classified":"#dc41dd","NFT":"#0bbb7c","Deprecated":"#cc0000"}
         
         context.drawImage(card_pos["img"], card_pos["pos"]["x"], card_pos["pos"]["y"], 500, 500)
+        context.drawImage(mockup_card, card_pos["pos"]["x"], card_pos["pos"]["y"], 500, 700)
         context.fillStyle = border_color[card["rarity"]]
-        context.fillRect(card_pos["pos"]["x"],card_pos["pos"]["y"]+498,500,4)
 
-        context.drawImage(icon_name, card_pos["pos"]["x"], card_pos["pos"]["y"]+525, 40, 40)
-        context.fillText(card["name"],card_pos["pos"]["x"]+50,card_pos["pos"]["y"]+565,500)
+        context.fillText(card["name"],card_pos["pos"]["x"]+60,card_pos["pos"]["y"]+560,500)
 
-        context.drawImage(icon_collection, card_pos["pos"]["x"], card_pos["pos"]["y"]+575, 40, 40)
-        context.fillText(card["collection"],card_pos["pos"]["x"]+50,card_pos["pos"]["y"]+615,500)
+        context.fillText(card["collection"],card_pos["pos"]["x"]+60,card_pos["pos"]["y"]+610,500)
 
-        context.drawImage(icon_rarity, card_pos["pos"]["x"], card_pos["pos"]["y"]+625, 40, 40)
-        context.fillText(card["rarity"],card_pos["pos"]["x"]+50,card_pos["pos"]["y"]+665,500)
+        context.fillText(card["rarity"],card_pos["pos"]["x"]+60,card_pos["pos"]["y"]+660,500)
 
         const buffer = canvas.toBuffer('image/png')
         const attachment = new MessageAttachment(buffer, 'poll.png'); 

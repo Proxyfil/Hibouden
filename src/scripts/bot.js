@@ -31,12 +31,12 @@ bot.on('interactionCreate', async interaction =>{
     if(interaction.isCommand()){
 
         //Beta-test part
-        //if(!super_admins.includes(interaction.member.user.id)){
-        //    await interaction.deferReply({ephemeral: true});
+        if(!super_admins.includes(interaction.member.user.id)){
+            await interaction.deferReply({ephemeral: true});
 
-        //    interaction.editReply({embeds: [cmd_debug.h_error('Bot actually on testing : You can\'t interact with me, try later','418')]})
-        //    return
-        //}
+            interaction.editReply({embeds: [cmd_debug.h_error('Bot actually on testing : You can\'t interact with me, try later','418')]})
+            return
+        }
 
         console.log(`[${new Date().toLocaleString()}] Command : ${interaction.commandName} requested by ${interaction.member.user.username}`)
 
