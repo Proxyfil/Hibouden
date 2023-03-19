@@ -13,7 +13,7 @@
 
 ## <center> Collections </center>
 ---
-- total (206 Cartes)
+- total (213 Cartes)
 - NSI (5 Cartes)
 - Photos Génantes (8 Cartes)
 - Soirée Trop Arrosée (31 Cartes)
@@ -38,8 +38,9 @@
 - Nouvel An 2023 (24 Cartes)
 - Soirée En Boîte (3 Cartes)
 - 18 Ans Raphaël (10 Cartes)
+- Virgile en Prépa (7 Cartes)
 
-### 206 Cartes (+0 NFT) à collectionner
+### 213 Cartes (+3 NFT) à collectionner
 ---
 
 | Carte | Collection | Rareté | Valeur | État | Lien | ID |
@@ -217,6 +218,12 @@
 | Devoir Civique Fait | Tentative De Meurtre | <center> <span style="color:#3f46cf;">- **Recomposed** -</span></center> | 75 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/975321446467395644/DevoirCiviqueFait.png) | 88 |
 | Commico | Tentative De Meurtre | <center> <span style="color:#3f46cf;">- **Recomposed** -</span></center> | 75 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/975321446748422184/Commico.png) | 89 |
 | POV : Aled | Tentative De Meurtre | <center> <span style="color:#3f46cf;">- **Recomposed** -</span></center> | 75 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/975321446974894100/POVAled.png) | 90 |
+| Meuf, Bière, Restau | Virgile en Prépa | <center> <span style="color:#3f46cf;">- **Recomposed** -</span></center> | 75 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1086961682296877056/MeufBiereRestau.png) | 206 |
+| Premier Date Oblige | Virgile en Prépa | <center> <span style="color:#3f46cf;">- **Recomposed** -</span></center> | 75 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1086961682527559770/PremierDateOblige.png) | 207 |
+| Sortie En Ville | Virgile en Prépa | <center> <span style="color:#3f46cf;">- **Recomposed** -</span></center> | 75 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1086961682787602472/SortieEnVille.png) | 208 |
+| Miroir Miroir | Virgile en Prépa | <center> <span style="color:#3f46cf;">- **Recomposed** -</span></center> | 75 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1086961683299311636/MiroirMiroir.png) | 210 |
+| Futur Maître D'Hôtel | Virgile en Prépa | <center> <span style="color:#3f46cf;">- **Recomposed** -</span></center> | 75 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1086961683529994260/FuturMaitreDHotel.png) | 211 |
+| Venez En Prépa | Virgile en Prépa | <center> <span style="color:#3f46cf;">- **Recomposed** -</span></center> | 75 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1086961683852963910/VenezEnPrepa.png) | 212 |
 | Le Crew Post Soirée | Soirée Trop Arrosée | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/973972748974047292/LeCrouPostSoiree.png) | 24 |
 | Explications SoonTM | Cadeaux 18 Ans | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/973972710755532840/ExplicationsSoonTM.png) | 25 |
 | Virgile PornHub | Folie en cours | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/973972750945357824/VirgilePornHub.png) | 26 |
@@ -250,3 +257,4 @@
 | Relooking DIY | Soirée Trop Arrosée | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Original | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432573672689695/RelookingDIY.png) | 152 |
 | Relooking DIY Extrême | Soirée Trop Arrosée | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Original | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432572670251128/RelookingDIYExtreme.png) | 155 |
 | Vomito | Soirée En Boîte | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796155292196915/Vomito.png) | 187 |
+| La Tête Dans L'Cul | Virgile en Prépa | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1086961683018297384/LaTeteDansLCul.png) | 209 |
