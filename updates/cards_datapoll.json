@@ -1852,5 +1852,68 @@
         "scrap": 25,
         "img": "https://media.discordapp.net/attachments/947917639840329760/1084834841184436274/TapisEmpacte.png",
         "rarity": "Funny"
+    },
+    {
+        "id": 206,
+        "name": "Meuf, Bière, Restau",
+        "collection": "Virgile en Prépa",
+        "state": "Originale",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1086961682296877056/MeufBiereRestau.png",
+        "rarity": "Recomposed"
+    },
+    {
+        "id": 207,
+        "name": "Premier Date Oblige",
+        "collection": "Virgile en Prépa",
+        "state": "Originale",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1086961682527559770/PremierDateOblige.png",
+        "rarity": "Recomposed"
+    },
+    {
+        "id": 208,
+        "name": "Sortie En Ville",
+        "collection": "Virgile en Prépa",
+        "state": "Originale",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1086961682787602472/SortieEnVille.png",
+        "rarity": "Recomposed"
+    },
+    {
+        "id": 209,
+        "name": "La Tête Dans L'Cul",
+        "collection": "Virgile en Prépa",
+        "state": "Originale",
+        "scrap": 200,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1086961683018297384/LaTeteDansLCul.png",
+        "rarity": "Classified"
+    },
+    {
+        "id": 210,
+        "name": "Miroir Miroir",
+        "collection": "Virgile en Prépa",
+        "state": "Originale",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1086961683299311636/MiroirMiroir.png",
+        "rarity": "Recomposed"
+    },
+    {
+        "id": 211,
+        "name": "Futur Maître D'Hôtel",
+        "collection": "Virgile en Prépa",
+        "state": "Originale",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1086961683529994260/FuturMaitreDHotel.png",
+        "rarity": "Recomposed"
+    },
+    {
+        "id": 212,
+        "name": "Venez En Prépa",
+        "collection": "Virgile en Prépa",
+        "state": "Originale",
+        "scrap": 75,
+        "img": "https://media.discordapp.net/attachments/947917639840329760/1086961683852963910/VenezEnPrepa.png",
+        "rarity": "Recomposed"
     }
 ]
