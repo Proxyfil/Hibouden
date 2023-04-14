@@ -4,7 +4,7 @@
         <h2 class="text-white">{{ collection }}</h2>
         <h2 class="text-white flex">{{ scrap }} <img src="https://em-content.zobj.net/thumbs/120/microsoft/319/coin_1fa99.png" class="w-6 ml-1"></h2>
         <div class="flex justify-center">
-            <img v-bind:src="img" alt="img" class="w-max mt-2"/>
+            <a :href="img" target="_blank"><img v-bind:src="img" alt="img" class="w-max mt-2"/></a>
         </div>
         <p class="text-xs text-gray-500 mt-2">ID : {{ id }}</p>
     </div>

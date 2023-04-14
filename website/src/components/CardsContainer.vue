@@ -1,5 +1,5 @@
 <template>
-    <div v-if="title!='deprecated'">
+    <div v-if="title!='deprecated' && cards.length != 0">
         <h1 class="text-white text-2xl font-bold" v-bind:class="title">{{ rarityTrad[title] }}</h1>
         <div class="grid-cols-5 inline-grid" id="grid-to-change">
             <CardDisplay v-for="card in cards" v-bind:key="card.name" v-bind:name="card.name" v-bind:collection="card.collection" v-bind:scrap="card.scrap" v-bind:img="card.img" v-bind:rarity="title" v-bind:id="card.id"/>
