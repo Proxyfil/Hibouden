@@ -566,6 +566,51 @@
             "scrap": 10,
             "img": "https://media.discordapp.net/attachments/947917639840329760/1084834840425267272/LeCowboyDAmbillou.png",
             "rarity": "Common"
+        },
+        "215": {
+            "id": 215,
+            "name": "Dance For Patoche",
+            "collection": "19 Ans Pierre-Louis",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1096495036948041778/DanceForPatoche.png",
+            "rarity": "Common"
+        },
+        "216": {
+            "id": 216,
+            "name": "Un Couple Et La RanDoum",
+            "collection": "19 Ans Pierre-Louis",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1096495037245816902/UnCoupleEtLaRanDoum.png",
+            "rarity": "Common"
+        },
+        "220": {
+            "id": 220,
+            "name": "Photographe En Devenir",
+            "collection": "19 Ans Pierre-Louis",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1096495038432825385/PhotographeEnDevenir.png",
+            "rarity": "Common"
+        },
+        "222": {
+            "id": 222,
+            "name": "Posée Avec Le Protégé",
+            "collection": "19 Ans Pierre-Louis",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1096495038965493760/PoseeAvecLeProtege.png",
+            "rarity": "Common"
+        },
+        "228": {
+            "id": 228,
+            "name": "Photographe Amateur",
+            "collection": "Drôle d'Aventure",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1096499649398980759/PhotographeAmateur.png",
+            "rarity": "Common"
         }
     },
     "funny": {
@@ -1045,6 +1090,42 @@
             "scrap": 25,
             "img": "https://media.discordapp.net/attachments/947917639840329760/1084834841184436274/TapisEmpacte.png",
             "rarity": "Funny"
+        },
+        "217": {
+            "id": 217,
+            "name": "Photo Dossier",
+            "collection": "19 Ans Pierre-Louis",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1096495037526847598/PhotoDossier.png",
+            "rarity": "Funny"
+        },
+        "219": {
+            "id": 219,
+            "name": "Dur Péage",
+            "collection": "19 Ans Pierre-Louis",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1096495038147604490/DurPeage.png",
+            "rarity": "Funny"
+        },
+        "224": {
+            "id": 224,
+            "name": "Régime Particulier",
+            "collection": "Drôle d'Aventure",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1096499648304255127/RegimeParticulier.png",
+            "rarity": "Funny"
+        },
+        "227": {
+            "id": 227,
+            "name": "Calcul Difficile",
+            "collection": "Drôle d'Aventure",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1096499649126338630/CalculDifficile.png",
+            "rarity": "Funny"
         }
     },
     "legendary": {
@@ -1271,6 +1352,51 @@
             "state": "Originale",
             "scrap": 50,
             "img": "https://media.discordapp.net/attachments/947917639840329760/1084834840882466826/PompierPrincesse.png",
+            "rarity": "Legendary"
+        },
+        "218": {
+            "id": 218,
+            "name": "1 Image, 2 Ambiances",
+            "collection": "19 Ans Pierre-Louis",
+            "state": "Originale",
+            "scrap": 50,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1096495037824651264/1Image2Ambiances.png",
+            "rarity": "Legendary"
+        },
+        "221": {
+            "id": 221,
+            "name": "Cadeau Original",
+            "collection": "19 Ans Pierre-Louis",
+            "state": "Originale",
+            "scrap": 50,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1096495038709629029/CadeauOriginal.png",
+            "rarity": "Legendary"
+        },
+        "223": {
+            "id": 223,
+            "name": "Forces Inégales",
+            "collection": "Drôle d'Aventure",
+            "state": "Originale",
+            "scrap": 50,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1096499647909998715/ForcesInegales.png",
+            "rarity": "Legendary"
+        },
+        "225": {
+            "id": 225,
+            "name": "Air Cooling DIY",
+            "collection": "Drôle d'Aventure",
+            "state": "Originale",
+            "scrap": 50,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1096499648623034522/AirCoolingDIY.png",
+            "rarity": "Legendary"
+        },
+        "226": {
+            "id": 226,
+            "name": "Repos Et Réalisation",
+            "collection": "Drôle d'Aventure",
+            "state": "Originale",
+            "scrap": 50,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1096499648857911296/ReposEtRealisation.png",
             "rarity": "Legendary"
         }
     },
@@ -1699,6 +1825,24 @@
             "scrap": 100,
             "img": "https://media.discordapp.net/attachments/947917639840329760/1084834839200542831/UnNouveauTapis.png",
             "rarity": "Memories"
+        },
+        "214": {
+            "id": 214,
+            "name": "Simple Regret",
+            "collection": "19 Ans Pierre-Louis",
+            "state": "Originale",
+            "scrap": 100,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1096495036625072128/SimpleRegret.png",
+            "rarity": "Memories"
+        },
+        "229": {
+            "id": 229,
+            "name": "Une RanDoum",
+            "collection": "Drôle d'Aventure",
+            "state": "Originale",
+            "scrap": 100,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1096499649671606282/UneRanDoum.png",
+            "rarity": "Memories"
         }
     },
     "classified": {
@@ -1817,6 +1961,15 @@
             "state": "Originale",
             "scrap": 200,
             "img": "https://media.discordapp.net/attachments/947917639840329760/1086961683018297384/LaTeteDansLCul.png",
+            "rarity": "Classified"
+        },
+        "213": {
+            "id": 213,
+            "name": "Modèle Photo",
+            "collection": "19 Ans Pierre-Louis",
+            "state": "Originale",
+            "scrap": 200,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1096495036289536070/ModelePhoto.png",
             "rarity": "Classified"
         }
     },
