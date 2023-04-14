@@ -13,7 +13,7 @@
 
 ## <center> Collections </center>
 ---
-- total (213 Cartes)
+- total (230 Cartes)
 - NSI (5 Cartes)
 - Photos Génantes (8 Cartes)
 - Soirée Trop Arrosée (31 Cartes)
@@ -39,8 +39,10 @@
 - Soirée En Boîte (3 Cartes)
 - 18 Ans Raphaël (10 Cartes)
 - Virgile en Prépa (7 Cartes)
+- 19 Ans Pierre-Louis (10 Cartes)
+- Drôle d'Aventure (7 Cartes)
 
-### 213 Cartes (+3 NFT) à collectionner
+### 230 Cartes (+0 NFT) à collectionner
 ---
 
 | Carte | Collection | Rareté | Valeur | État | Lien | ID |
@@ -120,6 +122,11 @@
 | Kamoulox Humain | 18 Ans Raphaël | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1084834839687069827/KamouloxHumain.png) | 198 |
 | La Plage A La Fête | 18 Ans Raphaël | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1084834839963906048/LaPlageALaFete.png) | 199 |
 | Le Cowboy D'Ambillou | 18 Ans Raphaël | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1084834840425267272/LeCowboyDAmbillou.png) | 201 |
+| Dance For Patoche | 19 Ans Pierre-Louis | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096495036948041778/DanceForPatoche.png) | 215 |
+| Un Couple Et La RanDoum | 19 Ans Pierre-Louis | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096495037245816902/UnCoupleEtLaRanDoum.png) | 216 |
+| Photographe En Devenir | 19 Ans Pierre-Louis | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096495038432825385/PhotographeEnDevenir.png) | 220 |
+| Posée Avec Le Protégé | 19 Ans Pierre-Louis | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096495038965493760/PoseeAvecLeProtege.png) | 222 |
+| Photographe Amateur | Drôle d'Aventure | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096499649398980759/PhotographeAmateur.png) | 228 |
 | MiÉtéMiHiver | / | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/973972749796122644/MiEteMiHiver.png) | 5 |
 | Hugo Le Nu | Photos Génantes | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/973972711321796718/HugoLeNu.png) | 10 |
 | 1 second before disaster | / | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/973972709153312818/1SecondBeforeDisaster.png) | 11 |
@@ -173,6 +180,10 @@
 | La Valse De L'Espace | 18 Ans Raphaël | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1084834840651771914/Les2FontLaPaire.png) | 202 |
 | Les 2 Font La Paire | 18 Ans Raphaël | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1084834840651771914/Les2FontLaPaire.png) | 203 |
 | Tapis Empacté | 18 Ans Raphaël | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1084834841184436274/TapisEmpacte.png) | 205 |
+| Photo Dossier | 19 Ans Pierre-Louis | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096495037526847598/PhotoDossier.png) | 217 |
+| Dur Péage | 19 Ans Pierre-Louis | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096495038147604490/DurPeage.png) | 219 |
+| Régime Particulier | Drôle d'Aventure | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096499648304255127/RegimeParticulier.png) | 224 |
+| Calcul Difficile | Drôle d'Aventure | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096499649126338630/CalculDifficile.png) | 227 |
 | Jo l'Taxi | En voiture | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/973972748701421638/Joltaxi.png) | 16 |
 | Indre-Et-Bière | Bord de Loire | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/973972708742287430/IndreEtBiere.png) | 17 |
 | Maillette Top 3 | NSI | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/973972749296992307/MailletteTop3.png) | 18 |
@@ -198,6 +209,11 @@
 | Mate Moi Ça | Nouvel An 2023 | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796175991099412/MateMoiCa.png) | 183 |
 | Faire Boire Ou Boire... | Nouvel An 2023 | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796153408954378/FaireBoireOuBoire.png) | 193 |
 | Pompier-Princesse | 18 Ans Raphaël | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1084834840882466826/PompierPrincesse.png) | 204 |
+| 1 Image, 2 Ambiances | 19 Ans Pierre-Louis | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096495037824651264/1Image2Ambiances.png) | 218 |
+| Cadeau Original | 19 Ans Pierre-Louis | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096495038709629029/CadeauOriginal.png) | 221 |
+| Forces Inégales | Drôle d'Aventure | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096499647909998715/ForcesInegales.png) | 223 |
+| Air Cooling DIY | Drôle d'Aventure | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096499648623034522/AirCoolingDIY.png) | 225 |
+| Repos Et Réalisation | Drôle d'Aventure | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096499648857911296/ReposEtRealisation.png) | 226 |
 | Frères de Paris | Paris | <center> <span style="color:#3f46cf;">- **Recomposed** -</span></center> | 75 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/974204837250101258/FrereDeParis.png) | 19 |
 | V for victory | Paris | <center> <span style="color:#3f46cf;">- **Recomposed** -</span></center> | 75 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/974204835954065438/VForVictory.png) | 20 |
 | Souvenir de Paris | Paris | <center> <span style="color:#3f46cf;">- **Recomposed** -</span></center> | 75 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/973972750647570534/SouvenirDeParis.png) | 21 |
@@ -245,6 +261,8 @@
 | Santé ! | Nouvel An 2023 | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796154696597554/Sante.png) | 189 |
 | Target Acquired | Nouvel An 2023 | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796153157308416/TargetAcquired.png) | 194 |
 | Une Nouveau Tapis | 18 Ans Raphaël | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1084834839200542831/UnNouveauTapis.png) | 196 |
+| Simple Regret | 19 Ans Pierre-Louis | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096495036625072128/SimpleRegret.png) | 214 |
+| Une RanDoum | Drôle d'Aventure | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096499649671606282/UneRanDoum.png) | 229 |
 | Virgile Raptor | Soirée Trop Arrosée | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/973972748399411250/VirgileRaptor.png) | 29 |
 | City | Tentative de Meurtre | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/973985749655494656/City.png) | 30 |
 | JagerunSleep | Soirée Trop Arrosée | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/975093901989904475/JagerunSleep.png) | 37 |
@@ -258,3 +276,4 @@
 | Relooking DIY Extrême | Soirée Trop Arrosée | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Original | [Image](https://cdn.discordapp.com/attachments/947917639840329760/1001432572670251128/RelookingDIYExtreme.png) | 155 |
 | Vomito | Soirée En Boîte | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796155292196915/Vomito.png) | 187 |
 | La Tête Dans L'Cul | Virgile en Prépa | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1086961683018297384/LaTeteDansLCul.png) | 209 |
+| Modèle Photo | 19 Ans Pierre-Louis | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096495036289536070/ModelePhoto.png) | 213 |

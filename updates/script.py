@@ -27,8 +27,15 @@ cards_output += '\n\n### '+str(collections['total'])+' Cartes (+'+str(len(nft))+
 
 data = sorted(data, key=lambda k: priority[k['rarity'].lower()])
 
+cards_total = {'Common': 0, 'Funny': 0, 'Legendary': 0, 'Recomposed': 0, 'Memories': 0, 'Classified': 0, 'Deprecated': 0, 'NFT': 0, 'Total': 0}
+
 for card in data:
     cards_output += '\n| '+card['name']+' | '+card['collection']+' | <center> <span style="color:'+color[card['rarity'].lower()]+';">- **'+str(card['rarity'])+'** -</span></center> | '+str(card['scrap'])+' | '+card['state']+' | [Image]('+card['img']+') | '+str(card['id'])+' |'
+    cards_total[card['rarity']] += 1
+    cards_total['Total'] += 1
+
+for rarity in cards_total:
+    print(rarity+' | '+str(cards_total[rarity]/cards_total['Total']*100)+'%')
 
 output_file = open("Cards.md", "w", encoding="utf-8")
 output_file.write(cards_output)
