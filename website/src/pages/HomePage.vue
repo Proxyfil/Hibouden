@@ -23,7 +23,7 @@ export default {
     },
     data() {
         return {
-            nb_cartes: 193
+            nb_cartes: 230
         }
     },
 }
