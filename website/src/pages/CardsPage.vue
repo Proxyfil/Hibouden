@@ -6,8 +6,8 @@
         </div>
         <div class="flex flex-col mt-8">
             <div class="flex flex-col w-full items-center">
-                <input name="search" aria-placeholder="search" class="w-1/5 h-12 rounded-lg border-2 border-white bg-main-color text-white pl-2" type="text" placeholder="Rechercher une carte..." v-model="searchName"/>
-                <select name="collection" aria-placeholder="collection" class="w-1/5 mt-4 h-12 rounded-lg border-2 border-white bg-main-color text-white" v-model="searchCollection">
+                <input name="search" aria-placeholder="search" class="w-1/5 h-12 rounded-lg border-2 border-white bg-main-color text-white pl-2 searchBar" type="text" placeholder="Rechercher une carte..." v-model="searchName"/>
+                <select name="collection" aria-placeholder="collection" class="w-1/5 mt-4 h-12 rounded-lg border-2 border-white bg-main-color text-white searchBar" v-model="searchCollection">
                     <option value="">Toutes les collections</option>
                     <option v-for="collection in collections" :value="collection" v-bind:key="collection">{{ collection }}</option>
                 </select>
@@ -70,9 +70,26 @@ export default {
 </script>
 
 <style scoped>
+@media screen and (max-width: 1300px) {
+    .searchBar {
+        width: 50% !important;
+    }
+    .searchButton {
+        width: 50% !important;
+    }
+}
+
 @media screen and (max-width: 900px){
     #cardContainer {
         padding: 4rem 2rem 0rem 2rem;
+    }
+
+    .searchBar {
+        width: 80% !important;
+    }
+
+    .searchButton {
+        width: 80% !important;
     }
 }
 
