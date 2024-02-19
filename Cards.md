@@ -13,11 +13,11 @@
 
 ## <center> Collections </center>
 ---
-- total (230 Cartes)
+- total (258 Cartes)
 - NSI (5 Cartes)
 - Photos Génantes (8 Cartes)
-- Soirée Trop Arrosée (31 Cartes)
-- / (46 Cartes)
+- Soirée Trop Arrosée (37 Cartes)
+- / (58 Cartes)
 - Folie en cours (3 Cartes)
 - Bac (7 Cartes)
 - En voiture (4 Cartes)
@@ -41,8 +41,10 @@
 - Virgile en Prépa (7 Cartes)
 - 19 Ans Pierre-Louis (10 Cartes)
 - Drôle d'Aventure (7 Cartes)
+- Nouvel An 2024 (6 Cartes)
+- Sables-D'Olonne 2024 (4 Cartes)
 
-### 230 Cartes (+0 NFT) à collectionner
+### 258 Cartes (+4 NFT) à collectionner
 ---
 
 | Carte | Collection | Rareté | Valeur | État | Lien | ID |
@@ -127,6 +129,17 @@
 | Photographe En Devenir | 19 Ans Pierre-Louis | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096495038432825385/PhotographeEnDevenir.png) | 220 |
 | Posée Avec Le Protégé | 19 Ans Pierre-Louis | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096495038965493760/PoseeAvecLeProtege.png) | 222 |
 | Photographe Amateur | Drôle d'Aventure | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096499649398980759/PhotographeAmateur.png) | 228 |
+| 3 Potes Au Bar | / | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240933409751050/3PotesAuBar.png?ex=65e63461&is=65d3bf61&hm=2a34baed2490a84a5f9c689de663415f5a551a5ac2d5f5cf4e82229795f11462&=&format=webp&quality=lossless) | 232 |
+| 20 Kilos De Mangas | / | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240934248882196/20KilosDeMangas.png?ex=65e63461&is=65d3bf61&hm=cea004384c90a1eeea232a4a79b6d4517fa2e1ae685c8e024eb73ab0acd3ba03&=&format=webp&quality=lossless) | 234 |
+| Apéro Cake | Nouvel An 2024 | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240935133749268/AperoCake.png?ex=65e63461&is=65d3bf61&hm=8bd8a8278d9777f871a6594feaabd9b02e1f6a8d0888de68da210e819b383668&=&format=webp&quality=lossless) | 237 |
+| C'est Le Nord | / | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240935406502038/CestLeNord.png?ex=65e63461&is=65d3bf61&hm=46a388fab65093bfbd38d52c7187dc15b5657101a5376ecd302864c5cdb75d7d&=&format=webp&quality=lossless) | 238 |
+| Pierre-Louis Roi | / | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240954364756088/PierreLouisRoi.png?ex=65e63466&is=65d3bf66&hm=ad1f22b6af19a4936c8acb28f668ee4dca1412c0612bd6364d6e5bfbb9bb93df&=&format=webp&quality=lossless) | 240 |
+| Dégustation En Aveugle | Soirée Trop Arrosée | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240956482748477/DegustationEnAveugle.png?ex=65e63466&is=65d3bf66&hm=44e752750ba78abab7675630c3c7509ebe8537059aff4edd0193903a9915a0ae&=&format=webp&quality=lossless) | 244 |
+| Hugo Bolt | Sables-D'Olonne 2024 | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240957204177007/HugoBolt.png?ex=65e63466&is=65d3bf66&hm=99834b8e5986f51b457045cbb5d95836f6ac99ee05a7313cf477d0472a7ab908&=&format=webp&quality=lossless) | 246 |
+| Jeunesse En Péril | / | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240957548240956/JeunesseEnPeril.png?ex=65e63466&is=65d3bf66&hm=3b4683c1689704e9217231bfe28a94b7555c123f8ba0d4a27549c3932739a5ee&=&format=webp&quality=lossless) | 247 |
+| Un Revenant | Nouvel An 2024 | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240970428940318/UnRevenant.png?ex=65e63469&is=65d3bf69&hm=50bf758759b4222ae144e46a879e4b03cf385b6d38c405a7c2b6a9b538fe3eaf&=&format=webp&quality=lossless) | 249 |
+| Souvenirs De Soirée | Soirée Trop Arrosée | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240971515273286/SouvenirsDeSoiree.png?ex=65e6346a&is=65d3bf6a&hm=979b8af4c3770cf5b85be7bd3703a532d95b90a88f081b12f1f1117b69349066&=&format=webp&quality=lossless) | 252 |
+| Sportif Olympique | / | <center> <span style="color:#46bb0b;">- **Common** -</span></center> | 10 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240972085436436/SportifOlympique.png?ex=65e6346a&is=65d3bf6a&hm=1b2abc151e61722d8b15d9d15edaf17d5b9db91d119a5bf5e970b227087e4735&=&format=webp&quality=lossless) | 254 |
 | MiÉtéMiHiver | / | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/973972749796122644/MiEteMiHiver.png) | 5 |
 | Hugo Le Nu | Photos Génantes | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/973972711321796718/HugoLeNu.png) | 10 |
 | 1 second before disaster | / | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/973972709153312818/1SecondBeforeDisaster.png) | 11 |
@@ -184,6 +197,16 @@
 | Dur Péage | 19 Ans Pierre-Louis | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096495038147604490/DurPeage.png) | 219 |
 | Régime Particulier | Drôle d'Aventure | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096499648304255127/RegimeParticulier.png) | 224 |
 | Calcul Difficile | Drôle d'Aventure | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096499649126338630/CalculDifficile.png) | 227 |
+| 3 En 1 | Nouvel An 2024 | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240933128863774/3En1.png?ex=65e63461&is=65d3bf61&hm=51f2a2e20da27d1dc59683f01da5beb92ecb3a4f0bf2f039ea79c02ca3298551&=&format=webp&quality=lossless) | 231 |
+| Aesa Doudou | Nouvel An 2024 | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240934601068606/AesaDoudou.png?ex=65e63461&is=65d3bf61&hm=4754c6a98b64b1822fcb0e4573f22d24400d3b16b048292fef2a6c980ff6bdfe&=&format=webp&quality=lossless) | 235 |
+| Aesa Grrr | Soirée Trop Arrosée | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240934877761576/AesaGrrr.png?ex=65e63461&is=65d3bf61&hm=9183319b247ec619d6108a18729016bf9f1923e59e48f395b91df1f27d041492&=&format=webp&quality=lossless) | 236 |
+| Course Nu | Sables-D'Olonne 2024 | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240955534708786/CourseNu.png?ex=65e63466&is=65d3bf66&hm=88fd3fb7f9d12fae018a89fb87baab23fabdbe2a2c7e293cb805c39d387668ab&=&format=webp&quality=lossless) | 242 |
+| Double KO Technique | Nouvel An 2024 | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240956897861702/DoubleKOTechnique.png?ex=65e63466&is=65d3bf66&hm=03a3c270efbc978d878b9f817da3c7196af80e0d8fee6a1a10a4e0f20df73fc3&=&format=webp&quality=lossless) | 245 |
+| Kesturgarde ? | Nouvel An 2024 | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240957824798750/Kesturgarde.png?ex=65e63466&is=65d3bf66&hm=8748f7f746ba83e4d0173d468703c20ac253f97d6b214424048f92f30ff98763&=&format=webp&quality=lossless) | 247 |
+| Sous Emprise | Soirée Trop Arrosée | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240970697252905/SousEmprise.png?ex=65e6346a&is=65d3bf6a&hm=153f0254adef403ef175edb6f6708aca92ee0a9e61b17309a61bcf89bdc3bb8f&=&format=webp&quality=lossless) | 250 |
+| Sous Emprise 2 | Soirée Trop Arrosée | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240970982457354/SousEmprise2.png?ex=65e6346a&is=65d3bf6a&hm=1a2cc95ca8711cfdbf50fb06f6747fbba38d98d6aefd819e7031bf2438803b68&=&format=webp&quality=lossless) | 251 |
+| Sportif Dans L'Âme | Soirée Trop Arrosée | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240971775316058/SportifDansLAme.png?ex=65e6346a&is=65d3bf6a&hm=2468ad06f9efafe5e656a124ad20b53840df46ffaae26bf1909e6c75e12d2913&=&format=webp&quality=lossless) | 253 |
+| Toujours Pour La KC | / | <center> <span style="color:#d0c112;">- **Funny** -</span></center> | 25 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240972328701992/ToujoursLaPourKC.png?ex=65e6346a&is=65d3bf6a&hm=e1b393293c4c29f1a5f4ee3bd82b3eb232cb127ead81e7e15933c6af28969450&=&format=webp&quality=lossless) | 255 |
 | Jo l'Taxi | En voiture | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/973972748701421638/Joltaxi.png) | 16 |
 | Indre-Et-Bière | Bord de Loire | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/973972708742287430/IndreEtBiere.png) | 17 |
 | Maillette Top 3 | NSI | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/973972749296992307/MailletteTop3.png) | 18 |
@@ -214,6 +237,10 @@
 | Forces Inégales | Drôle d'Aventure | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096499647909998715/ForcesInegales.png) | 223 |
 | Air Cooling DIY | Drôle d'Aventure | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096499648623034522/AirCoolingDIY.png) | 225 |
 | Repos Et Réalisation | Drôle d'Aventure | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096499648857911296/ReposEtRealisation.png) | 226 |
+| Code, Cinema Et Féérie (Blink) | / | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240932810231868/CodeCinemaEtFeerieBlink.png?ex=65e63460&is=65d3bf60&hm=7a5e8e81fa801be82558afa35575c23f6fd231f62a1747615c12b02b7bf8adb7&=&format=webp&quality=lossless) | 230 |
+| Contexte ??? | / | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240954683400292/Contexte.png?ex=65e63466&is=65d3bf66&hm=d1695997209d76e38fb19663c60c4b55240b37066dfaf3f89bab2bf4a84d033f&=&format=webp&quality=lossless) | 241 |
+| ProxyLaLicorne | / | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240956117712996/Deguised.png?ex=65e63466&is=65d3bf66&hm=895fdbb76db2e66df32f9434b546d9a5efce217fcd67c8a591364f7c3e5326a0&=&format=webp&quality=lossless) | 243 |
+| Kesturgarde ? | Sables-D'Olonne 2024 | <center> <span style="color:#d07812;">- **Legendary** -</span></center> | 50 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240958227447839/LePenseurDeRhodes.png?ex=65e63467&is=65d3bf67&hm=01ba8e487a4b1d2d4a3b8fd3634fe8626a6a957559226c9779c0a8dc70c99339&=&format=webp&quality=lossless) | 248 |
 | Frères de Paris | Paris | <center> <span style="color:#3f46cf;">- **Recomposed** -</span></center> | 75 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/974204837250101258/FrereDeParis.png) | 19 |
 | V for victory | Paris | <center> <span style="color:#3f46cf;">- **Recomposed** -</span></center> | 75 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/974204835954065438/VForVictory.png) | 20 |
 | Souvenir de Paris | Paris | <center> <span style="color:#3f46cf;">- **Recomposed** -</span></center> | 75 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/973972750647570534/SouvenirDeParis.png) | 21 |
@@ -263,6 +290,7 @@
 | Une Nouveau Tapis | 18 Ans Raphaël | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1084834839200542831/UnNouveauTapis.png) | 196 |
 | Simple Regret | 19 Ans Pierre-Louis | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096495036625072128/SimpleRegret.png) | 214 |
 | Une RanDoum | Drôle d'Aventure | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096499649671606282/UneRanDoum.png) | 229 |
+| 3 Potes Aux Sables | Sables-D'Olonne 2024 | <center> <span style="color:#e24141;">- **Memories** -</span></center> | 100 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240933913075732/3PotesAuxSables.png?ex=65e63461&is=65d3bf61&hm=87a201c1a70ee83bf7184c9b3db3fe87d5530149d4e0562fbc912b33a0c3e87d&=&format=webp&quality=lossless) | 233 |
 | Virgile Raptor | Soirée Trop Arrosée | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/973972748399411250/VirgileRaptor.png) | 29 |
 | City | Tentative de Meurtre | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/973985749655494656/City.png) | 30 |
 | JagerunSleep | Soirée Trop Arrosée | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/975093901989904475/JagerunSleep.png) | 37 |
@@ -277,3 +305,5 @@
 | Vomito | Soirée En Boîte | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Original | [Image](https://media.discordapp.net/attachments/947917639840329760/1059796155292196915/Vomito.png) | 187 |
 | La Tête Dans L'Cul | Virgile en Prépa | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1086961683018297384/LaTeteDansLCul.png) | 209 |
 | Modèle Photo | 19 Ans Pierre-Louis | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1096495036289536070/ModelePhoto.png) | 213 |
+| Code, Cinéma Et Féérie | / | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240935771275294/CodeCinemaEtFeerie.png?ex=65e63461&is=65d3bf61&hm=00641daafa057984149ebfea4cbe393229001a7e0f2208c35da877a59f8ef880&=&format=webp&quality=lossless) | 239 |
+| Une Belle Brochette | / | <center> <span style="color:#dc41dd;">- **Classified** -</span></center> | 200 | Originale | [Image](https://media.discordapp.net/attachments/947917639840329760/1209240972601462824/UneBelleBrochette.png?ex=65e6346a&is=65d3bf6a&hm=90b516bd4c07fd37762770dc85f8adab820aec4b63f42d25bb5d6ce59f9b35d5&=&format=webp&quality=lossless) | 256 |
