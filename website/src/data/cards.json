@@ -611,6 +611,105 @@
             "scrap": 10,
             "img": "https://media.discordapp.net/attachments/947917639840329760/1096499649398980759/PhotographeAmateur.png",
             "rarity": "Common"
+        },
+        "232": {
+            "id": 232,
+            "name": "3 Potes Au Bar",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240933409751050/3PotesAuBar.png",
+            "rarity": "Common"
+        },
+        "234": {
+            "id": 234,
+            "name": "20 Kilos De Mangas",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240934248882196/20KilosDeMangas.png",
+            "rarity": "Common"
+        },
+        "237": {
+            "id": 237,
+            "name": "Apéro Cake",
+            "collection": "Nouvel An 2024",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240935133749268/AperoCake.png",
+            "rarity": "Common"
+        },
+        "238": {
+            "id": 238,
+            "name": "C'est Le Nord",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240935406502038/CestLeNord.png",
+            "rarity": "Common"
+        },
+        "240": {
+            "id": 240,
+            "name": "Pierre-Louis Roi",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240954364756088/PierreLouisRoi.png",
+            "rarity": "Common"
+        },
+        "244": {
+            "id": 244,
+            "name": "Dégustation En Aveugle",
+            "collection": "Soirée Trop Arrosée",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240956482748477/DegustationEnAveugle.png",
+            "rarity": "Common"
+        },
+        "246": {
+            "id": 246,
+            "name": "Hugo Bolt",
+            "collection": "Sables-D'Olonne 2024",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240957204177007/HugoBolt.png",
+            "rarity": "Common"
+        },
+        "247": {
+            "id": 247,
+            "name": "Jeunesse En Péril",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240957548240956/JeunesseEnPeril.png",
+            "rarity": "Common"
+        },
+        "249": {
+            "id": 249,
+            "name": "Un Revenant",
+            "collection": "Nouvel An 2024",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240970428940318/UnRevenant.png",
+            "rarity": "Common"
+        },
+        "252": {
+            "id": 252,
+            "name": "Souvenirs De Soirée",
+            "collection": "Soirée Trop Arrosée",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240971515273286/SouvenirsDeSoiree.png",
+            "rarity": "Common"
+        },
+        "254": {
+            "id": 254,
+            "name": "Sportif Olympique",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 10,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240972085436436/SportifOlympique.png",
+            "rarity": "Common"
         }
     },
     "funny": {
@@ -1126,6 +1225,96 @@
             "scrap": 25,
             "img": "https://media.discordapp.net/attachments/947917639840329760/1096499649126338630/CalculDifficile.png",
             "rarity": "Funny"
+        },
+        "231": {
+            "id": 231,
+            "name": "3 En 1",
+            "collection": "Nouvel An 2024",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240933128863774/3En1.png",
+            "rarity": "Funny"
+        },
+        "235": {
+            "id": 235,
+            "name": "Aesa Doudou",
+            "collection": "Nouvel An 2024",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240934601068606/AesaDoudou.png",
+            "rarity": "Funny"
+        },
+        "236": {
+            "id": 236,
+            "name": "Aesa Grrr",
+            "collection": "Soirée Trop Arrosée",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240934877761576/AesaGrrr.png",
+            "rarity": "Funny"
+        },
+        "242": {
+            "id": 242,
+            "name": "Course Nu",
+            "collection": "Sables-D'Olonne 2024",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240955534708786/CourseNu.png",
+            "rarity": "Funny"
+        },
+        "245": {
+            "id": 245,
+            "name": "Double KO Technique",
+            "collection": "Nouvel An 2024",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240956897861702/DoubleKOTechnique.png",
+            "rarity": "Funny"
+        },
+        "247": {
+            "id": 247,
+            "name": "Kesturgarde ?",
+            "collection": "Nouvel An 2024",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240957824798750/Kesturgarde.png",
+            "rarity": "Funny"
+        },
+        "250": {
+            "id": 250,
+            "name": "Sous Emprise",
+            "collection": "Soirée Trop Arrosée",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240970697252905/SousEmprise.png",
+            "rarity": "Funny"
+        },
+        "251": {
+            "id": 251,
+            "name": "Sous Emprise 2",
+            "collection": "Soirée Trop Arrosée",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240970982457354/SousEmprise2.png",
+            "rarity": "Funny"
+        },
+        "253": {
+            "id": 253,
+            "name": "Sportif Dans L'Âme",
+            "collection": "Soirée Trop Arrosée",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240971775316058/SportifDansLAme.png",
+            "rarity": "Funny"
+        },
+        "255": {
+            "id": 255,
+            "name": "Toujours Pour La KC",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 25,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240972328701992/ToujoursLaPourKC.png",
+            "rarity": "Funny"
         }
     },
     "legendary": {
@@ -1397,6 +1586,42 @@
             "state": "Originale",
             "scrap": 50,
             "img": "https://media.discordapp.net/attachments/947917639840329760/1096499648857911296/ReposEtRealisation.png",
+            "rarity": "Legendary"
+        },
+        "230": {
+            "id": 230,
+            "name": "Code, Cinema Et Féérie (Blink)",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 50,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240932810231868/CodeCinemaEtFeerieBlink.png",
+            "rarity": "Legendary"
+        },
+        "241": {
+            "id": 241,
+            "name": "Contexte ???",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 50,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240954683400292/Contexte.png",
+            "rarity": "Legendary"
+        },
+        "243": {
+            "id": 243,
+            "name": "ProxyLaLicorne",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 50,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240956117712996/Deguised.png",
+            "rarity": "Legendary"
+        },
+        "248": {
+            "id": 248,
+            "name": "Kesturgarde ?",
+            "collection": "Sables-D'Olonne 2024",
+            "state": "Originale",
+            "scrap": 50,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240958227447839/LePenseurDeRhodes.png",
             "rarity": "Legendary"
         }
     },
@@ -1843,6 +2068,15 @@
             "scrap": 100,
             "img": "https://media.discordapp.net/attachments/947917639840329760/1096499649671606282/UneRanDoum.png",
             "rarity": "Memories"
+        },
+        "233": {
+            "id": 233,
+            "name": "3 Potes Aux Sables",
+            "collection": "Sables-D'Olonne 2024",
+            "state": "Originale",
+            "scrap": 100,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240933913075732/3PotesAuxSables.png",
+            "rarity": "Memories"
         }
     },
     "classified": {
@@ -1970,6 +2204,24 @@
             "state": "Originale",
             "scrap": 200,
             "img": "https://media.discordapp.net/attachments/947917639840329760/1096495036289536070/ModelePhoto.png",
+            "rarity": "Classified"
+        },
+        "239": {
+            "id": 239,
+            "name": "Code, Cinéma Et Féérie",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 200,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240935771275294/CodeCinemaEtFeerie.png",
+            "rarity": "Classified"
+        },
+        "256": {
+            "id": 256,
+            "name": "Une Belle Brochette",
+            "collection": "/",
+            "state": "Originale",
+            "scrap": 200,
+            "img": "https://media.discordapp.net/attachments/947917639840329760/1209240972601462824/UneBelleBrochette.png",
             "rarity": "Classified"
         }
     },

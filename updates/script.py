@@ -18,6 +18,7 @@ for card in data:
     collections['total'] += 1
     if card['rarity'] == 'NFT':
         nft.append(card['name'])
+    card['img'] = card['img'].split('?')[0]
     data_cards[card['rarity'].lower()][card['id']] = card
 
 cards_output += '\n---'
