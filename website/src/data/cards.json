@@ -6,7 +6,7 @@
             "collection": "NSI",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/FinaleMaillette.png",
+            "img": "./src/ressources/img/cards/FinaleMaillette.png",
             "rarity": "Common"
         },
         "1": {
@@ -15,7 +15,7 @@
             "collection": "Photos Génantes",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/BoudiBoudin.png",
+            "img": "./src/ressources/img/cards/BoudiBoudin.png",
             "rarity": "Common"
         },
         "2": {
@@ -24,7 +24,7 @@
             "collection": "Photos Génantes",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Nationalisme.png",
+            "img": "./src/ressources/img/cards/Nationalisme.png",
             "rarity": "Common"
         },
         "3": {
@@ -33,7 +33,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/PunchCitrouille.png",
+            "img": "./src/ressources/img/cards/PunchCitrouille.png",
             "rarity": "Common"
         },
         "4": {
@@ -42,7 +42,7 @@
             "collection": "Photos Génantes",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/CatastropheCapilaire.png",
+            "img": "./src/ressources/img/cards/CatastropheCapilaire.png",
             "rarity": "Common"
         },
         "6": {
@@ -51,7 +51,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/PizzaHugo.png",
+            "img": "./src/ressources/img/cards/PizzaHugo.png",
             "rarity": "Common"
         },
         "7": {
@@ -60,7 +60,7 @@
             "collection": "Photos Génantes",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/AhChaud.png",
+            "img": "./src/ressources/img/cards/AhChaud.png",
             "rarity": "Common"
         },
         "8": {
@@ -69,7 +69,7 @@
             "collection": "NSI",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Error404.png",
+            "img": "./src/ressources/img/cards/Error404.png",
             "rarity": "Common"
         },
         "9": {
@@ -78,7 +78,7 @@
             "collection": "Photos Génantes",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Goumed.png",
+            "img": "./src/ressources/img/cards/Goumed.png",
             "rarity": "Common"
         },
         "32": {
@@ -87,7 +87,7 @@
             "collection": "En voiture",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/WaitingForPermis.png",
+            "img": "./src/ressources/img/cards/WaitingForPermis.png",
             "rarity": "Common"
         },
         "33": {
@@ -96,7 +96,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Break.png",
+            "img": "./src/ressources/img/cards/Break.png",
             "rarity": "Common"
         },
         "36": {
@@ -105,7 +105,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/DoMac.png",
+            "img": "./src/ressources/img/cards/DoMac.png",
             "rarity": "Common"
         },
         "39": {
@@ -114,7 +114,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/HapiSleep.png",
+            "img": "./src/ressources/img/cards/HapiSleep.png",
             "rarity": "Common"
         },
         "49": {
@@ -123,7 +123,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Saucissoned.png",
+            "img": "./src/ressources/img/cards/Saucissoned.png",
             "rarity": "Common"
         },
         "50": {
@@ -132,7 +132,7 @@
             "collection": "NSI",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/SpectateursMaillette.png",
+            "img": "./src/ressources/img/cards/SpectateursMaillette.png",
             "rarity": "Common"
         },
         "53": {
@@ -141,7 +141,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/PierreDePlage.png",
+            "img": "./src/ressources/img/cards/PierreDePlage.png",
             "rarity": "Common"
         },
         "54": {
@@ -150,7 +150,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/RedWall.png",
+            "img": "./src/ressources/img/cards/RedWall.png",
             "rarity": "Common"
         },
         "55": {
@@ -159,7 +159,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/POC.png",
+            "img": "./src/ressources/img/cards/POC.png",
             "rarity": "Common"
         },
         "56": {
@@ -168,7 +168,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/KiKou.png",
+            "img": "./src/ressources/img/cards/KiKou.png",
             "rarity": "Common"
         },
         "57": {
@@ -177,7 +177,7 @@
             "collection": "Hugo Perruquet",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/MamieHugo.png",
+            "img": "./src/ressources/img/cards/MamieHugo.png",
             "rarity": "Common"
         },
         "63": {
@@ -186,7 +186,7 @@
             "collection": "Volley",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/SupportersDeToujours.png",
+            "img": "./src/ressources/img/cards/SupportersDeToujours.png",
             "rarity": "Common"
         },
         "64": {
@@ -195,7 +195,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/HapiBB.png",
+            "img": "./src/ressources/img/cards/HapiBB.png",
             "rarity": "Common"
         },
         "65": {
@@ -204,7 +204,7 @@
             "collection": "Folie en cours",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/LaLicorneLeRouxEtLePedo.png",
+            "img": "./src/ressources/img/cards/LaLicorneLeRouxEtLePedo.png",
             "rarity": "Common"
         },
         "68": {
@@ -213,7 +213,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/LeBlondLeTrucEtLAbrutissant.png",
+            "img": "./src/ressources/img/cards/LeBlondLeTrucEtLAbrutissant.png",
             "rarity": "Common"
         },
         "69": {
@@ -222,7 +222,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/TocToc.png",
+            "img": "./src/ressources/img/cards/TocToc.png",
             "rarity": "Common"
         },
         "71": {
@@ -231,7 +231,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Plouf.png",
+            "img": "./src/ressources/img/cards/Plouf.png",
             "rarity": "Common"
         },
         "80": {
@@ -240,7 +240,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/uwu.png",
+            "img": "./src/ressources/img/cards/uwu.png",
             "rarity": "Common"
         },
         "92": {
@@ -249,7 +249,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/MenuHealthy.png",
+            "img": "./src/ressources/img/cards/MenuHealthy.png",
             "rarity": "Common"
         },
         "93": {
@@ -258,7 +258,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/LaMatrice.png",
+            "img": "./src/ressources/img/cards/LaMatrice.png",
             "rarity": "Common"
         },
         "99": {
@@ -267,7 +267,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Donut.png",
+            "img": "./src/ressources/img/cards/Donut.png",
             "rarity": "Common"
         },
         "100": {
@@ -276,7 +276,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/DesPates.png",
+            "img": "./src/ressources/img/cards/DesPates.png",
             "rarity": "Common"
         },
         "103": {
@@ -285,7 +285,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/VirgileMouille.png",
+            "img": "./src/ressources/img/cards/VirgileMouille.png",
             "rarity": "Common"
         },
         "104": {
@@ -294,7 +294,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/VigileBanquier.png",
+            "img": "./src/ressources/img/cards/VigileBanquier.png",
             "rarity": "Common"
         },
         "105": {
@@ -303,7 +303,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/VigileAuPlouf.png",
+            "img": "./src/ressources/img/cards/VigileAuPlouf.png",
             "rarity": "Common"
         },
         "109": {
@@ -312,7 +312,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/PumpIt.png",
+            "img": "./src/ressources/img/cards/PumpIt.png",
             "rarity": "Common"
         },
         "121": {
@@ -321,7 +321,7 @@
             "collection": "Girafon Memories",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/CaMordPasDeFou.png",
+            "img": "./src/ressources/img/cards/CaMordPasDeFou.png",
             "rarity": "Common"
         },
         "127": {
@@ -330,7 +330,7 @@
             "collection": "Girafon Memories",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Flow37.png",
+            "img": "./src/ressources/img/cards/Flow37.png",
             "rarity": "Common"
         },
         "128": {
@@ -339,7 +339,7 @@
             "collection": "18 Ans Aesa",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/DiscussionLunaire.png",
+            "img": "./src/ressources/img/cards/DiscussionLunaire.png",
             "rarity": "Common"
         },
         "132": {
@@ -348,7 +348,7 @@
             "collection": "18 Ans Aesa",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/IntruEtVodkaURSS.png",
+            "img": "./src/ressources/img/cards/IntruEtVodkaURSS.png",
             "rarity": "Common"
         },
         "133": {
@@ -357,7 +357,7 @@
             "collection": "18 Ans Aesa",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/JePenseCEstTout.png",
+            "img": "./src/ressources/img/cards/JePenseCEstTout.png",
             "rarity": "Common"
         },
         "135": {
@@ -366,7 +366,7 @@
             "collection": "Bord de Loire",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/McDoAuCalme.png",
+            "img": "./src/ressources/img/cards/McDoAuCalme.png",
             "rarity": "Common"
         },
         "140": {
@@ -375,7 +375,7 @@
             "collection": "18 Ans Girafon",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/RetourDifficile.png",
+            "img": "./src/ressources/img/cards/RetourDifficile.png",
             "rarity": "Common"
         },
         "142": {
@@ -384,7 +384,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/GamingWin.png",
+            "img": "./src/ressources/img/cards/GamingWin.png",
             "rarity": "Common"
         },
         "146": {
@@ -393,7 +393,7 @@
             "collection": "18 Ans Aesa",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/FocusNone.png",
+            "img": "./src/ressources/img/cards/FocusNone.png",
             "rarity": "Common"
         },
         "148": {
@@ -402,7 +402,7 @@
             "collection": "18 Ans Aesa",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/GroupeMultiple.png",
+            "img": "./src/ressources/img/cards/GroupeMultiple.png",
             "rarity": "Common"
         },
         "154": {
@@ -411,7 +411,7 @@
             "collection": "18 Ans Aesa",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/LendemainDifficile.png",
+            "img": "./src/ressources/img/cards/LendemainDifficile.png",
             "rarity": "Common"
         },
         "158": {
@@ -420,7 +420,7 @@
             "collection": "18 Ans Aesa",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/UnBarATenir.png",
+            "img": "./src/ressources/img/cards/UnBarATenir.png",
             "rarity": "Common"
         },
         "164": {
@@ -429,7 +429,7 @@
             "collection": "Bord De Loire",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/DebatHouleux.png",
+            "img": "./src/ressources/img/cards/DebatHouleux.png",
             "rarity": "Common"
         },
         "167": {
@@ -438,7 +438,7 @@
             "collection": "Bal De Fin D'Année",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/JusquaLaToutVaBien.png",
+            "img": "./src/ressources/img/cards/JusquaLaToutVaBien.png",
             "rarity": "Common"
         },
         "169": {
@@ -447,7 +447,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Instrospection.png",
+            "img": "./src/ressources/img/cards/Instrospection.png",
             "rarity": "Common"
         },
         "170": {
@@ -456,7 +456,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/RechargeEnCours.png",
+            "img": "./src/ressources/img/cards/RechargeEnCours.png",
             "rarity": "Common"
         },
         "172": {
@@ -465,7 +465,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Perdu.png",
+            "img": "./src/ressources/img/cards/Perdu.png",
             "rarity": "Common"
         },
         "174": {
@@ -474,7 +474,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/FranchementCEstSoft.png",
+            "img": "./src/ressources/img/cards/FranchementCEstSoft.png",
             "rarity": "Common"
         },
         "176": {
@@ -483,7 +483,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/LaDreamTeam.png",
+            "img": "./src/ressources/img/cards/LaDreamTeam.png",
             "rarity": "Common"
         },
         "178": {
@@ -492,7 +492,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/DiscussionDeTemporisation.png",
+            "img": "./src/ressources/img/cards/DiscussionDeTemporisation.png",
             "rarity": "Common"
         },
         "179": {
@@ -501,7 +501,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/RedisCaPourVoir.png",
+            "img": "./src/ressources/img/cards/RedisCaPourVoir.png",
             "rarity": "Common"
         },
         "180": {
@@ -510,7 +510,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/CestPourToi.png",
+            "img": "./src/ressources/img/cards/CestPourToi.png",
             "rarity": "Common"
         },
         "181": {
@@ -519,7 +519,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/PingPongEtDebrief.png",
+            "img": "./src/ressources/img/cards/PingPongEtDebrief.png",
             "rarity": "Common"
         },
         "186": {
@@ -528,7 +528,7 @@
             "collection": "Soirée En Boîte",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/EnBoite.png",
+            "img": "./src/ressources/img/cards/EnBoite.png",
             "rarity": "Common"
         },
         "190": {
@@ -537,7 +537,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/BudDeLAn2023.png",
+            "img": "./src/ressources/img/cards/BudDeLAn2023.png",
             "rarity": "Common"
         },
         "198": {
@@ -546,7 +546,7 @@
             "collection": "18 Ans Raphaël",
             "state": "Originale",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/KamouloxHumain.png",
+            "img": "./src/ressources/img/cards/KamouloxHumain.png",
             "rarity": "Common"
         },
         "199": {
@@ -555,7 +555,7 @@
             "collection": "18 Ans Raphaël",
             "state": "Originale",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/LaPlageALaFete.png",
+            "img": "./src/ressources/img/cards/LaPlageALaFete.png",
             "rarity": "Common"
         },
         "201": {
@@ -564,7 +564,7 @@
             "collection": "18 Ans Raphaël",
             "state": "Originale",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/LeCowboyDAmbillou.png",
+            "img": "./src/ressources/img/cards/LeCowboyDAmbillou.png",
             "rarity": "Common"
         },
         "215": {
@@ -573,7 +573,7 @@
             "collection": "19 Ans Pierre-Louis",
             "state": "Originale",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/DanceForPatoche.png",
+            "img": "./src/ressources/img/cards/DanceForPatoche.png",
             "rarity": "Common"
         },
         "216": {
@@ -582,7 +582,7 @@
             "collection": "19 Ans Pierre-Louis",
             "state": "Originale",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/UnCoupleEtLaRanDoum.png",
+            "img": "./src/ressources/img/cards/UnCoupleEtLaRanDoum.png",
             "rarity": "Common"
         },
         "220": {
@@ -591,7 +591,7 @@
             "collection": "19 Ans Pierre-Louis",
             "state": "Originale",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/PhotographeEnDevenir.png",
+            "img": "./src/ressources/img/cards/PhotographeEnDevenir.png",
             "rarity": "Common"
         },
         "222": {
@@ -600,7 +600,7 @@
             "collection": "19 Ans Pierre-Louis",
             "state": "Originale",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/PoseeAvecLeProtege.png",
+            "img": "./src/ressources/img/cards/PoseeAvecLeProtege.png",
             "rarity": "Common"
         },
         "228": {
@@ -609,7 +609,7 @@
             "collection": "Drôle d'Aventure",
             "state": "Originale",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/PhotographeAmateur.png",
+            "img": "./src/ressources/img/cards/PhotographeAmateur.png",
             "rarity": "Common"
         },
         "232": {
@@ -618,7 +618,7 @@
             "collection": "/",
             "state": "Originale",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/3PotesAuBar.png",
+            "img": "./src/updates/newcards/1YearLater/3PotesAuBar.png",
             "rarity": "Common"
         },
         "234": {
@@ -627,7 +627,7 @@
             "collection": "/",
             "state": "Originale",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/20KilosDeMangas.png",
+            "img": "./src/updates/newcards/1YearLater/20KilosDeMangas.png",
             "rarity": "Common"
         },
         "237": {
@@ -636,7 +636,7 @@
             "collection": "Nouvel An 2024",
             "state": "Originale",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/AperoCake.png",
+            "img": "./src/updates/newcards/1YearLater/AperoCake.png",
             "rarity": "Common"
         },
         "238": {
@@ -645,7 +645,7 @@
             "collection": "/",
             "state": "Originale",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/CestLeNord.png",
+            "img": "./src/updates/newcards/1YearLater/CestLeNord.png",
             "rarity": "Common"
         },
         "240": {
@@ -654,7 +654,7 @@
             "collection": "/",
             "state": "Originale",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/PierreLouisRoi.png",
+            "img": "./src/updates/newcards/1YearLater/PierreLouisRoi.png",
             "rarity": "Common"
         },
         "244": {
@@ -663,7 +663,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Originale",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/DegustationEnAveugle.png",
+            "img": "./src/updates/newcards/1YearLater/DegustationEnAveugle.png",
             "rarity": "Common"
         },
         "246": {
@@ -672,7 +672,7 @@
             "collection": "Sables-D'Olonne 2024",
             "state": "Originale",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/HugoBolt.png",
+            "img": "./src/updates/newcards/1YearLater/HugoBolt.png",
             "rarity": "Common"
         },
         "247": {
@@ -681,7 +681,7 @@
             "collection": "/",
             "state": "Originale",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/JeunesseEnPeril.png",
+            "img": "./src/updates/newcards/1YearLater/JeunesseEnPeril.png",
             "rarity": "Common"
         },
         "249": {
@@ -690,7 +690,7 @@
             "collection": "Nouvel An 2024",
             "state": "Originale",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/UnRevenant.png",
+            "img": "./src/updates/newcards/1YearLater/UnRevenant.png",
             "rarity": "Common"
         },
         "252": {
@@ -699,7 +699,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Originale",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/SouvenirsDeSoiree.png",
+            "img": "./src/updates/newcards/1YearLater/SouvenirsDeSoiree.png",
             "rarity": "Common"
         },
         "254": {
@@ -708,7 +708,7 @@
             "collection": "/",
             "state": "Originale",
             "scrap": 10,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/SportifOlympique.png",
+            "img": "./src/updates/newcards/1YearLater/SportifOlympique.png",
             "rarity": "Common"
         }
     },
@@ -719,7 +719,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/MiEteMiHiver.png",
+            "img": "./src/ressources/img/cards/MiEteMiHiver.png",
             "rarity": "Funny"
         },
         "10": {
@@ -728,7 +728,7 @@
             "collection": "Photos Génantes",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/HugoLeNu.png",
+            "img": "./src/ressources/img/cards/HugoLeNu.png",
             "rarity": "Funny"
         },
         "11": {
@@ -737,7 +737,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/1SecondBeforeDisaster.png",
+            "img": "./src/ressources/img/cards/1SecondBeforeDisaster.png",
             "rarity": "Funny"
         },
         "12": {
@@ -746,7 +746,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/RepasThai.png",
+            "img": "./src/ressources/img/cards/RepasThai.png",
             "rarity": "Funny"
         },
         "13": {
@@ -755,7 +755,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/MaximeSaucisson.png",
+            "img": "./src/ressources/img/cards/MaximeSaucisson.png",
             "rarity": "Funny"
         },
         "14": {
@@ -764,7 +764,7 @@
             "collection": "Folie en cours",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/AuChaudEnCours.png",
+            "img": "./src/ressources/img/cards/AuChaudEnCours.png",
             "rarity": "Funny"
         },
         "15": {
@@ -773,7 +773,7 @@
             "collection": "Bac",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/McDoPreBac.png",
+            "img": "./src/ressources/img/cards/McDoPreBac.png",
             "rarity": "Funny"
         },
         "31": {
@@ -782,7 +782,7 @@
             "collection": "Hugo Perruquet",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Watcha.png",
+            "img": "./src/ressources/img/cards/Watcha.png",
             "rarity": "Funny"
         },
         "34": {
@@ -791,7 +791,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/DureSoiree.png",
+            "img": "./src/ressources/img/cards/DureSoiree.png",
             "rarity": "Funny"
         },
         "35": {
@@ -800,7 +800,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/HereWeOh.png",
+            "img": "./src/ressources/img/cards//HereWeOh.png",
             "rarity": "Funny"
         },
         "38": {
@@ -809,7 +809,7 @@
             "collection": "Photos Génantes",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/HapiFeet.png",
+            "img": "./src/ressources/img/cards/HapiFeet.png",
             "rarity": "Funny"
         },
         "44": {
@@ -818,7 +818,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/ElPatronito.png",
+            "img": "./src/ressources/img/cards/ElPatronito.png",
             "rarity": "Funny"
         },
         "45": {
@@ -827,7 +827,7 @@
             "collection": "NSI",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Puni.png",
+            "img": "./src/ressources/img/cards/Puni.png",
             "rarity": "Funny"
         },
         "46": {
@@ -836,7 +836,7 @@
             "collection": "Volley",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/LaNatureEtLesPotes.png",
+            "img": "./src/ressources/img/cards/LaNatureEtLesPotes.png",
             "rarity": "Funny"
         },
         "47": {
@@ -845,7 +845,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/NEGIMA.png",
+            "img": "./src/ressources/img/cards/NEGIMA.png",
             "rarity": "Funny"
         },
         "61": {
@@ -854,7 +854,7 @@
             "collection": "Photos Génantes",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/POVSendNudes.png",
+            "img": "./src/ressources/img/cards/POVSendNudes.png",
             "rarity": "Funny"
         },
         "62": {
@@ -863,7 +863,7 @@
             "collection": "En voiture",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/JoPourUnPote.png",
+            "img": "./src/ressources/img/cards/JoPourUnPote.png",
             "rarity": "Funny"
         },
         "66": {
@@ -872,7 +872,7 @@
             "collection": "Hugo Perruquet",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/ChaVa.png",
+            "img": "./src/ressources/img/cards/ChaVa.png",
             "rarity": "Funny"
         },
         "72": {
@@ -881,7 +881,7 @@
             "collection": "Paris",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/PiedVolant.png",
+            "img": "./src/ressources/img/cards/PiedVolant.png",
             "rarity": "Funny"
         },
         "75": {
@@ -890,7 +890,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/HeinekenKO.png",
+            "img": "./src/ressources/img/cards/HeinekenKO.png",
             "rarity": "Funny"
         },
         "91": {
@@ -899,7 +899,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/NeigeBedosPOLOLO.png",
+            "img": "./src/ressources/img/cards/NeigeBedosPOLOLO.png",
             "rarity": "Funny"
         },
         "94": {
@@ -908,7 +908,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/JackyFiniLaBouteille.png",
+            "img": "./src/ressources/img/cards/JackyFiniLaBouteille.png",
             "rarity": "Funny"
         },
         "98": {
@@ -917,7 +917,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Empacte.png",
+            "img": "./src/ressources/img/cards/Empacte.png",
             "rarity": "Funny"
         },
         "101": {
@@ -926,7 +926,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/WishyBlinders.png",
+            "img": "./src/ressources/img/cards/WishyBlinders.png",
             "rarity": "Funny"
         },
         "110": {
@@ -935,7 +935,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/PasMatinal.png",
+            "img": "./src/ressources/img/cards/PasMatinal.png",
             "rarity": "Funny"
         },
         "111": {
@@ -944,7 +944,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Decuvage.png",
+            "img": "./src/ressources/img/cards/Decuvage.png",
             "rarity": "Funny"
         },
         "118": {
@@ -953,7 +953,7 @@
             "collection": "18 ans Aesa",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/LHeureDesClassiques.png",
+            "img": "./src/ressources/img/cards/LHeureDesClassiques.png",
             "rarity": "Funny"
         },
         "125": {
@@ -962,7 +962,7 @@
             "collection": "Girafon Memories",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/VoyageScolaire.png",
+            "img": "./src/ressources/img/cards/VoyageScolaire.png",
             "rarity": "Funny"
         },
         "126": {
@@ -971,7 +971,7 @@
             "collection": "Girafon Memories",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/EtreEquipe.png",
+            "img": "./src/ressources/img/cards/EtreEquipe.png",
             "rarity": "Funny"
         },
         "137": {
@@ -980,7 +980,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/PauseTactique.png",
+            "img": "./src/ressources/img/cards/PauseTactique.png",
             "rarity": "Funny"
         },
         "138": {
@@ -989,7 +989,7 @@
             "collection": "18 Ans Aesa",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/RockBrulure.png",
+            "img": "./src/ressources/img/cards/RockBrulure.png",
             "rarity": "Funny"
         },
         "139": {
@@ -998,7 +998,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/OhTaGueule.png",
+            "img": "./src/ressources/img/cards/OhTaGueule.png",
             "rarity": "Funny"
         },
         "143": {
@@ -1007,7 +1007,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/PiouPiou.png",
+            "img": "./src/ressources/img/cards/PiouPiou.png",
             "rarity": "Funny"
         },
         "145": {
@@ -1016,7 +1016,7 @@
             "collection": "Girafon Memories",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/MiniGirafon.png",
+            "img": "./src/ressources/img/cards/MiniGirafon.png",
             "rarity": "Funny"
         },
         "150": {
@@ -1025,7 +1025,7 @@
             "collection": "18 Ans Girafon",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/TireursDElite.png",
+            "img": "./src/ressources/img/cards/TireursDElite.png",
             "rarity": "Funny"
         },
         "151": {
@@ -1034,7 +1034,7 @@
             "collection": "18 Ans Aesa",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/ChoixFrigoEtBosse.png",
+            "img": "./src/ressources/img/cards/ChoixFrigoEtBosse.png",
             "rarity": "Funny"
         },
         "156": {
@@ -1043,7 +1043,7 @@
             "collection": "Cadeaux 18 Ans",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/OnFaitAvecCeQuOnA.png",
+            "img": "./src/ressources/img/cards/OnFaitAvecCeQuOnA.png",
             "rarity": "Funny"
         },
         "159": {
@@ -1052,7 +1052,7 @@
             "collection": "Bal De Fin D'Année",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/BainDeMinuit.png",
+            "img": "./src/ressources/img/cards/BainDeMinuit.png",
             "rarity": "Funny"
         },
         "160": {
@@ -1061,7 +1061,7 @@
             "collection": "18 Ans Aesa",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/PetitePause.png",
+            "img": "./src/ressources/img/cards/PetitePause.png",
             "rarity": "Funny"
         },
         "171": {
@@ -1070,7 +1070,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/CheckCa.png",
+            "img": "./src/ressources/img/cards/CheckCa.png",
             "rarity": "Funny"
         },
         "173": {
@@ -1079,7 +1079,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/UneSombreHistoire.png",
+            "img": "./src/ressources/img/cards/UneSombreHistoire.png",
             "rarity": "Funny"
         },
         "175": {
@@ -1088,7 +1088,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/MenaceIncomprehensionEtAlcoolisme.png",
+            "img": "./src/ressources/img/cards/MenaceIncomprehensionEtAlcoolisme.png",
             "rarity": "Funny"
         },
         "177": {
@@ -1097,7 +1097,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/ViseeDePro.png",
+            "img": "./src/ressources/img/cards/ViseeDePro.png",
             "rarity": "Funny"
         },
         "185": {
@@ -1106,7 +1106,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Pool.png",
+            "img": "./src/ressources/img/cards/Pool.png",
             "rarity": "Funny"
         },
         "188": {
@@ -1115,7 +1115,7 @@
             "collection": "Soirée En Boîte",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/POVCombienDeVerres.png",
+            "img": "./src/ressources/img/cards/POVCombienDeVerres.png",
             "rarity": "Funny"
         },
         "191": {
@@ -1124,7 +1124,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/QuEstCeQueTuAs.png",
+            "img": "./src/ressources/img/cards/QuEstCeQueTuAs.png",
             "rarity": "Funny"
         },
         "192": {
@@ -1133,7 +1133,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/StrategieDEquipe.png",
+            "img": "./src/ressources/img/cards/StrategieDEquipe.png",
             "rarity": "Funny"
         },
         "195": {
@@ -1142,7 +1142,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/AtThisMomentWeKnew.png",
+            "img": "./src/ressources/img/cards/AtThisMomentWeKnew.png",
             "rarity": "Funny"
         },
         "197": {
@@ -1151,7 +1151,7 @@
             "collection": "18 Ans Raphaël",
             "state": "Originale",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/GrandCruEnDevenir.png",
+            "img": "./src/ressources/img/cards/GrandCruEnDevenir.png",
             "rarity": "Funny"
         },
         "200": {
@@ -1160,7 +1160,7 @@
             "collection": "18 Ans Raphaël",
             "state": "Originale",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/LaValseDeLEspace.png",
+            "img": "./src/ressources/img/cards/LaValseDeLEspace.png",
             "rarity": "Funny"
         },
         "202": {
@@ -1169,7 +1169,7 @@
             "collection": "18 Ans Raphaël",
             "state": "Originale",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Les2FontLaPaire.png",
+            "img": "./src/ressources/img/cards/Les2FontLaPaire.png",
             "rarity": "Funny"
         },
         "203": {
@@ -1178,7 +1178,7 @@
             "collection": "18 Ans Raphaël",
             "state": "Originale",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Les2FontLaPaire.png",
+            "img": "./src/ressources/img/cards/Les2FontLaPaire.png",
             "rarity": "Funny"
         },
         "205": {
@@ -1187,7 +1187,7 @@
             "collection": "18 Ans Raphaël",
             "state": "Originale",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/TapisEmpacte.png",
+            "img": "./src/ressources/img/cards/TapisEmpacte.png",
             "rarity": "Funny"
         },
         "217": {
@@ -1196,7 +1196,7 @@
             "collection": "19 Ans Pierre-Louis",
             "state": "Originale",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/PhotoDossier.png",
+            "img": "./src/ressources/img/cards/PhotoDossier.png",
             "rarity": "Funny"
         },
         "219": {
@@ -1205,7 +1205,7 @@
             "collection": "19 Ans Pierre-Louis",
             "state": "Originale",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/DurPeage.png",
+            "img": "./src/ressources/img/cards/DurPeage.png",
             "rarity": "Funny"
         },
         "224": {
@@ -1214,7 +1214,7 @@
             "collection": "Drôle d'Aventure",
             "state": "Originale",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/RegimeParticulier.png",
+            "img": "./src/ressources/img/cards/RegimeParticulier.png",
             "rarity": "Funny"
         },
         "227": {
@@ -1223,7 +1223,7 @@
             "collection": "Drôle d'Aventure",
             "state": "Originale",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/CalculDifficile.png",
+            "img": "./src/ressources/img/cards/CalculDifficile.png",
             "rarity": "Funny"
         },
         "231": {
@@ -1232,7 +1232,7 @@
             "collection": "Nouvel An 2024",
             "state": "Originale",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/3En1.png",
+            "img": "./src/updates/newcards/1YearLater/3En1.png",
             "rarity": "Funny"
         },
         "235": {
@@ -1241,7 +1241,7 @@
             "collection": "Nouvel An 2024",
             "state": "Originale",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/AesaDoudou.png",
+            "img": "./src/updates/newcards/1YearLater/AesaDoudou.png",
             "rarity": "Funny"
         },
         "236": {
@@ -1250,7 +1250,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Originale",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/AesaGrrr.png",
+            "img": "./src/updates/newcards/1YearLater/AesaGrrr.png",
             "rarity": "Funny"
         },
         "242": {
@@ -1259,7 +1259,7 @@
             "collection": "Sables-D'Olonne 2024",
             "state": "Originale",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/CourseNu.png",
+            "img": "./src/updates/newcards/1YearLater/CourseNu.png",
             "rarity": "Funny"
         },
         "245": {
@@ -1268,7 +1268,7 @@
             "collection": "Nouvel An 2024",
             "state": "Originale",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/DoubleKOTechnique.png",
+            "img": "./src/updates/newcards/1YearLater/DoubleKOTechnique.png",
             "rarity": "Funny"
         },
         "247": {
@@ -1277,7 +1277,7 @@
             "collection": "Nouvel An 2024",
             "state": "Originale",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/Kesturgarde.png",
+            "img": "./src/updates/newcards/1YearLater/Kesturgarde.png",
             "rarity": "Funny"
         },
         "250": {
@@ -1286,7 +1286,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Originale",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/SousEmprise.png",
+            "img": "./src/updates/newcards/1YearLater/SousEmprise.png",
             "rarity": "Funny"
         },
         "251": {
@@ -1295,7 +1295,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Originale",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/SousEmprise2.png",
+            "img": "./src/updates/newcards/1YearLater/SousEmprise2.png",
             "rarity": "Funny"
         },
         "253": {
@@ -1304,7 +1304,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Originale",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/SportifDansLAme.png",
+            "img": "./src/updates/newcards/1YearLater/SportifDansLAme.png",
             "rarity": "Funny"
         },
         "255": {
@@ -1313,7 +1313,7 @@
             "collection": "/",
             "state": "Originale",
             "scrap": 25,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/ToujoursLaPourKC.png",
+            "img": "./src/updates/newcards/1YearLater/ToujoursLaPourKC.png",
             "rarity": "Funny"
         }
     },
@@ -1324,7 +1324,7 @@
             "collection": "En voiture",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Joltaxi.png",
+            "img": "./src/ressources/img/cards/Joltaxi.png",
             "rarity": "Legendary"
         },
         "17": {
@@ -1333,7 +1333,7 @@
             "collection": "Bord de Loire",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/IndreEtBiere.png",
+            "img": "./src/ressources/img/cards/IndreEtBiere.png",
             "rarity": "Legendary"
         },
         "18": {
@@ -1342,7 +1342,7 @@
             "collection": "NSI",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/MailletteTop3.png",
+            "img": "./src/ressources/img/cards/MailletteTop3.png",
             "rarity": "Legendary"
         },
         "40": {
@@ -1351,7 +1351,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/PartouzeOuPas.png",
+            "img": "./src/ressources/img/cards/PartouzeOuPas.png",
             "rarity": "Legendary"
         },
         "41": {
@@ -1360,7 +1360,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/PtiteBinouze.png",
+            "img": "./src/ressources/img/cards/PtiteBinouze.png",
             "rarity": "Legendary"
         },
         "52": {
@@ -1369,7 +1369,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/POVJeLaiTue.png",
+            "img": "./src/ressources/img/cards/POVJeLaiTue.png",
             "rarity": "Legendary"
         },
         "60": {
@@ -1378,7 +1378,7 @@
             "collection": "Volley",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/HereToWin.png",
+            "img": "./src/ressources/img/cards/HereToWin.png",
             "rarity": "Legendary"
         },
         "67": {
@@ -1387,7 +1387,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/TuKiffesMoiAussi.png",
+            "img": "./src/ressources/img/cards/TuKiffesMoiAussi.png",
             "rarity": "Legendary"
         },
         "96": {
@@ -1396,7 +1396,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/JackyALaPeche.png",
+            "img": "./src/ressources/img/cards/JackyALaPeche.png",
             "rarity": "Legendary"
         },
         "97": {
@@ -1405,7 +1405,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/HerissonEnDanger.png",
+            "img": "./src/ressources/img/cards/HerissonEnDanger.png",
             "rarity": "Legendary"
         },
         "102": {
@@ -1414,7 +1414,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/VirgileRebel.png",
+            "img": "./src/ressources/img/cards/VirgileRebel.png",
             "rarity": "Legendary"
         },
         "106": {
@@ -1423,7 +1423,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/ToutNu.png",
+            "img": "./src/ressources/img/cards/ToutNu.png",
             "rarity": "Legendary"
         },
         "107": {
@@ -1432,7 +1432,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/SurDeBonsRails.png",
+            "img": "./src/ressources/img/cards/SurDeBonsRails.png",
             "rarity": "Legendary"
         },
         "114": {
@@ -1441,7 +1441,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/BoutadeMatinale.png",
+            "img": "./src/ressources/img/cards/BoutadeMatinale.png",
             "rarity": "Legendary"
         },
         "115": {
@@ -1450,7 +1450,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/BigBrain.png",
+            "img": "./src/ressources/img/cards/BigBrain.png",
             "rarity": "Legendary"
         },
         "116": {
@@ -1459,7 +1459,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/AfterAuxWC.png",
+            "img": "./src/ressources/img/cards/AfterAuxWC.png",
             "rarity": "Legendary"
         },
         "119": {
@@ -1468,7 +1468,7 @@
             "collection": "18 ans Aesa",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/WaitWHAT.png",
+            "img": "./src/ressources/img/cards/WaitWHAT.png",
             "rarity": "Legendary"
         },
         "134": {
@@ -1477,7 +1477,7 @@
             "collection": "18 Ans Aesa",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/DebriefMatinal.png",
+            "img": "./src/ressources/img/cards/DebriefMatinal.png",
             "rarity": "Legendary"
         },
         "136": {
@@ -1486,7 +1486,7 @@
             "collection": "18 Ans Girafon",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/BeerPongForce.png",
+            "img": "./src/ressources/img/cards/BeerPongForce.png",
             "rarity": "Legendary"
         },
         "144": {
@@ -1495,7 +1495,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/SoireeSTI2D.png",
+            "img": "./src/ressources/img/cards/SoireeSTI2D.png",
             "rarity": "Legendary"
         },
         "153": {
@@ -1504,7 +1504,7 @@
             "collection": "Bal De Fin D'Année",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/EtEncoreUnVerre.png",
+            "img": "./src/ressources/img/cards/EtEncoreUnVerre.png",
             "rarity": "Legendary"
         },
         "182": {
@@ -1513,7 +1513,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/JustePourquoi.png",
+            "img": "./src/ressources/img/cards/JustePourquoi.png",
             "rarity": "Legendary"
         },
         "183": {
@@ -1522,7 +1522,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/MateMoiCa.png",
+            "img": "./src/ressources/img/cards/MateMoiCa.png",
             "rarity": "Legendary"
         },
         "193": {
@@ -1531,7 +1531,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/FaireBoireOuBoire.png",
+            "img": "./src/ressources/img/cards/FaireBoireOuBoire.png",
             "rarity": "Legendary"
         },
         "204": {
@@ -1540,7 +1540,7 @@
             "collection": "18 Ans Raphaël",
             "state": "Originale",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/PompierPrincesse.png",
+            "img": "./src/ressources/img/cards/PompierPrincesse.png",
             "rarity": "Legendary"
         },
         "218": {
@@ -1549,7 +1549,7 @@
             "collection": "19 Ans Pierre-Louis",
             "state": "Originale",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/1Image2Ambiances.png",
+            "img": "./src/ressources/img/cards/1Image2Ambiances.png",
             "rarity": "Legendary"
         },
         "221": {
@@ -1558,7 +1558,7 @@
             "collection": "19 Ans Pierre-Louis",
             "state": "Originale",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/CadeauOriginal.png",
+            "img": "./src/ressources/img/cards/CadeauOriginal.png",
             "rarity": "Legendary"
         },
         "223": {
@@ -1567,7 +1567,7 @@
             "collection": "Drôle d'Aventure",
             "state": "Originale",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/ForcesInegales.png",
+            "img": "./src/ressources/img/cards/ForcesInegales.png",
             "rarity": "Legendary"
         },
         "225": {
@@ -1576,7 +1576,7 @@
             "collection": "Drôle d'Aventure",
             "state": "Originale",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/AirCoolingDIY.png",
+            "img": "./src/ressources/img/cards/AirCoolingDIY.png",
             "rarity": "Legendary"
         },
         "226": {
@@ -1585,7 +1585,7 @@
             "collection": "Drôle d'Aventure",
             "state": "Originale",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/ReposEtRealisation.png",
+            "img": "./src/ressources/img/cards/ReposEtRealisation.png",
             "rarity": "Legendary"
         },
         "230": {
@@ -1594,7 +1594,7 @@
             "collection": "/",
             "state": "Originale",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/CodeCinemaEtFeerieBlink.png",
+            "img": "./src/updates/newcards/1YearLater/CodeCinemaEtFeerieBlink.png",
             "rarity": "Legendary"
         },
         "241": {
@@ -1603,7 +1603,7 @@
             "collection": "/",
             "state": "Originale",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/Contexte.png",
+            "img": "./src/updates/newcards/1YearLater/Contexte.png",
             "rarity": "Legendary"
         },
         "243": {
@@ -1612,7 +1612,7 @@
             "collection": "/",
             "state": "Originale",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/Deguised.png",
+            "img": "./src/updates/newcards/1YearLater/Deguised.png",
             "rarity": "Legendary"
         },
         "248": {
@@ -1621,7 +1621,7 @@
             "collection": "Sables-D'Olonne 2024",
             "state": "Originale",
             "scrap": 50,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/LePenseurDeRhodes.png",
+            "img": "./src/updates/newcards/1YearLater/LePenseurDeRhodes.png",
             "rarity": "Legendary"
         }
     },
@@ -1632,7 +1632,7 @@
             "collection": "Paris",
             "state": "Original",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/FrereDeParis.png",
+            "img": "./src/ressources/img/cards/FrereDeParis.png",
             "rarity": "Recomposed"
         },
         "20": {
@@ -1641,7 +1641,7 @@
             "collection": "Paris",
             "state": "Original",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/VForVictory.png",
+            "img": "./src/ressources/img/cards/VForVictory.png",
             "rarity": "Recomposed"
         },
         "21": {
@@ -1650,7 +1650,7 @@
             "collection": "Paris",
             "state": "Original",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/SouvenirDeParis.png",
+            "img": "./src/ressources/img/cards/SouvenirDeParis.png",
             "rarity": "Recomposed"
         },
         "22": {
@@ -1659,7 +1659,7 @@
             "collection": "Paris",
             "state": "Original",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Kevin.png",
+            "img": "./src/ressources/img/cards/Kevin.png",
             "rarity": "Recomposed"
         },
         "23": {
@@ -1668,7 +1668,7 @@
             "collection": "Paris",
             "state": "Original",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/PlsDontTouch.png",
+            "img": "./src/ressources/img/cards/PlsDontTouch.png",
             "rarity": "Recomposed"
         },
         "48": {
@@ -1677,7 +1677,7 @@
             "collection": "Opération Alpha",
             "state": "Original",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/OperationAlphaFliced.png",
+            "img": "./src/ressources/img/cards/OperationAlphaFliced.png",
             "rarity": "Recomposed"
         },
         "76": {
@@ -1686,7 +1686,7 @@
             "collection": "Opération Alpha",
             "state": "Original",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/AlphaArrive.png",
+            "img": "./src/ressources/img/cards/AlphaArrive.png",
             "rarity": "Recomposed"
         },
         "77": {
@@ -1695,7 +1695,7 @@
             "collection": "Opération Alpha",
             "state": "Original",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/AlphaDansPointB.png",
+            "img": "./src/ressources/img/cards/AlphaDansPointB.png",
             "rarity": "Recomposed"
         },
         "78": {
@@ -1704,7 +1704,7 @@
             "collection": "Opération Alpha",
             "state": "Original",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/AlphaFliced.png",
+            "img": "./src/ressources/img/cards/AlphaFliced.png",
             "rarity": "Recomposed"
         },
         "79": {
@@ -1713,7 +1713,7 @@
             "collection": "Opération Alpha",
             "state": "Original",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/AlphaDansPointT.png",
+            "img": "./src/ressources/img/cards/AlphaDansPointT.png",
             "rarity": "Recomposed"
         },
         "81": {
@@ -1722,7 +1722,7 @@
             "collection": "Tentative De Meurtre",
             "state": "Original",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/GouterPlume.png",
+            "img": "./src/ressources/img/cards/GouterPlume.png",
             "rarity": "Recomposed"
         },
         "82": {
@@ -1731,7 +1731,7 @@
             "collection": "Bac",
             "state": "Original",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/SalutBG.png",
+            "img": "./src/ressources/img/cards/SalutBG.png",
             "rarity": "Recomposed"
         },
         "83": {
@@ -1740,7 +1740,7 @@
             "collection": "Bac",
             "state": "Original",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/TelephoneAuVolant.png",
+            "img": "./src/ressources/img/cards/TelephoneAuVolant.png",
             "rarity": "Recomposed"
         },
         "84": {
@@ -1749,7 +1749,7 @@
             "collection": "Bac",
             "state": "Original",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/YaDesNomsQuiSePerdent.png",
+            "img": "./src/ressources/img/cards/YaDesNomsQuiSePerdent.png",
             "rarity": "Recomposed"
         },
         "85": {
@@ -1758,7 +1758,7 @@
             "collection": "Bac",
             "state": "Original",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/2GeekALAirLibre.png",
+            "img": "./src/ressources/img/cards/2GeekALAirLibre.png",
             "rarity": "Recomposed"
         },
         "86": {
@@ -1767,7 +1767,7 @@
             "collection": "Bac",
             "state": "Original",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/CoupezCaMonsieur.png",
+            "img": "./src/ressources/img/cards/CoupezCaMonsieur.png",
             "rarity": "Recomposed"
         },
         "87": {
@@ -1776,7 +1776,7 @@
             "collection": "Tentative De Meurtre",
             "state": "Original",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/PortonsPlainte.png",
+            "img": "./src/ressources/img/cards/PortonsPlainte.png",
             "rarity": "Recomposed"
         },
         "88": {
@@ -1785,7 +1785,7 @@
             "collection": "Tentative De Meurtre",
             "state": "Original",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/DevoirCiviqueFait.png",
+            "img": "./src/ressources/img/cards/DevoirCiviqueFait.png",
             "rarity": "Recomposed"
         },
         "89": {
@@ -1794,7 +1794,7 @@
             "collection": "Tentative De Meurtre",
             "state": "Original",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Commico.png",
+            "img": "./src/ressources/img/cards/Commico.png",
             "rarity": "Recomposed"
         },
         "90": {
@@ -1803,7 +1803,7 @@
             "collection": "Tentative De Meurtre",
             "state": "Original",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/POVAled.png",
+            "img": "./src/ressources/img/cards/POVAled.png",
             "rarity": "Recomposed"
         },
         "206": {
@@ -1812,7 +1812,7 @@
             "collection": "Virgile en Prépa",
             "state": "Originale",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/MeufBiereRestau.png",
+            "img": "./src/ressources/img/cards/MeufBiereRestau.png",
             "rarity": "Recomposed"
         },
         "207": {
@@ -1821,7 +1821,7 @@
             "collection": "Virgile en Prépa",
             "state": "Originale",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/PremierDateOblige.png",
+            "img": "./src/ressources/img/cards/PremierDateOblige.png",
             "rarity": "Recomposed"
         },
         "208": {
@@ -1830,7 +1830,7 @@
             "collection": "Virgile en Prépa",
             "state": "Originale",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/SortieEnVille.png",
+            "img": "./src/ressources/img/cards/SortieEnVille.png",
             "rarity": "Recomposed"
         },
         "210": {
@@ -1839,7 +1839,7 @@
             "collection": "Virgile en Prépa",
             "state": "Originale",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/MiroirMiroir.png",
+            "img": "./src/ressources/img/cards/MiroirMiroir.png",
             "rarity": "Recomposed"
         },
         "211": {
@@ -1848,7 +1848,7 @@
             "collection": "Virgile en Prépa",
             "state": "Originale",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/FuturMaitreDHotel.png",
+            "img": "./src/ressources/img/cards/FuturMaitreDHotel.png",
             "rarity": "Recomposed"
         },
         "212": {
@@ -1857,7 +1857,7 @@
             "collection": "Virgile en Prépa",
             "state": "Originale",
             "scrap": 75,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/VenezEnPrepa.png",
+            "img": "./src/ressources/img/cards/VenezEnPrepa.png",
             "rarity": "Recomposed"
         }
     },
@@ -1868,7 +1868,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/LeCrouPostSoiree.png",
+            "img": "./src/ressources/img/cards/LeCrouPostSoiree.png",
             "rarity": "Memories"
         },
         "25": {
@@ -1877,7 +1877,7 @@
             "collection": "Cadeaux 18 Ans",
             "state": "Original",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/ExplicationsSoonTM.png",
+            "img": "./src/ressources/img/cards/ExplicationsSoonTM.png",
             "rarity": "Memories"
         },
         "26": {
@@ -1886,7 +1886,7 @@
             "collection": "Folie en cours",
             "state": "Original",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/VirgilePornHub.png",
+            "img": "./src/ressources/img/cards/VirgilePornHub.png",
             "rarity": "Memories"
         },
         "27": {
@@ -1895,7 +1895,7 @@
             "collection": "Bac",
             "state": "Original",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/BacBlancHapied.png",
+            "img": "./src/ressources/img/cards/BacBlancHapied.png",
             "rarity": "Memories"
         },
         "28": {
@@ -1904,7 +1904,7 @@
             "collection": "Cadeaux 18 Ans",
             "state": "Original",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Depart_alpha.png",
+            "img": "./src/ressources/img/cards/Depart_alpha.png",
             "rarity": "Memories"
         },
         "42": {
@@ -1913,7 +1913,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/MathExperted.png",
+            "img": "./src/ressources/img/cards/MathExperted.png",
             "rarity": "Memories"
         },
         "51": {
@@ -1922,7 +1922,7 @@
             "collection": "En voiture",
             "state": "Original",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/LaKDeJo.png",
+            "img": "./src/ressources/img/cards/LaKDeJo.png",
             "rarity": "Memories"
         },
         "58": {
@@ -1931,7 +1931,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Couched.png",
+            "img": "./src/ressources/img/cards/Couched.png",
             "rarity": "Memories"
         },
         "73": {
@@ -1940,7 +1940,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Noice.png",
+            "img": "./src/ressources/img/cards/Noice.png",
             "rarity": "Memories"
         },
         "74": {
@@ -1949,7 +1949,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/RentreChezToi.png",
+            "img": "./src/ressources/img/cards/RentreChezToi.png",
             "rarity": "Memories"
         },
         "95": {
@@ -1958,7 +1958,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/JackyBoit.png",
+            "img": "./src/ressources/img/cards/JackyBoit.png",
             "rarity": "Memories"
         },
         "113": {
@@ -1967,7 +1967,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/DanceTillYoureDead.png",
+            "img": "./src/ressources/img/cards/DanceTillYoureDead.png",
             "rarity": "Memories"
         },
         "122": {
@@ -1976,7 +1976,7 @@
             "collection": "Bal De Fin D'Année",
             "state": "Original",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/UnBalParticulier.png",
+            "img": "./src/ressources/img/cards/UnBalParticulier.png",
             "rarity": "Memories"
         },
         "124": {
@@ -1985,7 +1985,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/FootingNu.png",
+            "img": "./src/ressources/img/cards/FootingNu.png",
             "rarity": "Memories"
         },
         "149": {
@@ -1994,7 +1994,7 @@
             "collection": "18 Ans Girafon",
             "state": "Original",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/PotesBierresEtPiscine.png",
+            "img": "./src/ressources/img/cards/PotesBierresEtPiscine.png",
             "rarity": "Memories"
         },
         "165": {
@@ -2003,7 +2003,7 @@
             "collection": "18 Ans Girafon",
             "state": "Original",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/PiscineA3H.png",
+            "img": "./src/ressources/img/cards/PiscineA3H.png",
             "rarity": "Memories"
         },
         "166": {
@@ -2012,7 +2012,7 @@
             "collection": "Bal De Fin D'Année",
             "state": "Original",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/SoldatATerre.png",
+            "img": "./src/ressources/img/cards/SoldatATerre.png",
             "rarity": "Memories"
         },
         "184": {
@@ -2021,7 +2021,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/LesJoueursEtLAlcoolique.png",
+            "img": "./src/ressources/img/cards/LesJoueursEtLAlcoolique.png",
             "rarity": "Memories"
         },
         "189": {
@@ -2030,7 +2030,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Sante.png",
+            "img": "./src/ressources/img/cards/Sante.png",
             "rarity": "Memories"
         },
         "194": {
@@ -2039,7 +2039,7 @@
             "collection": "Nouvel An 2023",
             "state": "Original",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/TargetAcquired.png",
+            "img": "./src/ressources/img/cards/TargetAcquired.png",
             "rarity": "Memories"
         },
         "196": {
@@ -2048,7 +2048,7 @@
             "collection": "18 Ans Raphaël",
             "state": "Originale",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/UnNouveauTapis.png",
+            "img": "./src/ressources/img/cards/UnNouveauTapis.png",
             "rarity": "Memories"
         },
         "214": {
@@ -2057,7 +2057,7 @@
             "collection": "19 Ans Pierre-Louis",
             "state": "Originale",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/SimpleRegret.png",
+            "img": "./src/ressources/img/cards/SimpleRegret.png",
             "rarity": "Memories"
         },
         "229": {
@@ -2066,7 +2066,7 @@
             "collection": "Drôle d'Aventure",
             "state": "Originale",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/UneRanDoum.png",
+            "img": "./src/ressources/img/cards/UneRanDoum.png",
             "rarity": "Memories"
         },
         "233": {
@@ -2075,7 +2075,7 @@
             "collection": "Sables-D'Olonne 2024",
             "state": "Originale",
             "scrap": 100,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/3PotesAuxSables.png",
+            "img": "./src/updates/newcards/1YearLater/3PotesAuxSables.png",
             "rarity": "Memories"
         }
     },
@@ -2086,7 +2086,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 200,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/VirgileRaptor.png",
+            "img": "./src/ressources/img/cards/VirgileRaptor.png",
             "rarity": "Classified"
         },
         "30": {
@@ -2095,7 +2095,7 @@
             "collection": "Tentative de Meurtre",
             "state": "Original",
             "scrap": 200,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/City.png",
+            "img": "./src/ressources/img/cards/City.png",
             "rarity": "Classified"
         },
         "37": {
@@ -2104,7 +2104,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 200,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/JagerunSleep.png",
+            "img": "./src/ressources/img/cards/JagerunSleep.png",
             "rarity": "Classified"
         },
         "43": {
@@ -2113,7 +2113,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 200,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Bisous.png",
+            "img": "./src/ressources/img/cards/Bisous.png",
             "rarity": "Classified"
         },
         "59": {
@@ -2122,7 +2122,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 200,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/CLIO.png",
+            "img": "./src/ressources/img/cards/CLIO.png",
             "rarity": "Classified"
         },
         "70": {
@@ -2131,7 +2131,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 200,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/LongueSoiree.png",
+            "img": "./src/ressources/img/cards/LongueSoiree.png",
             "rarity": "Classified"
         },
         "112": {
@@ -2140,7 +2140,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 200,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/DatingSimulator.png",
+            "img": "./src/ressources/img/cards/DatingSimulator.png",
             "rarity": "Classified"
         },
         "117": {
@@ -2149,7 +2149,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 200,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/4QuartA16Heure.png",
+            "img": "./src/ressources/img/cards/4QuartA16Heure.png",
             "rarity": "Classified"
         },
         "123": {
@@ -2158,7 +2158,7 @@
             "collection": "/",
             "state": "Original",
             "scrap": 200,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/CaVaTresViteEntreNous.png",
+            "img": "./src/ressources/img/cards/CaVaTresViteEntreNous.png",
             "rarity": "Classified"
         },
         "152": {
@@ -2167,7 +2167,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 200,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/RelookingDIY.png",
+            "img": "./src/ressources/img/cards/RelookingDIY.png",
             "rarity": "Classified"
         },
         "155": {
@@ -2176,7 +2176,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 200,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/RelookingDIYExtreme.png",
+            "img": "./src/ressources/img/cards/RelookingDIYExtreme.png",
             "rarity": "Classified"
         },
         "187": {
@@ -2185,7 +2185,7 @@
             "collection": "Soirée En Boîte",
             "state": "Original",
             "scrap": 200,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Vomito.png",
+            "img": "./src/ressources/img/cards/Vomito.png",
             "rarity": "Classified"
         },
         "209": {
@@ -2194,7 +2194,7 @@
             "collection": "Virgile en Prépa",
             "state": "Originale",
             "scrap": 200,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/LaTeteDansLCul.png",
+            "img": "./src/ressources/img/cards/LaTeteDansLCul.png",
             "rarity": "Classified"
         },
         "213": {
@@ -2203,7 +2203,7 @@
             "collection": "19 Ans Pierre-Louis",
             "state": "Originale",
             "scrap": 200,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/ModelePhoto.png",
+            "img": "./src/ressources/img/cards/ModelePhoto.png",
             "rarity": "Classified"
         },
         "239": {
@@ -2212,7 +2212,7 @@
             "collection": "/",
             "state": "Originale",
             "scrap": 200,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/CodeCinemaEtFeerie.png",
+            "img": "./src/updates/newcards/1YearLater/CodeCinemaEtFeerie.png",
             "rarity": "Classified"
         },
         "256": {
@@ -2221,7 +2221,7 @@
             "collection": "/",
             "state": "Originale",
             "scrap": 200,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/UneBelleBrochette.png",
+            "img": "./src/updates/newcards/1YearLater/UneBelleBrochette.png",
             "rarity": "Classified"
         }
     },
@@ -2232,7 +2232,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 0,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/SoireeAccompagnee.png",
+            "img": "./src/ressources/img/cards/SoireeAccompagnee.png",
             "rarity": "Deprecated"
         },
         "120": {
@@ -2241,7 +2241,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 0,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/JamaisEtreSeul.png",
+            "img": "./src/ressources/img/cards/JamaisEtreSeul.png",
             "rarity": "Deprecated"
         },
         "129": {
@@ -2250,7 +2250,7 @@
             "collection": "18 Ans Aesa",
             "state": "Original",
             "scrap": 0,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/Les2Nouilles.png",
+            "img": "./src/ressources/img/cards/Les2Nouilles.png",
             "rarity": "Deprecated"
         },
         "130": {
@@ -2259,7 +2259,7 @@
             "collection": "18 Ans Aesa",
             "state": "Original",
             "scrap": 0,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/2En1.png",
+            "img": "./src/ressources/img/cards/2En1.png",
             "rarity": "Deprecated"
         },
         "131": {
@@ -2268,7 +2268,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 0,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/WOULAIsOk.png",
+            "img": "./src/ressources/img/cards/WOULAIsOk.png",
             "rarity": "Deprecated"
         },
         "141": {
@@ -2277,7 +2277,7 @@
             "collection": "Soirée Trop Arrosée",
             "state": "Original",
             "scrap": 0,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/AvecDelicatesse.png",
+            "img": "./src/ressources/img/cards/AvecDelicatesse.png",
             "rarity": "Deprecated"
         },
         "147": {
@@ -2286,7 +2286,7 @@
             "collection": "18 Ans Aesa",
             "state": "Original",
             "scrap": 0,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/DerriereUnBar.png",
+            "img": "./src/ressources/img/cards/DerriereUnBar.png",
             "rarity": "Deprecated"
         },
         "157": {
@@ -2295,7 +2295,7 @@
             "collection": "18 Ans Aesa",
             "state": "Original",
             "scrap": 0,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/ToutVaBien.png",
+            "img": "./src/ressources/img/cards/ToutVaBien.png",
             "rarity": "Deprecated"
         },
         "161": {
@@ -2304,7 +2304,7 @@
             "collection": "18 Ans Aesa",
             "state": "Original",
             "scrap": 0,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/DiscussionAuBar.png",
+            "img": "./src/ressources/img/cards/DiscussionAuBar.png",
             "rarity": "Deprecated"
         },
         "162": {
@@ -2313,7 +2313,7 @@
             "collection": "18 Ans Aesa",
             "state": "Original",
             "scrap": 0,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/DiscussionAuBar.png",
+            "img": "./src/ressources/img/cards/DiscussionAuBar.png",
             "rarity": "Deprecated"
         },
         "163": {
@@ -2322,7 +2322,7 @@
             "collection": "Cadeaux 18 Ans",
             "state": "Original",
             "scrap": 0,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/CadeauSurprise.png",
+            "img": "./src/ressources/img/cards/CadeauSurprise.png",
             "rarity": "Deprecated"
         },
         "168": {
@@ -2331,7 +2331,7 @@
             "collection": "18 Ans Aesa",
             "state": "Original",
             "scrap": 0,
-            "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/src/ressources/img/cards/TestDAlcoolemieDIY.png",
+            "img": "./src/ressources/img/cards/TestDAlcoolemieDIY.png",
             "rarity": "Deprecated"
         }
     }

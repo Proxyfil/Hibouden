@@ -5,7 +5,7 @@
         "collection": "NSI",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/974204834142109726/FinaleMaillette.png",
+        "img": "./src/ressources/img/cards/FinaleMaillette.png",
         "rarity": "Common"
     },
     {
@@ -14,7 +14,7 @@
         "collection": "Photos Génantes",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/974204835018731520/BoudiBoudin.png",
+        "img": "./src/ressources/img/cards/BoudiBoudin.png",
         "rarity": "Common"
     },
     {
@@ -23,7 +23,7 @@
         "collection": "Photos Génantes",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/974204835366850560/Nationalisme.png",
+        "img": "./src/ressources/img/cards/Nationalisme.png",
         "rarity": "Common"
     },
     {
@@ -32,7 +32,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/974204836591583252/PunchCitrouille.png",
+        "img": "./src/ressources/img/cards/PunchCitrouille.png",
         "rarity": "Common"
     },
     {
@@ -41,7 +41,7 @@
         "collection": "Photos Génantes",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/974204836994252810/CatastropheCapilaire.png",
+        "img": "./src/ressources/img/cards/CatastropheCapilaire.png",
         "rarity": "Common"
     },
     {
@@ -50,7 +50,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/973972749796122644/MiEteMiHiver.png",
+        "img": "./src/ressources/img/cards/MiEteMiHiver.png",
         "rarity": "Funny"
     },
     {
@@ -59,7 +59,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/973972750047801414/PizzaHugo.png",
+        "img": "./src/ressources/img/cards/PizzaHugo.png",
         "rarity": "Common"
     },
     {
@@ -68,7 +68,7 @@
         "collection": "Photos Génantes",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/973972709505654824/AhChaud.png",
+        "img": "./src/ressources/img/cards/AhChaud.png",
         "rarity": "Common"
     },
     {
@@ -77,7 +77,7 @@
         "collection": "NSI",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/973972710537433110/Error404.png",
+        "img": "./src/ressources/img/cards/Error404.png",
         "rarity": "Common"
     },
     {
@@ -86,7 +86,7 @@
         "collection": "Photos Génantes",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/973972711040761916/Goumed.png",
+        "img": "./src/ressources/img/cards/Goumed.png",
         "rarity": "Common"
     },
     {
@@ -95,7 +95,7 @@
         "collection": "Photos Génantes",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/973972711321796718/HugoLeNu.png",
+        "img": "./src/ressources/img/cards/HugoLeNu.png",
         "rarity": "Funny"
     },
     {
@@ -104,7 +104,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/973972709153312818/1SecondBeforeDisaster.png",
+        "img": "./src/ressources/img/cards/1SecondBeforeDisaster.png",
         "rarity": "Funny"
     },
     {
@@ -113,7 +113,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/973972750358167562/RepasThai.png",
+        "img": "./src/ressources/img/cards/RepasThai.png",
         "rarity": "Funny"
     },
     {
@@ -122,7 +122,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/973972749552857129/MaximeSaucisson.png",
+        "img": "./src/ressources/img/cards/MaximeSaucisson.png",
         "rarity": "Funny"
     },
     {
@@ -131,7 +131,7 @@
         "collection": "Folie en cours",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/973972709769887755/AuChaudEnCours.png",
+        "img": "./src/ressources/img/cards/AuChaudEnCours.png",
         "rarity": "Funny"
     },
     {
@@ -140,7 +140,7 @@
         "collection": "Bac",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/974204835610116116/McDoPreBac.png",
+        "img": "./src/ressources/img/cards/McDoPreBac.png",
         "rarity": "Funny"
     },
     {
@@ -149,7 +149,7 @@
         "collection": "En voiture",
         "state": "Original",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/973972748701421638/Joltaxi.png",
+        "img": "./src/ressources/img/cards/Joltaxi.png",
         "rarity": "Legendary"
     },
     {
@@ -158,7 +158,7 @@
         "collection": "Bord de Loire",
         "state": "Original",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/973972708742287430/IndreEtBiere.png",
+        "img": "./src/ressources/img/cards/IndreEtBiere.png",
         "rarity": "Legendary"
     },
     {
@@ -167,7 +167,7 @@
         "collection": "NSI",
         "state": "Original",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/973972749296992307/MailletteTop3.png",
+        "img": "./src/ressources/img/cards/MailletteTop3.png",
         "rarity": "Legendary"
     },
     {
@@ -176,7 +176,7 @@
         "collection": "Paris",
         "state": "Original",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/974204837250101258/FrereDeParis.png",
+        "img": "./src/ressources/img/cards/FrereDeParis.png",
         "rarity": "Recomposed"
     },
     {
@@ -185,7 +185,7 @@
         "collection": "Paris",
         "state": "Original",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/974204835954065438/VForVictory.png",
+        "img": "./src/ressources/img/cards/VForVictory.png",
         "rarity": "Recomposed"
     },
     {
@@ -194,7 +194,7 @@
         "collection": "Paris",
         "state": "Original",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/973972750647570534/SouvenirDeParis.png",
+        "img": "./src/ressources/img/cards/SouvenirDeParis.png",
         "rarity": "Recomposed"
     },
     {
@@ -203,7 +203,7 @@
         "collection": "Paris",
         "state": "Original",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/974204834658025543/Kevin.png",
+        "img": "./src/ressources/img/cards/Kevin.png",
         "rarity": "Recomposed"
     },
     {
@@ -212,7 +212,7 @@
         "collection": "Paris",
         "state": "Original",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/974204836277006376/PlsDontTouch.png",
+        "img": "./src/ressources/img/cards/PlsDontTouch.png",
         "rarity": "Recomposed"
     },
     {
@@ -221,7 +221,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 100,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/973972748974047292/LeCrouPostSoiree.png",
+        "img": "./src/ressources/img/cards/LeCrouPostSoiree.png",
         "rarity": "Memories"
     },
     {
@@ -230,7 +230,7 @@
         "collection": "Cadeaux 18 Ans",
         "state": "Original",
         "scrap": 100,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/973972710755532840/ExplicationsSoonTM.png",
+        "img": "./src/ressources/img/cards/ExplicationsSoonTM.png",
         "rarity": "Memories"
     },
     {
@@ -239,7 +239,7 @@
         "collection": "Folie en cours",
         "state": "Original",
         "scrap": 100,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/973972750945357824/VirgilePornHub.png",
+        "img": "./src/ressources/img/cards/VirgilePornHub.png",
         "rarity": "Memories"
     },
     {
@@ -248,7 +248,7 @@
         "collection": "Bac",
         "state": "Original",
         "scrap": 100,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/973972710046703616/BacBlancHapied.png",
+        "img": "./src/ressources/img/cards/BacBlancHapied.png",
         "rarity": "Memories"
     },
     {
@@ -257,7 +257,7 @@
         "collection": "Cadeaux 18 Ans",
         "state": "Original",
         "scrap": 100,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/973972710256443462/Depart_alpha.png",
+        "img": "./src/ressources/img/cards/Depart_alpha.png",
         "rarity": "Memories"
     },
     {
@@ -266,7 +266,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 200,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/973972748399411250/VirgileRaptor.png",
+        "img": "./src/ressources/img/cards/VirgileRaptor.png",
         "rarity": "Classified"
     },
     {
@@ -275,7 +275,7 @@
         "collection": "Tentative de Meurtre",
         "state": "Original",
         "scrap": 200,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/973985749655494656/City.png",
+        "img": "./src/ressources/img/cards/City.png",
         "rarity": "Classified"
     },
     {
@@ -284,7 +284,7 @@
         "collection": "Hugo Perruquet",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975093899649490944/Watcha.png",
+        "img": "./src/ressources/img/cards/Watcha.png",
         "rarity": "Funny"
     },
     {
@@ -293,7 +293,7 @@
         "collection": "En voiture",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975093899968262184/WaitingForPermis.png",
+        "img": "./src/ressources/img/cards/WaitingForPermis.png",
         "rarity": "Common"
     },
     {
@@ -302,7 +302,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975093900542902293/Break.png",
+        "img": "./src/ressources/img/cards/Break.png",
         "rarity": "Common"
     },
     {
@@ -311,7 +311,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975093900891009164/DureSoiree.png",
+        "img": "./src/ressources/img/cards/DureSoiree.png",
         "rarity": "Funny"
     },
     {
@@ -320,7 +320,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975093901255905341/HereWeOh.png",
+        "img": "./src/ressources/img/cards//HereWeOh.png",
         "rarity": "Funny"
     },
     {
@@ -329,7 +329,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975093901495009290/DoMac.png",
+        "img": "./src/ressources/img/cards/DoMac.png",
         "rarity": "Common"
     },
     {
@@ -338,7 +338,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 200,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975093901989904475/JagerunSleep.png",
+        "img": "./src/ressources/img/cards/JagerunSleep.png",
         "rarity": "Classified"
     },
     {
@@ -347,7 +347,7 @@
         "collection": "Photos Génantes",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975093902208028762/HapiFeet.png",
+        "img": "./src/ressources/img/cards/HapiFeet.png",
         "rarity": "Funny"
     },
     {
@@ -356,7 +356,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975093905366331392/HapiSleep.png",
+        "img": "./src/ressources/img/cards/HapiSleep.png",
         "rarity": "Common"
     },
     {
@@ -365,7 +365,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094084698005514/PartouzeOuPas.png",
+        "img": "./src/ressources/img/cards/PartouzeOuPas.png",
         "rarity": "Legendary"
     },
     {
@@ -374,7 +374,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094084937089114/PtiteBinouze.png",
+        "img": "./src/ressources/img/cards/PtiteBinouze.png",
         "rarity": "Legendary"
     },
     {
@@ -383,7 +383,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 100,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094085184520252/MathExperted.png",
+        "img": "./src/ressources/img/cards/MathExperted.png",
         "rarity": "Memories"
     },
     {
@@ -392,7 +392,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 200,
-        "img": "https://images-ext-1.discordapp.net/external/hWyuTf-HSYoYMVhWacI4vTW_9rK7Ta13w5eOQ3f5K0o/https/media.discordapp.net/attachments/947917639840329760/975094085461352518/Bisous.png",
+        "img": "./src/ressources/img/cards/Bisous.png",
         "rarity": "Classified"
     },
     {
@@ -401,7 +401,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094085687840849/ElPatronito.png",
+        "img": "./src/ressources/img/cards/ElPatronito.png",
         "rarity": "Funny"
     },
     {
@@ -410,7 +410,7 @@
         "collection": "NSI",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094085947908146/Puni.png",
+        "img": "./src/ressources/img/cards/Puni.png",
         "rarity": "Funny"
     },
     {
@@ -419,7 +419,7 @@
         "collection": "Volley",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094086220546108/LaNatureEtLesPotes.png",
+        "img": "./src/ressources/img/cards/LaNatureEtLesPotes.png",
         "rarity": "Funny"
     },
     {
@@ -428,7 +428,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094086484770876/NEGIMA.png",
+        "img": "./src/ressources/img/cards/NEGIMA.png",
         "rarity": "Funny"
     },
     {
@@ -437,7 +437,7 @@
         "collection": "Opération Alpha",
         "state": "Original",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094086723850270/OperationAlphaFliced.png",
+        "img": "./src/ressources/img/cards/OperationAlphaFliced.png",
         "rarity": "Recomposed"
     },
     {
@@ -446,7 +446,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094086958735420/Saucissoned.png",
+        "img": "./src/ressources/img/cards/Saucissoned.png",
         "rarity": "Common"
     },
     {
@@ -455,7 +455,7 @@
         "collection": "NSI",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094143602810910/SpectateursMaillette.png",
+        "img": "./src/ressources/img/cards/SpectateursMaillette.png",
         "rarity": "Common"
     },
     {
@@ -464,7 +464,7 @@
         "collection": "En voiture",
         "state": "Original",
         "scrap": 100,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094143829295154/LaKDeJo.png",
+        "img": "./src/ressources/img/cards/LaKDeJo.png",
         "rarity": "Memories"
     },
     {
@@ -473,7 +473,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094144055791636/POVJeLaiTue.png",
+        "img": "./src/ressources/img/cards/POVJeLaiTue.png",
         "rarity": "Legendary"
     },
     {
@@ -482,7 +482,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094144324210718/PierreDePlage.png",
+        "img": "./src/ressources/img/cards/PierreDePlage.png",
         "rarity": "Common"
     },
     {
@@ -491,7 +491,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094144584278096/RedWall.png",
+        "img": "./src/ressources/img/cards/RedWall.png",
         "rarity": "Common"
     },
     {
@@ -500,7 +500,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094144835911780/POC.png",
+        "img": "./src/ressources/img/cards/POC.png",
         "rarity": "Common"
     },
     {
@@ -509,7 +509,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094145066614935/KiKou.png",
+        "img": "./src/ressources/img/cards/KiKou.png",
         "rarity": "Common"
     },
     {
@@ -518,7 +518,7 @@
         "collection": "Hugo Perruquet",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094145263738930/MamieHugo.png",
+        "img": "./src/ressources/img/cards/MamieHugo.png",
         "rarity": "Common"
     },
     {
@@ -527,7 +527,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 100,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094145460895784/Couched.png",
+        "img": "./src/ressources/img/cards/Couched.png",
         "rarity": "Memories"
     },
     {
@@ -536,7 +536,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 200,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094145687380038/CLIO.png",
+        "img": "./src/ressources/img/cards/CLIO.png",
         "rarity": "Classified"
     },
     {
@@ -545,7 +545,7 @@
         "collection": "Volley",
         "state": "Original",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094143888003182/HereToWin.png",
+        "img": "./src/ressources/img/cards/HereToWin.png",
         "rarity": "Legendary"
     },
     {
@@ -554,7 +554,7 @@
         "collection": "Photos Génantes",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094144110325800/POVSendNudes.png",
+        "img": "./src/ressources/img/cards/POVSendNudes.png",
         "rarity": "Funny"
     },
     {
@@ -563,7 +563,7 @@
         "collection": "En voiture",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094144336810045/JoPourUnPote.png",
+        "img": "./src/ressources/img/cards/JoPourUnPote.png",
         "rarity": "Funny"
     },
     {
@@ -572,7 +572,7 @@
         "collection": "Volley",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094144571682866/SupportersDeToujours.png",
+        "img": "./src/ressources/img/cards/SupportersDeToujours.png",
         "rarity": "Common"
     },
     {
@@ -581,7 +581,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094144827527228/HapiBB.png",
+        "img": "./src/ressources/img/cards/HapiBB.png",
         "rarity": "Common"
     },
     {
@@ -590,7 +590,7 @@
         "collection": "Folie en cours",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094145100181535/LaLicorneLeRouxEtLePedo.png",
+        "img": "./src/ressources/img/cards/LaLicorneLeRouxEtLePedo.png",
         "rarity": "Common"
     },
     {
@@ -599,7 +599,7 @@
         "collection": "Hugo Perruquet",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094145322459206/ChaVa.png",
+        "img": "./src/ressources/img/cards/ChaVa.png",
         "rarity": "Funny"
     },
     {
@@ -608,7 +608,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094145569914921/TuKiffesMoiAussi.png",
+        "img": "./src/ressources/img/cards/TuKiffesMoiAussi.png",
         "rarity": "Legendary"
     },
     {
@@ -617,7 +617,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094145804820591/LeBlondLeTrucEtLAbrutissant.png",
+        "img": "./src/ressources/img/cards/LeBlondLeTrucEtLAbrutissant.png",
         "rarity": "Common"
     },
     {
@@ -626,7 +626,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094146060652654/TocToc.png",
+        "img": "./src/ressources/img/cards/TocToc.png",
         "rarity": "Common"
     },
     {
@@ -635,7 +635,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 200,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094153111302144/LongueSoiree.png",
+        "img": "./src/ressources/img/cards/LongueSoiree.png",
         "rarity": "Classified"
     },
     {
@@ -644,7 +644,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094153430040587/Plouf.png",
+        "img": "./src/ressources/img/cards/Plouf.png",
         "rarity": "Common"
     },
     {
@@ -653,7 +653,7 @@
         "collection": "Paris",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094153694294066/PiedVolant.png",
+        "img": "./src/ressources/img/cards/PiedVolant.png",
         "rarity": "Funny"
     },
     {
@@ -662,7 +662,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 100,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094153916596295/Noice.png",
+        "img": "./src/ressources/img/cards/Noice.png",
         "rarity": "Memories"
     },
     {
@@ -671,7 +671,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 100,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094154185048144/RentreChezToi.png",
+        "img": "./src/ressources/img/cards/RentreChezToi.png",
         "rarity": "Memories"
     },
     {
@@ -680,7 +680,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094154478624828/HeinekenKO.png",
+        "img": "./src/ressources/img/cards/HeinekenKO.png",
         "rarity": "Funny"
     },
     {
@@ -689,7 +689,7 @@
         "collection": "Opération Alpha",
         "state": "Original",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094154784804925/AlphaArrive.png",
+        "img": "./src/ressources/img/cards/AlphaArrive.png",
         "rarity": "Recomposed"
     },
     {
@@ -698,7 +698,7 @@
         "collection": "Opération Alpha",
         "state": "Original",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094155091009536/AlphaDansPointB.png",
+        "img": "./src/ressources/img/cards/AlphaDansPointB.png",
         "rarity": "Recomposed"
     },
     {
@@ -707,7 +707,7 @@
         "collection": "Opération Alpha",
         "state": "Original",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094155351040082/AlphaFliced.png",
+        "img": "./src/ressources/img/cards/AlphaFliced.png",
         "rarity": "Recomposed"
     },
     {
@@ -716,7 +716,7 @@
         "collection": "Opération Alpha",
         "state": "Original",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975094155648827402/AlphaDansPointT.png",
+        "img": "./src/ressources/img/cards/AlphaDansPointT.png",
         "rarity": "Recomposed"
     },
     {
@@ -725,7 +725,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975093900274458667/uwu.png",
+        "img": "./src/ressources/img/cards/uwu.png",
         "rarity": "Common"
     },
     {
@@ -734,7 +734,7 @@
         "collection": "Tentative De Meurtre",
         "state": "Original",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975321444324102165/GouterPlume.png",
+        "img": "./src/ressources/img/cards/GouterPlume.png",
         "rarity": "Recomposed"
     },
     {
@@ -743,7 +743,7 @@
         "collection": "Bac",
         "state": "Original",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975321444621877328/SalutBG.png",
+        "img": "./src/ressources/img/cards/SalutBG.png",
         "rarity": "Recomposed"
     },
     {
@@ -752,7 +752,7 @@
         "collection": "Bac",
         "state": "Original",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975321445070696478/TelephoneAuVolant.png",
+        "img": "./src/ressources/img/cards/TelephoneAuVolant.png",
         "rarity": "Recomposed"
     },
     {
@@ -761,7 +761,7 @@
         "collection": "Bac",
         "state": "Original",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975321445326540800/YaDesNomsQuiSePerdent.png",
+        "img": "./src/ressources/img/cards/YaDesNomsQuiSePerdent.png",
         "rarity": "Recomposed"
     },
     {
@@ -770,7 +770,7 @@
         "collection": "Bac",
         "state": "Original",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975321445636898866/2GeekALAirLibre.png",
+        "img": "./src/ressources/img/cards/2GeekALAirLibre.png",
         "rarity": "Recomposed"
     },
     {
@@ -779,7 +779,7 @@
         "collection": "Bac",
         "state": "Original",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975321445863403540/CoupezCaMonsieur.png",
+        "img": "./src/ressources/img/cards/CoupezCaMonsieur.png",
         "rarity": "Recomposed"
     },
     {
@@ -788,7 +788,7 @@
         "collection": "Tentative De Meurtre",
         "state": "Original",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975321446194770002/PortonsPlainte.png",
+        "img": "./src/ressources/img/cards/PortonsPlainte.png",
         "rarity": "Recomposed"
     },
     {
@@ -797,7 +797,7 @@
         "collection": "Tentative De Meurtre",
         "state": "Original",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975321446467395644/DevoirCiviqueFait.png",
+        "img": "./src/ressources/img/cards/DevoirCiviqueFait.png",
         "rarity": "Recomposed"
     },
     {
@@ -806,7 +806,7 @@
         "collection": "Tentative De Meurtre",
         "state": "Original",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975321446748422184/Commico.png",
+        "img": "./src/ressources/img/cards/Commico.png",
         "rarity": "Recomposed"
     },
     {
@@ -815,7 +815,7 @@
         "collection": "Tentative De Meurtre",
         "state": "Original",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/975321446974894100/POVAled.png",
+        "img": "./src/ressources/img/cards/POVAled.png",
         "rarity": "Recomposed"
     },
     {
@@ -824,7 +824,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344409297330206/NeigeBedosPOLOLO.png",
+        "img": "./src/ressources/img/cards/NeigeBedosPOLOLO.png",
         "rarity": "Funny"
     },
     {
@@ -833,7 +833,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344408961794148/MenuHealthy.png",
+        "img": "./src/ressources/img/cards/MenuHealthy.png",
         "rarity": "Common"
     },
     {
@@ -842,7 +842,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344408647233546/LaMatrice.png",
+        "img": "./src/ressources/img/cards/LaMatrice.png",
         "rarity": "Common"
     },
     {
@@ -851,7 +851,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344408320081950/JackyFiniLaBouteille.png",
+        "img": "./src/ressources/img/cards/JackyFiniLaBouteille.png",
         "rarity": "Funny"
     },
     {
@@ -860,7 +860,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 100,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344407833530368/JackyBoit.png",
+        "img": "./src/ressources/img/cards/JackyBoit.png",
         "rarity": "Memories"
     },
     {
@@ -869,7 +869,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344407502184468/JackyALaPeche.png",
+        "img": "./src/ressources/img/cards/JackyALaPeche.png",
         "rarity": "Legendary"
     },
     {
@@ -878,7 +878,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344407078563890/HerissonEnDanger.png",
+        "img": "./src/ressources/img/cards/HerissonEnDanger.png",
         "rarity": "Legendary"
     },
     {
@@ -887,7 +887,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344406751379496/Empacte.png",
+        "img": "./src/ressources/img/cards/Empacte.png",
         "rarity": "Funny"
     },
     {
@@ -896,7 +896,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344406273257562/Donut.png",
+        "img": "./src/ressources/img/cards/Donut.png",
         "rarity": "Common"
     },
     {
@@ -905,7 +905,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344406017380362/DesPates.png",
+        "img": "./src/ressources/img/cards/DesPates.png",
         "rarity": "Common"
     },
     {
@@ -914,7 +914,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344398010462218/WishyBlinders.png",
+        "img": "./src/ressources/img/cards/WishyBlinders.png",
         "rarity": "Funny"
     },
     {
@@ -923,7 +923,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344397729460284/VirgileRebel.png",
+        "img": "./src/ressources/img/cards/VirgileRebel.png",
         "rarity": "Legendary"
     },
     {
@@ -932,7 +932,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344397410668545/VirgileMouille.png",
+        "img": "./src/ressources/img/cards/VirgileMouille.png",
         "rarity": "Common"
     },
     {
@@ -941,7 +941,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344397179977758/VigileBanquier.png",
+        "img": "./src/ressources/img/cards/VigileBanquier.png",
         "rarity": "Common"
     },
     {
@@ -950,7 +950,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344396836057098/VigileAuPlouf.png",
+        "img": "./src/ressources/img/cards/VigileAuPlouf.png",
         "rarity": "Common"
     },
     {
@@ -959,7 +959,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344396534083584/ToutNu.png",
+        "img": "./src/ressources/img/cards/ToutNu.png",
         "rarity": "Legendary"
     },
     {
@@ -968,7 +968,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344396286599168/SurDeBonsRails.png",
+        "img": "./src/ressources/img/cards/SurDeBonsRails.png",
         "rarity": "Legendary"
     },
     {
@@ -977,7 +977,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 0,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344395967823872/SoireeAccompagnee.png",
+        "img": "./src/ressources/img/cards/SoireeAccompagnee.png",
         "rarity": "Deprecated"
     },
     {
@@ -986,7 +986,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344395665850418/PumpIt.png",
+        "img": "./src/ressources/img/cards/PumpIt.png",
         "rarity": "Common"
     },
     {
@@ -995,7 +995,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344395389034616/PasMatinal.png",
+        "img": "./src/ressources/img/cards/PasMatinal.png",
         "rarity": "Funny"
     },
     {
@@ -1004,7 +1004,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344352116391966/Decuvage.png",
+        "img": "./src/ressources/img/cards/Decuvage.png",
         "rarity": "Funny"
     },
     {
@@ -1013,7 +1013,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 200,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344351831171082/DatingSimulator.png",
+        "img": "./src/ressources/img/cards/DatingSimulator.png",
         "rarity": "Classified"
     },
     {
@@ -1022,7 +1022,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 100,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344351436927066/DanceTillYoureDead.png",
+        "img": "./src/ressources/img/cards/DanceTillYoureDead.png",
         "rarity": "Memories"
     },
     {
@@ -1031,7 +1031,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344351210426428/BoutadeMatinale.png",
+        "img": "./src/ressources/img/cards/BoutadeMatinale.png",
         "rarity": "Legendary"
     },
     {
@@ -1040,7 +1040,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344350954557440/BigBrain.png",
+        "img": "./src/ressources/img/cards/BigBrain.png",
         "rarity": "Legendary"
     },
     {
@@ -1049,7 +1049,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344350757437491/AfterAuxWC.png",
+        "img": "./src/ressources/img/cards/AfterAuxWC.png",
         "rarity": "Legendary"
     },
     {
@@ -1058,7 +1058,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 200,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/982344350468014090/4QuartA16Heure.png",
+        "img": "./src/ressources/img/cards/4QuartA16Heure.png",
         "rarity": "Classified"
     },
     {
@@ -1067,7 +1067,7 @@
         "collection": "18 ans Aesa",
         "state": "Original",
         "scrap": 25,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432610876174438/LHeureDesClassiques.png",
+        "img": "./src/ressources/img/cards/LHeureDesClassiques.png",
         "rarity": "Funny"
     },
     {
@@ -1076,7 +1076,7 @@
         "collection": "18 ans Aesa",
         "state": "Original",
         "scrap": 50,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432610557403216/WaitWHAT.png",
+        "img": "./src/ressources/img/cards/WaitWHAT.png",
         "rarity": "Legendary"
     },
     {
@@ -1085,7 +1085,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 0,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432610263805992/JamaisEtreSeul.png",
+        "img": "./src/ressources/img/cards/JamaisEtreSeul.png",
         "rarity": "Deprecated"
     },
     {
@@ -1094,7 +1094,7 @@
         "collection": "Girafon Memories",
         "state": "Original",
         "scrap": 10,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432609936646244/CaMordPasDeFou.png",
+        "img": "./src/ressources/img/cards/CaMordPasDeFou.png",
         "rarity": "Common"
     },
     {
@@ -1103,7 +1103,7 @@
         "collection": "Bal De Fin D'Année",
         "state": "Original",
         "scrap": 100,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432609550782505/UnBalParticulier.png",
+        "img": "./src/ressources/img/cards/UnBalParticulier.png",
         "rarity": "Memories"
     },
     {
@@ -1112,7 +1112,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 200,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432609219428462/CaVaTresViteEntreNous.png",
+        "img": "./src/ressources/img/cards/CaVaTresViteEntreNous.png",
         "rarity": "Classified"
     },
     {
@@ -1121,7 +1121,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 100,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432608808378378/FootingNu.png",
+        "img": "./src/ressources/img/cards/FootingNu.png",
         "rarity": "Memories"
     },
     {
@@ -1130,7 +1130,7 @@
         "collection": "Girafon Memories",
         "state": "Original",
         "scrap": 25,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432608502206464/VoyageScolaire.png",
+        "img": "./src/ressources/img/cards/VoyageScolaire.png",
         "rarity": "Funny"
     },
     {
@@ -1139,7 +1139,7 @@
         "collection": "Girafon Memories",
         "state": "Original",
         "scrap": 25,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432608107933778/EtreEquipe.png",
+        "img": "./src/ressources/img/cards/EtreEquipe.png",
         "rarity": "Funny"
     },
     {
@@ -1148,7 +1148,7 @@
         "collection": "Girafon Memories",
         "state": "Original",
         "scrap": 10,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432607722045460/Flow37.png",
+        "img": "./src/ressources/img/cards/Flow37.png",
         "rarity": "Common"
     },
     {
@@ -1157,7 +1157,7 @@
         "collection": "18 Ans Aesa",
         "state": "Original",
         "scrap": 10,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432609034866719/DiscussionLunaire.png",
+        "img": "./src/ressources/img/cards/DiscussionLunaire.png",
         "rarity": "Common"
     },
     {
@@ -1166,7 +1166,7 @@
         "collection": "18 Ans Aesa",
         "state": "Original",
         "scrap": 0,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432608703520849/Les2Nouilles.png",
+        "img": "./src/ressources/img/cards/Les2Nouilles.png",
         "rarity": "Deprecated"
     },
     {
@@ -1175,7 +1175,7 @@
         "collection": "18 Ans Aesa",
         "state": "Original",
         "scrap": 0,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432608309260448/2En1.png",
+        "img": "./src/ressources/img/cards/2En1.png",
         "rarity": "Deprecated"
     },
     {
@@ -1184,7 +1184,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 0,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432604328857721/WOULAIsOk.png",
+        "img": "./src/ressources/img/cards/WOULAIsOk.png",
         "rarity": "Deprecated"
     },
     {
@@ -1193,7 +1193,7 @@
         "collection": "18 Ans Aesa",
         "state": "Original",
         "scrap": 10,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432603859107870/IntruEtVodkaURSS.png",
+        "img": "./src/ressources/img/cards/IntruEtVodkaURSS.png",
         "rarity": "Common"
     },
     {
@@ -1202,7 +1202,7 @@
         "collection": "18 Ans Aesa",
         "state": "Original",
         "scrap": 10,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432603418697758/JePenseCEstTout.png",
+        "img": "./src/ressources/img/cards/JePenseCEstTout.png",
         "rarity": "Common"
     },
     {
@@ -1211,7 +1211,7 @@
         "collection": "18 Ans Aesa",
         "state": "Original",
         "scrap": 50,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432602986696794/DebriefMatinal.png",
+        "img": "./src/ressources/img/cards/DebriefMatinal.png",
         "rarity": "Legendary"
     },
     {
@@ -1220,7 +1220,7 @@
         "collection": "Bord de Loire",
         "state": "Original",
         "scrap": 10,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432602638549022/McDoAuCalme.png",
+        "img": "./src/ressources/img/cards/McDoAuCalme.png",
         "rarity": "Common"
     },
     {
@@ -1229,7 +1229,7 @@
         "collection": "18 Ans Girafon",
         "state": "Original",
         "scrap": 50,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432602189770763/BeerPongForce.png",
+        "img": "./src/ressources/img/cards/BeerPongForce.png",
         "rarity": "Legendary"
     },
     {
@@ -1238,7 +1238,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 25,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432599786442812/PauseTactique.png",
+        "img": "./src/ressources/img/cards/PauseTactique.png",
         "rarity": "Funny"
     },
     {
@@ -1247,7 +1247,7 @@
         "collection": "18 Ans Aesa",
         "state": "Original",
         "scrap": 25,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432588948340767/RockBrulure.png",
+        "img": "./src/ressources/img/cards/RockBrulure.png",
         "rarity": "Funny"
     },
     {
@@ -1256,7 +1256,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 25,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432588457623632/OhTaGueule.png",
+        "img": "./src/ressources/img/cards/OhTaGueule.png",
         "rarity": "Funny"
     },
     {
@@ -1265,7 +1265,7 @@
         "collection": "18 Ans Girafon",
         "state": "Original",
         "scrap": 10,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432588054954134/RetourDifficile.png",
+        "img": "./src/ressources/img/cards/RetourDifficile.png",
         "rarity": "Common"
     },
     {
@@ -1274,7 +1274,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 0,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432587711033384/AvecDelicatesse.png",
+        "img": "./src/ressources/img/cards/AvecDelicatesse.png",
         "rarity": "Deprecated"
     },
     {
@@ -1283,7 +1283,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 10,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432587169960046/GamingWin.png",
+        "img": "./src/ressources/img/cards/GamingWin.png",
         "rarity": "Common"
     },
     {
@@ -1292,7 +1292,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 25,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432586389831720/PiouPiou.png",
+        "img": "./src/ressources/img/cards/PiouPiou.png",
         "rarity": "Funny"
     },
     {
@@ -1301,7 +1301,7 @@
         "collection": "/",
         "state": "Original",
         "scrap": 50,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432586066874368/SoireeSTI2D.png",
+        "img": "./src/ressources/img/cards/SoireeSTI2D.png",
         "rarity": "Legendary"
     },
     {
@@ -1310,7 +1310,7 @@
         "collection": "Girafon Memories",
         "state": "Original",
         "scrap": 25,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432585764872252/MiniGirafon.png",
+        "img": "./src/ressources/img/cards/MiniGirafon.png",
         "rarity": "Funny"
     },
     {
@@ -1319,7 +1319,7 @@
         "collection": "18 Ans Aesa",
         "state": "Original",
         "scrap": 10,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432585433526344/FocusNone.png",
+        "img": "./src/ressources/img/cards/FocusNone.png",
         "rarity": "Common"
     },
     {
@@ -1328,7 +1328,7 @@
         "collection": "18 Ans Aesa",
         "state": "Original",
         "scrap": 0,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432585165099028/DerriereUnBar.png",
+        "img": "./src/ressources/img/cards/DerriereUnBar.png",
         "rarity": "Deprecated"
     },
     {
@@ -1337,7 +1337,7 @@
         "collection": "18 Ans Aesa",
         "state": "Original",
         "scrap": 10,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432575115534336/GroupeMultiple.png",
+        "img": "./src/ressources/img/cards/GroupeMultiple.png",
         "rarity": "Common"
     },
     {
@@ -1346,7 +1346,7 @@
         "collection": "18 Ans Girafon",
         "state": "Original",
         "scrap": 100,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432574712885248/PotesBierresEtPiscine.png",
+        "img": "./src/ressources/img/cards/PotesBierresEtPiscine.png",
         "rarity": "Memories"
     },
     {
@@ -1355,7 +1355,7 @@
         "collection": "18 Ans Girafon",
         "state": "Original",
         "scrap": 25,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432574385737819/TireursDElite.png",
+        "img": "./src/ressources/img/cards/TireursDElite.png",
         "rarity": "Funny"
     },
     {
@@ -1364,7 +1364,7 @@
         "collection": "18 Ans Aesa",
         "state": "Original",
         "scrap": 25,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432574041784391/ChoixFrigoEtBosse.png",
+        "img": "./src/ressources/img/cards/ChoixFrigoEtBosse.png",
         "rarity": "Funny"
     },
     {
@@ -1373,7 +1373,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 200,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432573672689695/RelookingDIY.png",
+        "img": "./src/ressources/img/cards/RelookingDIY.png",
         "rarity": "Classified"
     },
     {
@@ -1382,7 +1382,7 @@
         "collection": "Bal De Fin D'Année",
         "state": "Original",
         "scrap": 50,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432573341351936/EtEncoreUnVerre.png",
+        "img": "./src/ressources/img/cards/EtEncoreUnVerre.png",
         "rarity": "Legendary"
     },
     {
@@ -1391,7 +1391,7 @@
         "collection": "18 Ans Aesa",
         "state": "Original",
         "scrap": 10,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432572980625478/LendemainDifficile.png",
+        "img": "./src/ressources/img/cards/LendemainDifficile.png",
         "rarity": "Common"
     },
     {
@@ -1400,7 +1400,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Original",
         "scrap": 200,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432572670251128/RelookingDIYExtreme.png",
+        "img": "./src/ressources/img/cards/RelookingDIYExtreme.png",
         "rarity": "Classified"
     },
     {
@@ -1409,7 +1409,7 @@
         "collection": "Cadeaux 18 Ans",
         "state": "Original",
         "scrap": 25,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432572347306065/OnFaitAvecCeQuOnA.png",
+        "img": "./src/ressources/img/cards/OnFaitAvecCeQuOnA.png",
         "rarity": "Funny"
     },
     {
@@ -1418,7 +1418,7 @@
         "collection": "18 Ans Aesa",
         "state": "Original",
         "scrap": 0,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432572049498123/ToutVaBien.png",
+        "img": "./src/ressources/img/cards/ToutVaBien.png",
         "rarity": "Deprecated"
     },
     {
@@ -1427,7 +1427,7 @@
         "collection": "18 Ans Aesa",
         "state": "Original",
         "scrap": 10,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432477375664189/UnBarATenir.png",
+        "img": "./src/ressources/img/cards/UnBarATenir.png",
         "rarity": "Common"
     },
     {
@@ -1436,7 +1436,7 @@
         "collection": "Bal De Fin D'Année",
         "state": "Original",
         "scrap": 25,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432476461301781/BainDeMinuit.png",
+        "img": "./src/ressources/img/cards/BainDeMinuit.png",
         "rarity": "Funny"
     },
     {
@@ -1445,7 +1445,7 @@
         "collection": "18 Ans Aesa",
         "state": "Original",
         "scrap": 25,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432475836362804/PetitePause.png",
+        "img": "./src/ressources/img/cards/PetitePause.png",
         "rarity": "Funny"
     },
     {
@@ -1454,7 +1454,7 @@
         "collection": "18 Ans Aesa",
         "state": "Original",
         "scrap": 0,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432474737451048/DiscussionAuBar.png",
+        "img": "./src/ressources/img/cards/DiscussionAuBar.png",
         "rarity": "Deprecated"
     },
     {
@@ -1463,7 +1463,7 @@
         "collection": "18 Ans Aesa",
         "state": "Original",
         "scrap": 0,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432474737451048/DiscussionAuBar.png",
+        "img": "./src/ressources/img/cards/DiscussionAuBar.png",
         "rarity": "Deprecated"
     },
     {
@@ -1472,7 +1472,7 @@
         "collection": "Cadeaux 18 Ans",
         "state": "Original",
         "scrap": 0,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432474297057351/CadeauSurprise.png",
+        "img": "./src/ressources/img/cards/CadeauSurprise.png",
         "rarity": "Deprecated"
     },
     {
@@ -1481,7 +1481,7 @@
         "collection": "Bord De Loire",
         "state": "Original",
         "scrap": 10,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432473953120336/DebatHouleux.png",
+        "img": "./src/ressources/img/cards/DebatHouleux.png",
         "rarity": "Common"
     },
     {
@@ -1490,7 +1490,7 @@
         "collection": "18 Ans Girafon",
         "state": "Original",
         "scrap": 100,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432473525309470/PiscineA3H.png",
+        "img": "./src/ressources/img/cards/PiscineA3H.png",
         "rarity": "Memories"
     },
     {
@@ -1499,7 +1499,7 @@
         "collection": "Bal De Fin D'Année",
         "state": "Original",
         "scrap": 100,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432473110065182/SoldatATerre.png",
+        "img": "./src/ressources/img/cards/SoldatATerre.png",
         "rarity": "Memories"
     },
     {
@@ -1508,7 +1508,7 @@
         "collection": "Bal De Fin D'Année",
         "state": "Original",
         "scrap": 10,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432472728391741/JusquaLaToutVaBien.png",
+        "img": "./src/ressources/img/cards/JusquaLaToutVaBien.png",
         "rarity": "Common"
     },
     {
@@ -1517,7 +1517,7 @@
         "collection": "18 Ans Aesa",
         "state": "Original",
         "scrap": 0,
-        "img": "https://cdn.discordapp.com/attachments/947917639840329760/1001432472036327504/TestDAlcoolemieDIY.png",
+        "img": "./src/ressources/img/cards/TestDAlcoolemieDIY.png",
         "rarity": "Deprecated"
     },
     {
@@ -1526,7 +1526,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796196744495114/Instrospection.png",
+        "img": "./src/ressources/img/cards/Instrospection.png",
         "rarity": "Common"
     },
     {
@@ -1535,7 +1535,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796196396380180/RechargeEnCours.png",
+        "img": "./src/ressources/img/cards/RechargeEnCours.png",
         "rarity": "Common"
     },
     {
@@ -1544,7 +1544,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796196018888714/CheckCa.png",
+        "img": "./src/ressources/img/cards/CheckCa.png",
         "rarity": "Funny"
     },
     {
@@ -1553,7 +1553,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796195641393202/Perdu.png",
+        "img": "./src/ressources/img/cards/Perdu.png",
         "rarity": "Common"
     },
     {
@@ -1562,7 +1562,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796195263918180/UneSombreHistoire.png",
+        "img": "./src/ressources/img/cards/UneSombreHistoire.png",
         "rarity": "Funny"
     },
     {
@@ -1571,7 +1571,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796194936758403/FranchementCEstSoft.png",
+        "img": "./src/ressources/img/cards/FranchementCEstSoft.png",
         "rarity": "Common"
     },
     {
@@ -1580,7 +1580,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796194542485585/MenaceIncomprehensionEtAlcoolisme.png",
+        "img": "./src/ressources/img/cards/MenaceIncomprehensionEtAlcoolisme.png",
         "rarity": "Funny"
     },
     {
@@ -1589,7 +1589,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796178700603432/LaDreamTeam.png",
+        "img": "./src/ressources/img/cards/LaDreamTeam.png",
         "rarity": "Common"
     },
     {
@@ -1598,7 +1598,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796178218274916/ViseeDePro.png",
+        "img": "./src/ressources/img/cards/ViseeDePro.png",
         "rarity": "Funny"
     },
     {
@@ -1607,7 +1607,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796177832382465/DiscussionDeTemporisation.png",
+        "img": "./src/ressources/img/cards/DiscussionDeTemporisation.png",
         "rarity": "Common"
     },
     {
@@ -1616,7 +1616,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796177446514758/RedisCaPourVoir.png",
+        "img": "./src/ressources/img/cards/RedisCaPourVoir.png",
         "rarity": "Common"
     },
     {
@@ -1625,7 +1625,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796177027092532/CestPourToi.png",
+        "img": "./src/ressources/img/cards/CestPourToi.png",
         "rarity": "Common"
     },
     {
@@ -1634,7 +1634,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796176670560317/PingPongEtDebrief.png",
+        "img": "./src/ressources/img/cards/PingPongEtDebrief.png",
         "rarity": "Common"
     },
     {
@@ -1643,7 +1643,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796176318246943/JustePourquoi.png",
+        "img": "./src/ressources/img/cards/JustePourquoi.png",
         "rarity": "Legendary"
     },
     {
@@ -1652,7 +1652,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796175991099412/MateMoiCa.png",
+        "img": "./src/ressources/img/cards/MateMoiCa.png",
         "rarity": "Legendary"
     },
     {
@@ -1661,7 +1661,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 100,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796175718453278/LesJoueursEtLAlcoolique.png",
+        "img": "./src/ressources/img/cards/LesJoueursEtLAlcoolique.png",
         "rarity": "Memories"
     },
     {
@@ -1670,7 +1670,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796175366139934/Pool.png",
+        "img": "./src/ressources/img/cards/Pool.png",
         "rarity": "Funny"
     },
     {
@@ -1679,7 +1679,7 @@
         "collection": "Soirée En Boîte",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796155585789983/EnBoite.png",
+        "img": "./src/ressources/img/cards/EnBoite.png",
         "rarity": "Common"
     },
     {
@@ -1688,7 +1688,7 @@
         "collection": "Soirée En Boîte",
         "state": "Original",
         "scrap": 200,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796155292196915/Vomito.png",
+        "img": "./src/ressources/img/cards/Vomito.png",
         "rarity": "Classified"
     },
     {
@@ -1697,7 +1697,7 @@
         "collection": "Soirée En Boîte",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796154986024970/POVCombienDeVerres.png",
+        "img": "./src/ressources/img/cards/POVCombienDeVerres.png",
         "rarity": "Funny"
     },
     {
@@ -1706,7 +1706,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 100,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796154696597554/Sante.png",
+        "img": "./src/ressources/img/cards/Sante.png",
         "rarity": "Memories"
     },
     {
@@ -1715,7 +1715,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796154373644338/BudDeLAn2023.png",
+        "img": "./src/ressources/img/cards/BudDeLAn2023.png",
         "rarity": "Common"
     },
     {
@@ -1724,7 +1724,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796154038112327/QuEstCeQueTuAs.png",
+        "img": "./src/ressources/img/cards/QuEstCeQueTuAs.png",
         "rarity": "Funny"
     },
     {
@@ -1733,7 +1733,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796153731907725/StrategieDEquipe.png",
+        "img": "./src/ressources/img/cards/StrategieDEquipe.png",
         "rarity": "Funny"
     },
     {
@@ -1742,7 +1742,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796153408954378/FaireBoireOuBoire.png",
+        "img": "./src/ressources/img/cards/FaireBoireOuBoire.png",
         "rarity": "Legendary"
     },
     {
@@ -1751,7 +1751,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 100,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796153157308416/TargetAcquired.png",
+        "img": "./src/ressources/img/cards/TargetAcquired.png",
         "rarity": "Memories"
     },
     {
@@ -1760,7 +1760,7 @@
         "collection": "Nouvel An 2023",
         "state": "Original",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1059796152855298068/AtThisMomentWeKnew.png",
+        "img": "./src/ressources/img/cards/AtThisMomentWeKnew.png",
         "rarity": "Funny"
     },
     {
@@ -1769,7 +1769,7 @@
         "collection": "18 Ans Raphaël",
         "state": "Originale",
         "scrap": 100,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1084834839200542831/UnNouveauTapis.png",
+        "img": "./src/ressources/img/cards/UnNouveauTapis.png",
         "rarity": "Memories"
     },
     {
@@ -1778,7 +1778,7 @@
         "collection": "18 Ans Raphaël",
         "state": "Originale",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1084834839439626431/GrandCruEnDevenir.png",
+        "img": "./src/ressources/img/cards/GrandCruEnDevenir.png",
         "rarity": "Funny"
     },
     {
@@ -1787,7 +1787,7 @@
         "collection": "18 Ans Raphaël",
         "state": "Originale",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1084834839687069827/KamouloxHumain.png",
+        "img": "./src/ressources/img/cards/KamouloxHumain.png",
         "rarity": "Common"
     },
     {
@@ -1796,7 +1796,7 @@
         "collection": "18 Ans Raphaël",
         "state": "Originale",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1084834839963906048/LaPlageALaFete.png",
+        "img": "./src/ressources/img/cards/LaPlageALaFete.png",
         "rarity": "Common"
     },
     {
@@ -1805,7 +1805,7 @@
         "collection": "18 Ans Raphaël",
         "state": "Originale",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1084834840186212464/LaValseDeLEspace.png",
+        "img": "./src/ressources/img/cards/LaValseDeLEspace.png",
         "rarity": "Funny"
     },
     {
@@ -1814,7 +1814,7 @@
         "collection": "18 Ans Raphaël",
         "state": "Originale",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1084834840425267272/LeCowboyDAmbillou.png",
+        "img": "./src/ressources/img/cards/LeCowboyDAmbillou.png",
         "rarity": "Common"
     },
     {
@@ -1823,7 +1823,7 @@
         "collection": "18 Ans Raphaël",
         "state": "Originale",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1084834840651771914/Les2FontLaPaire.png",
+        "img": "./src/ressources/img/cards/Les2FontLaPaire.png",
         "rarity": "Funny"
     },
     {
@@ -1832,7 +1832,7 @@
         "collection": "18 Ans Raphaël",
         "state": "Originale",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1084834840651771914/Les2FontLaPaire.png",
+        "img": "./src/ressources/img/cards/Les2FontLaPaire.png",
         "rarity": "Funny"
     },
     {
@@ -1841,7 +1841,7 @@
         "collection": "18 Ans Raphaël",
         "state": "Originale",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1084834840882466826/PompierPrincesse.png",
+        "img": "./src/ressources/img/cards/PompierPrincesse.png",
         "rarity": "Legendary"
     },
     {
@@ -1850,7 +1850,7 @@
         "collection": "18 Ans Raphaël",
         "state": "Originale",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1084834841184436274/TapisEmpacte.png",
+        "img": "./src/ressources/img/cards/TapisEmpacte.png",
         "rarity": "Funny"
     },
     {
@@ -1859,7 +1859,7 @@
         "collection": "Virgile en Prépa",
         "state": "Originale",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1086961682296877056/MeufBiereRestau.png",
+        "img": "./src/ressources/img/cards/MeufBiereRestau.png",
         "rarity": "Recomposed"
     },
     {
@@ -1868,7 +1868,7 @@
         "collection": "Virgile en Prépa",
         "state": "Originale",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1086961682527559770/PremierDateOblige.png",
+        "img": "./src/ressources/img/cards/PremierDateOblige.png",
         "rarity": "Recomposed"
     },
     {
@@ -1877,7 +1877,7 @@
         "collection": "Virgile en Prépa",
         "state": "Originale",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1086961682787602472/SortieEnVille.png",
+        "img": "./src/ressources/img/cards/SortieEnVille.png",
         "rarity": "Recomposed"
     },
     {
@@ -1886,7 +1886,7 @@
         "collection": "Virgile en Prépa",
         "state": "Originale",
         "scrap": 200,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1086961683018297384/LaTeteDansLCul.png",
+        "img": "./src/ressources/img/cards/LaTeteDansLCul.png",
         "rarity": "Classified"
     },
     {
@@ -1895,7 +1895,7 @@
         "collection": "Virgile en Prépa",
         "state": "Originale",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1086961683299311636/MiroirMiroir.png",
+        "img": "./src/ressources/img/cards/MiroirMiroir.png",
         "rarity": "Recomposed"
     },
     {
@@ -1904,7 +1904,7 @@
         "collection": "Virgile en Prépa",
         "state": "Originale",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1086961683529994260/FuturMaitreDHotel.png",
+        "img": "./src/ressources/img/cards/FuturMaitreDHotel.png",
         "rarity": "Recomposed"
     },
     {
@@ -1913,7 +1913,7 @@
         "collection": "Virgile en Prépa",
         "state": "Originale",
         "scrap": 75,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1086961683852963910/VenezEnPrepa.png",
+        "img": "./src/ressources/img/cards/VenezEnPrepa.png",
         "rarity": "Recomposed"
     },
     {
@@ -1922,7 +1922,7 @@
         "collection": "19 Ans Pierre-Louis",
         "state": "Originale",
         "scrap": 200,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1096495036289536070/ModelePhoto.png",
+        "img": "./src/ressources/img/cards/ModelePhoto.png",
         "rarity": "Classified"
     },
     {
@@ -1931,7 +1931,7 @@
         "collection": "19 Ans Pierre-Louis",
         "state": "Originale",
         "scrap": 100,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1096495036625072128/SimpleRegret.png",
+        "img": "./src/ressources/img/cards/SimpleRegret.png",
         "rarity": "Memories"
     },
     {
@@ -1940,7 +1940,7 @@
         "collection": "19 Ans Pierre-Louis",
         "state": "Originale",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1096495036948041778/DanceForPatoche.png",
+        "img": "./src/ressources/img/cards/DanceForPatoche.png",
         "rarity": "Common"
     },
     {
@@ -1949,7 +1949,7 @@
         "collection": "19 Ans Pierre-Louis",
         "state": "Originale",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1096495037245816902/UnCoupleEtLaRanDoum.png",
+        "img": "./src/ressources/img/cards/UnCoupleEtLaRanDoum.png",
         "rarity": "Common"
     },
     {
@@ -1958,7 +1958,7 @@
         "collection": "19 Ans Pierre-Louis",
         "state": "Originale",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1096495037526847598/PhotoDossier.png",
+        "img": "./src/ressources/img/cards/PhotoDossier.png",
         "rarity": "Funny"
     },
     {
@@ -1967,7 +1967,7 @@
         "collection": "19 Ans Pierre-Louis",
         "state": "Originale",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1096495037824651264/1Image2Ambiances.png",
+        "img": "./src/ressources/img/cards/1Image2Ambiances.png",
         "rarity": "Legendary"
     },
     {
@@ -1976,7 +1976,7 @@
         "collection": "19 Ans Pierre-Louis",
         "state": "Originale",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1096495038147604490/DurPeage.png",
+        "img": "./src/ressources/img/cards/DurPeage.png",
         "rarity": "Funny"
     },
     {
@@ -1985,7 +1985,7 @@
         "collection": "19 Ans Pierre-Louis",
         "state": "Originale",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1096495038432825385/PhotographeEnDevenir.png",
+        "img": "./src/ressources/img/cards/PhotographeEnDevenir.png",
         "rarity": "Common"
     },
     {
@@ -1994,7 +1994,7 @@
         "collection": "19 Ans Pierre-Louis",
         "state": "Originale",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1096495038709629029/CadeauOriginal.png",
+        "img": "./src/ressources/img/cards/CadeauOriginal.png",
         "rarity": "Legendary"
     },
     {
@@ -2003,7 +2003,7 @@
         "collection": "19 Ans Pierre-Louis",
         "state": "Originale",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1096495038965493760/PoseeAvecLeProtege.png",
+        "img": "./src/ressources/img/cards/PoseeAvecLeProtege.png",
         "rarity": "Common"
     },
     {
@@ -2012,7 +2012,7 @@
         "collection": "Drôle d'Aventure",
         "state": "Originale",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1096499647909998715/ForcesInegales.png",
+        "img": "./src/ressources/img/cards/ForcesInegales.png",
         "rarity": "Legendary"
     },
     {
@@ -2021,7 +2021,7 @@
         "collection": "Drôle d'Aventure",
         "state": "Originale",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1096499648304255127/RegimeParticulier.png",
+        "img": "./src/ressources/img/cards/RegimeParticulier.png",
         "rarity": "Funny"
     },
     {
@@ -2030,7 +2030,7 @@
         "collection": "Drôle d'Aventure",
         "state": "Originale",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1096499648623034522/AirCoolingDIY.png",
+        "img": "./src/ressources/img/cards/AirCoolingDIY.png",
         "rarity": "Legendary"
     },
     {
@@ -2039,7 +2039,7 @@
         "collection": "Drôle d'Aventure",
         "state": "Originale",
         "scrap": 50,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1096499648857911296/ReposEtRealisation.png",
+        "img": "./src/ressources/img/cards/ReposEtRealisation.png",
         "rarity": "Legendary"
     },
     {
@@ -2048,7 +2048,7 @@
         "collection": "Drôle d'Aventure",
         "state": "Originale",
         "scrap": 25,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1096499649126338630/CalculDifficile.png",
+        "img": "./src/ressources/img/cards/CalculDifficile.png",
         "rarity": "Funny"
     },
     {
@@ -2057,7 +2057,7 @@
         "collection": "Drôle d'Aventure",
         "state": "Originale",
         "scrap": 10,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1096499649398980759/PhotographeAmateur.png",
+        "img": "./src/ressources/img/cards/PhotographeAmateur.png",
         "rarity": "Common"
     },
     {
@@ -2066,7 +2066,7 @@
         "collection": "Drôle d'Aventure",
         "state": "Originale",
         "scrap": 100,
-        "img": "https://media.discordapp.net/attachments/947917639840329760/1096499649671606282/UneRanDoum.png",
+        "img": "./src/ressources/img/cards/UneRanDoum.png",
         "rarity": "Memories"
     },
     {
@@ -2075,7 +2075,7 @@
         "collection": "/",
         "state": "Originale",
         "scrap": 50,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/CodeCinemaEtFeerieBlink.png",
+        "img": "./src/updates/newcards/1YearLater/CodeCinemaEtFeerieBlink.png",
         "rarity": "Legendary"
     },
     {
@@ -2084,7 +2084,7 @@
         "collection": "Nouvel An 2024",
         "state": "Originale",
         "scrap": 25,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/3En1.png",
+        "img": "./src/updates/newcards/1YearLater/3En1.png",
         "rarity": "Funny"
     },
     {
@@ -2093,7 +2093,7 @@
         "collection": "/",
         "state": "Originale",
         "scrap": 10,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/3PotesAuBar.png",
+        "img": "./src/updates/newcards/1YearLater/3PotesAuBar.png",
         "rarity": "Common"
     },
     {
@@ -2102,7 +2102,7 @@
         "collection": "Sables-D'Olonne 2024",
         "state": "Originale",
         "scrap": 100,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/3PotesAuxSables.png",
+        "img": "./src/updates/newcards/1YearLater/3PotesAuxSables.png",
         "rarity": "Memories"
     },
     {
@@ -2111,7 +2111,7 @@
         "collection": "/",
         "state": "Originale",
         "scrap": 10,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/20KilosDeMangas.png",
+        "img": "./src/updates/newcards/1YearLater/20KilosDeMangas.png",
         "rarity": "Common"
     },
     {
@@ -2120,7 +2120,7 @@
         "collection": "Nouvel An 2024",
         "state": "Originale",
         "scrap": 25,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/AesaDoudou.png",
+        "img": "./src/updates/newcards/1YearLater/AesaDoudou.png",
         "rarity": "Funny"
     },
     {
@@ -2129,7 +2129,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Originale",
         "scrap": 25,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/AesaGrrr.png",
+        "img": "./src/updates/newcards/1YearLater/AesaGrrr.png",
         "rarity": "Funny"
     },
     {
@@ -2138,7 +2138,7 @@
         "collection": "Nouvel An 2024",
         "state": "Originale",
         "scrap": 10,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/AperoCake.png",
+        "img": "./src/updates/newcards/1YearLater/AperoCake.png",
         "rarity": "Common"
     },
     {
@@ -2147,7 +2147,7 @@
         "collection": "/",
         "state": "Originale",
         "scrap": 10,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/CestLeNord.png",
+        "img": "./src/updates/newcards/1YearLater/CestLeNord.png",
         "rarity": "Common"
     },
     {
@@ -2156,7 +2156,7 @@
         "collection": "/",
         "state": "Originale",
         "scrap": 200,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/CodeCinemaEtFeerie.png",
+        "img": "./src/updates/newcards/1YearLater/CodeCinemaEtFeerie.png",
         "rarity": "Classified"
     },
     {
@@ -2165,7 +2165,7 @@
         "collection": "/",
         "state": "Originale",
         "scrap": 10,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/PierreLouisRoi.png",
+        "img": "./src/updates/newcards/1YearLater/PierreLouisRoi.png",
         "rarity": "Common"
     },
     {
@@ -2174,7 +2174,7 @@
         "collection": "/",
         "state": "Originale",
         "scrap": 50,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/Contexte.png",
+        "img": "./src/updates/newcards/1YearLater/Contexte.png",
         "rarity": "Legendary"
     },
     {
@@ -2183,7 +2183,7 @@
         "collection": "Sables-D'Olonne 2024",
         "state": "Originale",
         "scrap": 25,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/CourseNu.png",
+        "img": "./src/updates/newcards/1YearLater/CourseNu.png",
         "rarity": "Funny"
     },
     {
@@ -2192,7 +2192,7 @@
         "collection": "/",
         "state": "Originale",
         "scrap": 50,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/Deguised.png",
+        "img": "./src/updates/newcards/1YearLater/Deguised.png",
         "rarity": "Legendary"
     },
     {
@@ -2201,7 +2201,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Originale",
         "scrap": 10,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/DegustationEnAveugle.png",
+        "img": "./src/updates/newcards/1YearLater/DegustationEnAveugle.png",
         "rarity": "Common"
     },
     {
@@ -2210,7 +2210,7 @@
         "collection": "Nouvel An 2024",
         "state": "Originale",
         "scrap": 25,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/DoubleKOTechnique.png",
+        "img": "./src/updates/newcards/1YearLater/DoubleKOTechnique.png",
         "rarity": "Funny"
     },
     {
@@ -2219,7 +2219,7 @@
         "collection": "Sables-D'Olonne 2024",
         "state": "Originale",
         "scrap": 10,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/HugoBolt.png",
+        "img": "./src/updates/newcards/1YearLater/HugoBolt.png",
         "rarity": "Common"
     },
     {
@@ -2228,7 +2228,7 @@
         "collection": "/",
         "state": "Originale",
         "scrap": 10,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/JeunesseEnPeril.png",
+        "img": "./src/updates/newcards/1YearLater/JeunesseEnPeril.png",
         "rarity": "Common"
     },
     {
@@ -2237,7 +2237,7 @@
         "collection": "Nouvel An 2024",
         "state": "Originale",
         "scrap": 25,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/Kesturgarde.png",
+        "img": "./src/updates/newcards/1YearLater/Kesturgarde.png",
         "rarity": "Funny"
     },
     {
@@ -2246,7 +2246,7 @@
         "collection": "Sables-D'Olonne 2024",
         "state": "Originale",
         "scrap": 50,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/LePenseurDeRhodes.png",
+        "img": "./src/updates/newcards/1YearLater/LePenseurDeRhodes.png",
         "rarity": "Legendary"
     },
     {
@@ -2255,7 +2255,7 @@
         "collection": "Nouvel An 2024",
         "state": "Originale",
         "scrap": 10,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/UnRevenant.png",
+        "img": "./src/updates/newcards/1YearLater/UnRevenant.png",
         "rarity": "Common"
     },
     {
@@ -2264,7 +2264,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Originale",
         "scrap": 25,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/SousEmprise.png",
+        "img": "./src/updates/newcards/1YearLater/SousEmprise.png",
         "rarity": "Funny"
     },
     {
@@ -2273,7 +2273,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Originale",
         "scrap": 25,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/SousEmprise2.png",
+        "img": "./src/updates/newcards/1YearLater/SousEmprise2.png",
         "rarity": "Funny"
     },
     {
@@ -2282,7 +2282,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Originale",
         "scrap": 10,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/SouvenirsDeSoiree.png",
+        "img": "./src/updates/newcards/1YearLater/SouvenirsDeSoiree.png",
         "rarity": "Common"
     },
     {
@@ -2291,7 +2291,7 @@
         "collection": "Soirée Trop Arrosée",
         "state": "Originale",
         "scrap": 25,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/SportifDansLAme.png",
+        "img": "./src/updates/newcards/1YearLater/SportifDansLAme.png",
         "rarity": "Funny"
     },
     {
@@ -2300,7 +2300,7 @@
         "collection": "/",
         "state": "Originale",
         "scrap": 10,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/SportifOlympique.png",
+        "img": "./src/updates/newcards/1YearLater/SportifOlympique.png",
         "rarity": "Common"
     },
     {
@@ -2309,7 +2309,7 @@
         "collection": "/",
         "state": "Originale",
         "scrap": 25,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/ToujoursLaPourKC.png",
+        "img": "./src/updates/newcards/1YearLater/ToujoursLaPourKC.png",
         "rarity": "Funny"
     },
     {
@@ -2318,7 +2318,7 @@
         "collection": "/",
         "state": "Originale",
         "scrap": 200,
-        "img": "https://raw.githubusercontent.com/Proxyfil/Hibouden/main/updates/newcards/1YearLater/UneBelleBrochette.png",
+        "img": "./src/updates/newcards/1YearLater/UneBelleBrochette.png",
         "rarity": "Classified"
     }
 ]
