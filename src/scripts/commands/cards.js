@@ -77,7 +77,7 @@ module.exports = {
         let card2 = await loadImage(cards[1]["img"])
         let card3 = await loadImage(cards[2]["img"])
 
-        let cards_mockup = {"Common": ".src/ressources/img/card-common.png","Funny":".src/ressources/img/card-funny.png","Legendary":".src/ressources/img/card-legendary.png","Recomposed":".src/ressources/img/card-recomposed.png","Memories":".src/ressources/img/card-memories.png","Classified":".src/ressources/img/card-classified.png","Deprecated":".src/ressources/img/card-deprecated.png","NFT":".src/ressources/img/card-nft.png"}
+        let cards_mockup = {"Common": "./src/ressources/img/card-common.png","Funny":"./src/ressources/img/card-funny.png","Legendary":"./src/ressources/img/card-legendary.png","Recomposed":"./src/ressources/img/card-recomposed.png","Memories":"./src/ressources/img/card-memories.png","Classified":"./src/ressources/img/card-classified.png","Deprecated":"./src/ressources/img/card-deprecated.png","NFT":"./src/ressources/img/card-nft.png"}
         let mockup_card1 = await loadImage(cards_mockup[cards[0]["rarity"]])
         let mockup_card2 = await loadImage(cards_mockup[cards[1]["rarity"]])
         let mockup_card3 = await loadImage(cards_mockup[cards[2]["rarity"]])
@@ -171,7 +171,7 @@ module.exports = {
 
         let card1 = await loadImage(card["img"])
 
-        let cards_mockup = {"Common": ".src/ressources/img/card-common.png","Funny":".src/ressources/img/card-funny.png","Legendary":".src/ressources/img/card-legendary.png","Recomposed":".src/ressources/img/card-recomposed.png","Memories":".src/ressources/img/card-memories.png","Classified":".src/ressources/img/card-classified.png","Deprecated":".src/ressources/img/card-deprecated.png","NFT":".src/ressources/img/card-nft.png"}
+        let cards_mockup = {"Common": "./src/ressources/img/card-common.png","Funny":"./src/ressources/img/card-funny.png","Legendary":"./src/ressources/img/card-legendary.png","Recomposed":"./src/ressources/img/card-recomposed.png","Memories":"./src/ressources/img/card-memories.png","Classified":"./src/ressources/img/card-classified.png","Deprecated":"./src/ressources/img/card-deprecated.png","NFT":"./src/ressources/img/card-nft.png"}
         let mockup_card = await loadImage(cards_mockup[card["rarity"]])
 
         let card_pos = {"card":card,"pos":{"x":50,"y":50},"img":card1}
