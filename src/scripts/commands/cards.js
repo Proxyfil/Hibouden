@@ -1,7 +1,7 @@
 const { Client, Message, MessageEmbed, MessageAttachment, MessageActionRow, MessageButton } = require('discord.js');
 const cards_db = require('../../database/cards.json')
 const { createCanvas, loadImage, registerFont } = require('canvas')
-registerFont('./src/ressources/fonts/corpo.otf', { family: 'Corporate' }) //Add Corpo Font
+//registerFont('./src/ressources/fonts/corpo.ttf', { family: 'Corporate' }) //Add Corpo Font
 const fs = require('fs');
 const cmd_debug = require('./debug.js')
 
@@ -165,7 +165,7 @@ module.exports = {
 
         const canvas = createCanvas(width, height)
         const context = canvas.getContext('2d')
-        context.font = '50px "Corporate" 4px 4px'
+        context.font = '50px "Inter Variable" 4px 4px'
         context.fillStyle = "#101010";
         context.fillRect(0, 0, canvas.width, canvas.height);
 
