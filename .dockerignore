@@ -1,0 +1,8 @@
+node_modules
+.github
+.helm
+website
+updates
+**/*.md
+src/ressources/img/cards
+src/ressources/img/NFTs
